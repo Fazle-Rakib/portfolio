@@ -47,7 +47,7 @@
     "vite-plugin-pages": "^0.28.0",
     "vite-plugin-pwa": "^0.14.1",
     "vite-plugin-vue-layouts": "^0.7.0",
-    "vite-plugin-vue-markdown": "^0.22.1"
+    "vite-plugin-vue-markdown": "^0.23.5"
   },
   "resolutions": {
     "eslint": "^8.40.0",
