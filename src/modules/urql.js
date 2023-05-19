@@ -1,7 +1,6 @@
 import urql, { cacheExchange, fetchExchange } from '@urql/vue'
 
 export const install = ({ isClient, app }) => {
-  // if (!isClient) return
 
   app.use(urql, {
     url: 'https://api.github.com/graphql',
