@@ -2,7 +2,7 @@
   <header class="header">
     <div class="container">
       <router-link to="/">
-        <h3>Jeferson Brito</h3>
+        <h3>Fazle Rabbi Rakib</h3>
       </router-link>
       <nav class="navbar">
         <ul class="navbar-menu">

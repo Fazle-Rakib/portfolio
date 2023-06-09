@@ -2,7 +2,7 @@
   <div :class="classes">
     <AppLink
       isExternal
-      to="https://github.com/jeferson-sb"
+      to="https://github.com/fazle-rakib"
       aria-label="My Github"
       title="My Github"
     >
@@ -21,7 +21,7 @@
     </AppLink>
     <AppLink
       isExternal
-      to="https://www.linkedin.com/in/jeferson-sb/"
+      to="https://www.linkedin.com/in/fazle-rakib/"
       aria-label="My LinkedIn Account"
       title="My LinkedIn"
     >
@@ -38,7 +38,7 @@
         />
       </svg>
     </AppLink>
-    <AppLink
+    <!-- <AppLink
       isExternal
       to="https://dev.to/jeferson_sb"
       aria-label="My Dev.to profile"
@@ -56,7 +56,7 @@
           fill="#F4F4F4"
         />
       </svg>
-    </AppLink>
+    </AppLink> -->
   </div>
 </template>
 

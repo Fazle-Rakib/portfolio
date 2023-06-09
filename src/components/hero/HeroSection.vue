@@ -1,7 +1,7 @@
 <template>
   <section class="hero container has-ellipse-curve">
     <div class="hero-content">
-      <h1 class="hero__headline">I'm Jeferson Brito</h1>
+      <h1 class="hero__headline">I'm Fazle Rabbi Rakib</h1>
       <p class="hero__description">
         Software Engineer that crafts things for the Web, heavy focused on
         front-end development enthusiastic and fascinated on UI design ✨

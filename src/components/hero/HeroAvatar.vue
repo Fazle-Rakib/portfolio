@@ -35,6 +35,7 @@ export default {
 .hero-avatar .hero-avatar__image img {
   clip-path: circle(70px at center);
   object-fit: cover;
+  /* transform: scale(2); */
 }
 
 .hero-avatar picture {
