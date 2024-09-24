@@ -54,6 +54,6 @@
     "eslint-config-airbnb-base": "^14.2.1"
   },
   "node": {
-    "volta" : "14.18.0"
+    "volta": "14.18.0"
   }
 }
