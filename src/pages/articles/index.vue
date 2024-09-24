@@ -4,10 +4,7 @@
       <div class="container">
         <h1 class="hero__headline">Articles</h1>
         <p class="hero__description">
-          Here you can find all of my published articles, tutorials and guides,
-          going from little css tips to software architecture, open source, user
-          experience and all sort of things. I hope you enjoy you're reading
-          📖👋
+           Here you can find my recent writings, blog, and research.
         </p>
       </div>
     </div>
@@ -31,9 +28,9 @@
 import { ref, onMounted, onUnmounted, computed } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 
-const title = 'Articles • Jeferson S. Brito'
+const title = 'Articles • F R Rakib'
 const description =
-  'Here you can find all of my articles, tutorials and guides, going from little css tips to software architecture, open source, user experience and so on'
+  'Here you can find my recent writings, blog, and research.'
 
 const main = ref(null)
 
@@ -66,7 +63,6 @@ useHead({
     { property: 'og:type', content: 'article' },
     { property: 'og:title', content: title },
     { property: 'og:description', content: description },
-    { property: 'og:url', content: `https://jefersonsilva.me${path}` },
     {
       property: 'twitter:title',
       content: title,
