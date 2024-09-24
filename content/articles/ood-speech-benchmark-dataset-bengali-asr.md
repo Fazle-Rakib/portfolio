@@ -3,7 +3,7 @@ id: 461327
 title: 'OOD-Speech: A Benchmark Dataset for Bengali ASR'
 slug: ood-speech-benchmark-dataset-bengali-asr
 published_at: 2023-09-23T16:00:00.000Z
-tags: machinelearning, nlp, asr, bengali, dataset,
+tags: nlp, asr, bengali, dataset
 excerpt: OOD-Speech is the largest Bengali ASR dataset designed for out-of-distribution benchmarking. Learn about its significance and applications in improving robust speech recognition.
 crosspostedOn:
 crosspostLink:
