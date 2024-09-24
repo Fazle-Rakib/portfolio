@@ -9,6 +9,7 @@
       :description="project?.description"
       :tags="project.tags"
       :github="project.github"
+      :demo="project.demo"
     />
   </section>
 </template>

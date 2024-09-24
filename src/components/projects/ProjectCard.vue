@@ -1,13 +1,15 @@
 <template>
   <div class="project-card">
     <figure class="project-thumbnail">
+      <a :href="demo">
       <img-lazy
-        :src="thumbnail"
+        :src="thumbnail_img"
         :alt="`${title} project screenshot`"
         class="project-card__image"
         width="600"
         height="220"
       />
+    </a>
     </figure>
     <div class="project-card__content">
       <div class="project-card__header">
@@ -33,6 +35,7 @@
 
 <script setup>
 import { computed, defineProps } from 'vue'
+import isValidUrl from '../../../lib/url/isValidUrl';
 
 const props = defineProps({
   thumbnail: String,
@@ -40,12 +43,18 @@ const props = defineProps({
   description: String,
   tags: String,
   github: String,
+  demo:String,
 })
 
 const titleSlug = props.title.toLowerCase().replaceAll(' ', '')
 
 const titleId = computed(() => `title-${titleSlug}`)
 const buttonId = computed(() => `button-${titleSlug}`)
+const thumbnail_img = computed(() => {
+  return isValidUrl(props.thumbnail)
+  ? props.thumbnail
+  : new URL(`/src/${props.thumbnail}`, import.meta.url).href
+})
 </script>
 
 <style scoped>
