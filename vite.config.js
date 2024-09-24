@@ -99,6 +99,11 @@ export default defineConfig({
   },
   server: {
     port: 3000,
+    hmr: true,
+    host: 'localhost',
+    watch: {
+      usePolling: true,
+    },
   },
   preview: {
     port: 8080,
