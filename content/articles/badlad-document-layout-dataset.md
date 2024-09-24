@@ -10,7 +10,7 @@ crosspostLink:
 url: https://dev.to/ml-researcher/badlad-bengali-document-layout-analysis-dataset
 path: /articles/badlad-bengali-document-layout-analysis-dataset
 canonicalUrl:
-cover_image: https://bengali-ai.org/images/badlad-cover.png
+cover_image: https://raw.githubusercontent.com/BengaliAI/bengaliai.github.io/main/images/badlad.png
 ---
 
 **BaDLAD** is the largest open-source dataset designed for **Bengali Document Layout Analysis**, offering thousands of document images across multiple domains. Released in **August 2023**, BaDLAD serves as a robust dataset for training machine learning models for Optical Character Recognition (OCR) and document structure analysis, specifically for Bengali documents.
@@ -31,6 +31,8 @@ In this blog, we’ll break down the key features of this dataset, its relevance
 **BaDLAD** stands for **Bengali Document Layout Analysis Dataset**, aimed at facilitating research and development in **OCR**, **layout analysis**, and document understanding for Bengali. This dataset is specifically designed for a wide variety of document types, including newspapers, legal forms, handwritten texts, and printed books.
 
 The main objective is to provide a **multi-domain resource** that can help train more sophisticated and **accurate document processing models**. Before BaDLAD, there was a significant gap in Bengali OCR capabilities, especially in understanding the complex document structures typical in South Asian scripts.
+
+![alt BaDLAD dataset](https://raw.githubusercontent.com/BengaliAI/bengaliai.github.io/main/images/badlad.png)
 
 ## Key Features of BaDLAD
 
