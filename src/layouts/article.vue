@@ -49,7 +49,7 @@ const route = useRoute()
 const title = route.meta.frontmatter?.title
 const tags = route.meta.frontmatter?.tags.split(',')
 const crosspostedOn = route.meta.frontmatter?.crosspostedOn
-const crosspostLink = route.meta.frontmatter?.crosspostedLink
+const crosspostLink = route.meta.frontmatter?.crosspostLink
 const publishedAt = route.meta.frontmatter?.published_at
 const canonicalUrl = `${config.siteUrl}${route.path}`
 const formattedDate = computed(() =>
