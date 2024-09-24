@@ -10,7 +10,7 @@ crosspostLink:
 url: https://arxiv.org/abs/2305.09688
 path: /articles/ood-speech-benchmark-dataset-bengali-asr
 canonicalUrl:
-cover_image: https://bengali-ai.org/images/ood-speech-cover.png
+cover_image: https://raw.githubusercontent.com/BengaliAI/bengaliai.github.io/main/images/tsne_all_ppx40.png
 ---
 
 The OOD-Speech dataset is a groundbreaking step toward building robust and inclusive speech recognition systems for Bengali speakers. In this post, we'll explore the purpose behind the dataset, its core features, and why it's a significant benchmark for improving Automatic Speech Recognition (ASR) in out-of-distribution (OOD) contexts.
@@ -29,6 +29,8 @@ The OOD-Speech dataset is a groundbreaking step toward building robust and inclu
 **OOD-Speech** is the largest dataset for Bengali ASR, designed to handle out-of-distribution benchmarking. Released in **May 2023**, it offers a collection of **1177.94 hours of speech data** from over **22,000 speakers** across diverse Bengali-speaking regions in South Asia.
 
 This dataset was created to address one of the most significant hurdles in modern ASR: **distribution shifts**. Traditional ASR models struggle with out-of-distribution speech variations, such as regional dialects or conversational prosody, making OOD-Speech a critical resource for training models that can perform better in real-world environments.
+
+![alt OOD dataset](https://raw.githubusercontent.com/BengaliAI/bengaliai.github.io/main/images/tsne_all_ppx40.png)
 
 ## Key Features of OOD-Speech
 
