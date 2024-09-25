@@ -3,8 +3,7 @@
     <div class="hero-content">
       <h1 class="hero__headline">I'm Fazle Rabbi Rakib</h1>
       <p class="hero__description">
-        Software Engineer that crafts things for the Web, heavy focused on
-        front-end development enthusiastic and fascinated on UI design ✨
+        A <strong>Lecturer</strong> and <strong>Software Engineer</strong>. Passionate about front-end development, and love creating cool stuff for the web! Teaching and learning keep me energized, and I’m always up for the next challenge🌟
       </p>
       <SocialMediaIcons />
     </div>
