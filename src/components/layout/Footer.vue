@@ -2,8 +2,14 @@
   <footer class="footer">
     <div class="container">
       <p class="footer__copyright">
-        <em>Made with ♥ by Jeferson</em>
-        <span>@2021 - Present. All rights reserved.</span>
+        <em>
+          Customized by ✨
+          <a href="http://github.com/fazle-rakib/portfolio">F R Rakib</a>
+        </em>
+        <em style="margin-left: 20px;">
+          Made with ♥ by
+          <a href="https://github.com/jeferson-sb/portfolio">Jeferson</a>
+        </em>
       </p>
       <div class="built-tech">
         <AppLink
