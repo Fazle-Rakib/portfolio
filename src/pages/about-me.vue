@@ -17,23 +17,26 @@
         <h1 class="about-content__headline">About me</h1>
         <p>👋 Hey! How are you?</p>
         <p>
-          I'm Rakib. I'm a
-          <strong>software engineer</strong> dedicated to
-          <em> crafting </em> things for the web through coding.
+          I am Fazle Rabbi Rakib, currently a <strong> Lecturer </strong> at the Institute of Information and Communication Technology (IICT), <a href="https://sust.edu">Shahjalal University of Science & Technology</a>, Sylhet.
         </p>
         <p>
-          I wrote my first lines of code back in 2014 of HTML4, CSS and ES5
-          using just a notepad in a very low machine 😅. Like many people I
-          graduated a few years later and since then I've been on this adventure
-          into the world of programming.
+          During my professional journey, I’ve gained substantial experience as a <strong> Software Engineer </strong> at <a href="https:pathao.com">Pathao Limited</a>, where I actively contributed to developing various web portals, internal dashboards, and frontend interfaces. My time there has honed my skills in HTML, CSS, JavaScript, and VueJS—all of which form the backbone of modern frontend development.
         </p>
+
         <p>
-          I don't have "favorites", but I like to code on JavaScript,
-          Typescript, Python, and Elixir at the moment. I also like to think
-          outside coding, prioritizing tasks/features, and proving the best
-          practices, fundamentals, and consistency throughout the code.
+          As a <strong>researcher</strong> at <a href="https://bengaliai.github.io/">Bengali.AI</a>, a open-source collaboration for Bangla NLP, I’ve worked on exciting projects involving NLP and open-source datasets.
         </p>
-        <p>I'm into computers, ui design, games and anime (of course) :P</p>
+
+        <p>
+          <font-awesome-icon icon="fa fa-wand-magic-sparkles" />
+          I have a keen interest in frontend development, especially in creating engaging, responsive, and accessible web applications. My hands-on experience with Tailwind CSS and VueJS, coupled with my understanding of user interface (UI) design and problem-solving, enables me to turn creative ideas into real, functional websites.
+        </p>
+
+        <p>
+          <font-awesome-icon icon="fa fa-snowflake" />
+          I’m passionate about bridging the gap between research and real-world applications, always looking for innovative ways to make technology more accessible.
+        </p>
+
         <SocialMediaIcons boxed />
       </article>
     </main>

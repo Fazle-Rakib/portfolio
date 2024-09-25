@@ -13,6 +13,11 @@
     "prettier": "prettier 'src/**/*.js' -w"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-brands-svg-icons": "^6.6.0",
+    "@fortawesome/free-regular-svg-icons": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/vue-fontawesome": "^3.0.8",
     "@urql/vue": "^1.1.1",
     "@vueuse/head": "^1.0.22",
     "graphql": "^15.8.0",
