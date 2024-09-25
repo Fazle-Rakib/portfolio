@@ -1,5 +1,6 @@
 /* eslint-disable import/no-extraneous-dependencies */
 import path from 'path'
+import { fileURLToPath, URL } from "url";
 import fs from 'fs'
 import { defineConfig } from 'vite'
 import Vue from '@vitejs/plugin-vue'
@@ -13,19 +14,21 @@ import Shiki from 'markdown-it-shiki'
 import MarkdownItAttrs from 'markdown-it-attrs'
 import MarkdownItAnchor from 'markdown-it-anchor'
 import matter from 'gray-matter'
+import { ViteSSG } from 'vite-ssg';
 
 export default defineConfig({
+  base: '/portfolio/',
   resolve: {
-    alias: {
-      '@/': `${path.resolve(__dirname, 'src')}/`,
-      '@content': `${path.resolve(__dirname, 'content')}/`,
-    },
+    alias: [
+      { find: '@/', replacement: fileURLToPath(new URL('./src/', import.meta.url)) },
+      { find: '@content', replacement: fileURLToPath(new URL('./content', import.meta.url)) },
+    ],
   },
   plugins: [
     Vue({
       include: [/\.vue$/, /\.md$/],
     }),
-
+    ViteSSG({}),
     Pages({
       extensions: ['vue', 'md'],
       dirs: ['src/pages', { dir: 'content/articles', baseRoute: 'articles' }],
