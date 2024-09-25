@@ -98,7 +98,7 @@ export default defineConfig({
     include: ['vue', 'vue-router', '@vueuse/head'],
   },
   server: {
-    port: 3000,
+    port: 3001,
     hmr: true,
     host: 'localhost',
     watch: {
