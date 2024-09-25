@@ -11,24 +11,27 @@ meta:
 
 <article class="article">
 
-<time class="time">Apr 2023</time>
+<time class="time">Sept 2024 | Rabi al-awwal 1446 AH</time>
 
-# What I'm doing now
+# 📚 What I’m Up To
 
-I'm currently reading two technical books: <em>Refactoring: Improving the Design of Existing Code</em> and <em>Programming Lua</em>.
+I’m diving into machine learning 🤖, focusing on algorithms, while also exploring frontend development with Vue3 and Nuxt.
 
-Exploring a bit with Ruby on Rails!
+Recently, I completed building and publishing this very [portfolio](http://fazle-rakib.github.io) site you're visiting! 🌟
 
-I've been writing a few posts as well, one of them I released a couple of days ago: [Component Driven UI Patterns](/articles/component-driven-design), which is the first of a series I'm elaborating about components and how to understand their patterns.
+Over the past 6 months, I've had the pleasure of teaching and diving into some exciting courses 🎉
 
-Tinkering a bit with [LunarVIM](https://www.lunarvim.org/), which caught my interest as I began learning Lua in the last couple of months, and I'm planning to build a little theme with it.
+🎨 Computer Graphics & Image Processing
 
-Excited to the new season of Spring Anime! 📺
+🖼️ Digital Image Processing
 
-As for games, I currently playing <em>Ni no Kuni Wrath of the White Witch</em>🎮
+🌐 Web Technologies: Foundational course
 
-<img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" alt="gif of the day" />
+📝 Software Requirement Specifications
 
+🐍 Python: A beginner-friendly guide for Non-IT students
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNrcmh5cjd4M3c4OWw2NGZvdTJqaW1nOTRxajAwZDVuNDRoczAwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SH3gEXz3OVjCYaJZOp/giphy.webp" alt="gif of the day" />
 
 </article>
 
