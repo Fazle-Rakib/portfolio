@@ -46,7 +46,7 @@ const props = defineProps({
   demo:String,
 })
 
-const titleSlug = props.title.toLowerCase().replaceAll(' ', '')
+const titleSlug = (typeof props.title === 'string' ? props.title.toLowerCase().replaceAll(' ', '') : '');
 
 const titleId = computed(() => `title-${titleSlug}`)
 const buttonId = computed(() => `button-${titleSlug}`)
