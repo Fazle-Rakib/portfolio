@@ -11,7 +11,10 @@ const routes = setupLayouts(generatedRoutes)
 
 export const createApp = ViteSSG(
   App,
-  { routes, base: import.meta.env.BASE_URL },
+  {
+    routes,
+    base: import.meta.env.BASE_URL || '/portfolio/'
+  },
   (ctx) => {
     // install all modules under `modules/`
     Object.values(import.meta.glob('./modules/*.js', { eager: true })).forEach(

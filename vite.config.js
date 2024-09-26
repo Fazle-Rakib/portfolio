@@ -28,9 +28,6 @@ export default defineConfig({
     Vue({
       include: [/\.vue$/, /\.md$/],
     }),
-    ViteSSG({
-      base: '/portfolio/',
-    }),
     Pages({
       extensions: ['vue', 'md'],
       dirs: ['src/pages', { dir: 'content/articles', baseRoute: 'articles' }],
