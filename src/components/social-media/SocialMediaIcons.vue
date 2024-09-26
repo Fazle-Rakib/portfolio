@@ -1,10 +1,11 @@
 <template>
-  <div :class="classes">
+  <div :class="classes" class="flex flex-col items-center sm:flex-row">
     <AppLink
       isExternal
       to="https://scholar.google.com/citations?user=3C2-4CkAAAAJ&hl=en"
       aria-label="My Google Scholar"
       title="My Google Scholar"
+      class="ml-5 sm:ml-0"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"

@@ -14,11 +14,9 @@
         <img
           src="@/assets/img/profile.jpg"
           alt="me"
-          class="hero-avatar__image"
-          width="140"
-          height="140"
+          class="hero-avatar__image mx-auto w-1/2 object-cover"
           loading="lazy"
-        />
+          />
       </HeroAvatar>
     </div>
   </section>

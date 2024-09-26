@@ -1,39 +1,41 @@
 <template>
   <footer class="footer">
     <div class="container">
-      <p class="footer__copyright">
-        <em>
-          Customized by ✨
-          <a href="http://github.com/fazle-rakib/portfolio">F R Rakib</a>
-        </em>
-        <em style="margin-left: 20px;">
+      <div class="footer__copyright w-full flex flex-col items-center mx-auto mt-8 md:flex-row md:justify-around md:mt-0">
+          <em class="md:w-1/4">
+            Customized by ✨
+            <a href="http://github.com/fazle-rakib/portfolio">F R Rakib</a>
+          </em>
+          <em class="md:1/4">
           Made with ♥ by
           <a href="https://github.com/jeferson-sb/portfolio">Jeferson</a>
-        </em>
-      </p>
-      <div class="built-tech">
-        <AppLink
-          to="https://www.netlify.com/"
-          aria-label="Hosted on Netlify"
-          isExternal
-        >
-          <NetlifyLogoSVG />
-        </AppLink>
-        <AppLink
-          to="https://vuejs.org/"
-          aria-label="Built with Vue"
-          title="Built with Vue.js"
-          isExternal
-        >
-          <VueSVG />
-        </AppLink>
-        <AppLink
-          to="https://www.github.com/"
-          aria-label="Source Code on Github"
-          isExternal
-        >
-          <OctocatSVG />
-        </AppLink>
+          </em>
+        <div class="md:w-1/2">
+          <div class="built-tech">
+            <AppLink
+              to="https://www.netlify.com/"
+              aria-label="Hosted on Netlify"
+              isExternal
+            >
+              <NetlifyLogoSVG />
+            </AppLink>
+            <AppLink
+              to="https://vuejs.org/"
+              aria-label="Built with Vue"
+              title="Built with Vue.js"
+              isExternal
+            >
+              <VueSVG />
+            </AppLink>
+            <AppLink
+              to="https://www.github.com/"
+              aria-label="Source Code on Github"
+              isExternal
+            >
+              <OctocatSVG />
+            </AppLink>
+          </div>
+        </div>
       </div>
     </div>
   </footer>
@@ -67,11 +69,14 @@
 
 .footer .built-tech {
   flex-basis: 20%;
-  align-self: center;
+  display: flex;
+  /* flex-direction: row; */
+  justify-content: center;
 }
 
 .footer .built-tech svg {
   max-width: 37px;
+  min-height: 40px;
 }
 
 .footer .built-tech a + a {
