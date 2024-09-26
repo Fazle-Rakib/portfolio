@@ -79,7 +79,7 @@ define(['./workbox-04ff6d6c'], (function (workbox) { 'use strict';
    */
   workbox.precacheAndRoute([{
     "url": "about-me.html",
-    "revision": "b183e4bafd694d0dd815754e761053b8"
+    "revision": "bbba7c5129054342ac38d5dc438cdd6d"
   }, {
     "url": "android-chrome-192x192.png",
     "revision": "42aab04eee45d1cb8a08f671bbfef3a6"
@@ -91,39 +91,39 @@ define(['./workbox-04ff6d6c'], (function (workbox) { 'use strict';
     "revision": "b82e1f355f16081ac3e300019ee4f60c"
   }, {
     "url": "articles.html",
-    "revision": "2ad4ba3e1dcbef70d6e201d9b3c2c06e"
+    "revision": "28cccac9c05c79d2c704554dd9919c75"
   }, {
     "url": "articles/badlad-document-layout-dataset.html",
-    "revision": "ebde457c608478d4d05f598c03faf652"
+    "revision": "fc48438d947176d6adb9d526e05cccee"
   }, {
     "url": "articles/ood-speech-benchmark-dataset-bengali-asr.html",
-    "revision": "cb7e7c649455791e53694618f4bb42ba"
+    "revision": "85bc3c259b487d3b73ca1f3c31a020cf"
   }, {
-    "url": "assets/_...all_-26ec2c0f.js",
+    "url": "assets/_...all_-101e6f78.js",
     "revision": null
   }, {
     "url": "assets/_...all_-822d424e.css",
     "revision": null
   }, {
-    "url": "assets/about-me-4fdc58db.js",
+    "url": "assets/about-me-8f22931c.css",
     "revision": null
   }, {
-    "url": "assets/about-me-eaee56b7.css",
+    "url": "assets/about-me-f3d01896.js",
     "revision": null
   }, {
-    "url": "assets/app-329f424b.js",
+    "url": "assets/app-bba54977.js",
     "revision": null
   }, {
-    "url": "assets/article-0f30d1e8.js",
+    "url": "assets/article-39061354.js",
     "revision": null
   }, {
-    "url": "assets/article-8b4f8e76.css",
+    "url": "assets/article-6521014c.css",
     "revision": null
   }, {
     "url": "assets/b64-image-352cf1c8.png",
     "revision": null
   }, {
-    "url": "assets/badlad-document-layout-dataset-132a5a31.js",
+    "url": "assets/badlad-document-layout-dataset-cb390b18.js",
     "revision": null
   }, {
     "url": "assets/binary-text-5dd00e0e.svg",
@@ -141,10 +141,10 @@ define(['./workbox-04ff6d6c'], (function (workbox) { 'use strict';
     "url": "assets/git-pull-request-bc354b52.svg",
     "revision": null
   }, {
-    "url": "assets/GithubRepoCard-42242a07.js",
+    "url": "assets/GithubRepoCard-09dc07b4.js",
     "revision": null
   }, {
-    "url": "assets/GithubRepoCard-e3857b55.css",
+    "url": "assets/GithubRepoCard-7f1e4c2f.css",
     "revision": null
   }, {
     "url": "assets/gridsome-logo-e21d213b.svg",
@@ -153,13 +153,13 @@ define(['./workbox-04ff6d6c'], (function (workbox) { 'use strict';
     "url": "assets/html-699a4221.svg",
     "revision": null
   }, {
-    "url": "assets/index-035b1c1c.js",
+    "url": "assets/index-42fa9ebb.css",
     "revision": null
   }, {
-    "url": "assets/index-222d8ce3.css",
+    "url": "assets/index-7c64ec28.css",
     "revision": null
   }, {
-    "url": "assets/index-8e518c73.css",
+    "url": "assets/index-be6d5ef1.js",
     "revision": null
   }, {
     "url": "assets/js-dcea0c6b.svg",
@@ -195,10 +195,10 @@ define(['./workbox-04ff6d6c'], (function (workbox) { 'use strict';
     "url": "assets/nodejs-5dbfcfcf.svg",
     "revision": null
   }, {
-    "url": "assets/now-065fe57a.js",
+    "url": "assets/now-2240176c.css",
     "revision": null
   }, {
-    "url": "assets/now-2240176c.css",
+    "url": "assets/now-44c491dd.js",
     "revision": null
   }, {
     "url": "assets/nuxt-d5905e36.svg",
@@ -207,7 +207,7 @@ define(['./workbox-04ff6d6c'], (function (workbox) { 'use strict';
     "url": "assets/octocat-2e7aa972.svg",
     "revision": null
   }, {
-    "url": "assets/ood-speech-benchmark-dataset-bengali-asr-786b81c8.js",
+    "url": "assets/ood-speech-benchmark-dataset-bengali-asr-dfcd4f9d.js",
     "revision": null
   }, {
     "url": "assets/python-b0f71783.svg",
@@ -222,7 +222,7 @@ define(['./workbox-04ff6d6c'], (function (workbox) { 'use strict';
     "url": "assets/sass-80d1ea34.svg",
     "revision": null
   }, {
-    "url": "assets/simple-d588e183.js",
+    "url": "assets/simple-7c90441a.js",
     "revision": null
   }, {
     "url": "assets/spotlight-52e55699.svg",
@@ -234,7 +234,7 @@ define(['./workbox-04ff6d6c'], (function (workbox) { 'use strict';
     "url": "assets/ts-49e5c4fe.svg",
     "revision": null
   }, {
-    "url": "assets/virtual_pwa-register-60ded940.js",
+    "url": "assets/virtual_pwa-register-e838ecf7.js",
     "revision": null
   }, {
     "url": "assets/vue-22e1e063.svg",
@@ -262,13 +262,13 @@ define(['./workbox-04ff6d6c'], (function (workbox) { 'use strict';
     "revision": "42aab04eee45d1cb8a08f671bbfef3a6"
   }, {
     "url": "index.html",
-    "revision": "d9ecb98c5ea465169b860208e5c5eb38"
+    "revision": "367dc0bbe7aa0a47bdc9355ee3860ddb"
   }, {
     "url": "mstile-150x150.png",
     "revision": "459241a110a9ef38c6542127a6834841"
   }, {
     "url": "now.html",
-    "revision": "5d1b64f53f0acf6c44ad974a72113372"
+    "revision": "b0a334a830af23f1409d5b9181a82893"
   }, {
     "url": "robots.txt",
     "revision": "d3087b14b5dc8dce0f8cb6e07d107d29"

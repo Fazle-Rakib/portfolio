@@ -1,0 +1,1 @@
+import{a as e,n as r,k as t,o as n}from"./app-bba54977.js";const s={};function c(_,a){const o=r("router-view");return n(),t(o)}const l=e(s,[["render",c],["__file","/home/runner/work/portfolio/portfolio/src/layouts/simple.vue"]]);export{l as default};
