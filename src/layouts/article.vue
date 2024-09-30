@@ -19,7 +19,7 @@
               <component
                 :is="Component"
                 :key="route.path"
-                class="article-body-content"
+                class="article-body-content text-justify"
               />
             </transition>
           </router-view>
