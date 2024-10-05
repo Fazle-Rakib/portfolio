@@ -1,9 +1,9 @@
 <template>
   <div class="hero">
-      <div class="container">
+      <div class="container flex flex-col">
         <h1 class="hero__headline">Articles</h1>
         <p class="hero__description">
-           Here you can find my recent writings, blog, and research.
+          Explore my articles on academic learning, 🔬 research projects, 💻 development progress, and 💡 random thoughts. Enjoy the journey!
         </p>
       </div>
     </div>
