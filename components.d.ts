@@ -10,6 +10,7 @@ declare module '@vue/runtime-core' {
     AppLink: typeof import('./src/components/base/AppLink.vue')['default']
     ArticleControls: typeof import('./src/components/article/ArticleControls.vue')['default']
     ArticleHeading: typeof import('./src/components/article/ArticleHeading.vue')['default']
+    ArticlesHero: typeof import('./src/components/article/ArticlesHero.vue')['default']
     BinaryTextSVG: typeof import('./src/components/svg/BinaryTextSVG.vue')['default']
     Button: typeof import('./src/components/ui/Button.vue')['default']
     ButtonGroup: typeof import('./src/components/ui/ButtonGroup.vue')['default']
