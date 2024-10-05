@@ -39,12 +39,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "\u0000vite/modulepreload-polyfill": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -86,12 +86,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "\u0000vite/preload-helper": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -133,65 +133,15 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
-  ],
-  "../../../../../@vite-plugin-pages/generated-pages?id=virtual:generated-pages": [
-    "/portfolio/assets/b64-image-352cf1c8.png",
-    "/portfolio/assets/bg-img-01-ec472e77.jpg",
-    "/portfolio/assets/bg-img-01-a715a3fe.webp",
-    "/portfolio/assets/bg-img-02-a722a2a5.jpg",
-    "/portfolio/assets/bg-img-02-517dcdc0.webp",
-    "/portfolio/assets/bg-img-03-ef1771ef.jpg",
-    "/portfolio/assets/bg-img-03-acf159d8.webp",
-    "/portfolio/assets/me-e7bcd3fc.png",
-    "/portfolio/assets/meme-281de563.png",
-    "/portfolio/assets/profile-cd9ad85a.jpg",
-    "/portfolio/assets/water_drop-28b928c6.png",
-    "/portfolio/assets/binary-text-5dd00e0e.svg",
-    "/portfolio/assets/circle-fill-2eb554d4.svg",
-    "/portfolio/assets/code-61849eec.svg",
-    "/portfolio/assets/figma-8ab7cd92.svg",
-    "/portfolio/assets/git-pull-request-bc354b52.svg",
-    "/portfolio/assets/gridsome-logo-e21d213b.svg",
-    "/portfolio/assets/html-699a4221.svg",
-    "/portfolio/assets/js-dcea0c6b.svg",
-    "/portfolio/assets/lamp-off-f6a06f1f.svg",
-    "/portfolio/assets/lamp-on-00e4d7c6.svg",
-    "/portfolio/assets/laravel-fdabeb03.svg",
-    "/portfolio/assets/link-258f1bd7.svg",
-    "/portfolio/assets/logo-dark-150fc575.svg",
-    "/portfolio/assets/logo-white-366438ba.svg",
-    "/portfolio/assets/netlify-logo-e98d5c0e.svg",
-    "/portfolio/assets/nodejs-5dbfcfcf.svg",
-    "/portfolio/assets/nuxt-d5905e36.svg",
-    "/portfolio/assets/octocat-2e7aa972.svg",
-    "/portfolio/assets/python-b0f71783.svg",
-    "/portfolio/assets/react-fe45c48c.svg",
-    "/portfolio/assets/sass-80d1ea34.svg",
-    "/portfolio/assets/spotlight-52e55699.svg",
-    "/portfolio/assets/star-fill-e2ab3ebc.svg",
-    "/portfolio/assets/ts-49e5c4fe.svg",
-    "/portfolio/assets/vue-22e1e063.svg",
-    "/portfolio/assets/xd-85b03743.svg",
-    "/portfolio/assets/ArticleHeading-a9834e5e.vue",
-    "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
-    "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
-    "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
-  ],
-  "../../../../../@vite-plugin-pages/route-block": [
-    "/portfolio/assets/route-block-83d24a4e.js"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/portfolio/assets/virtual_pwa-register-e838ecf7.js"
+    "/portfolio/assets/virtual_pwa-register-48a402d5.js"
   ],
   "../../../../../@vite-plugin-vue-layouts/generated-layouts": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -233,18 +183,18 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "content/articles/badlad-document-layout-dataset.md": [
-    "/portfolio/assets/badlad-document-layout-dataset-cb390b18.js"
+    "/portfolio/assets/badlad-document-layout-dataset-af3602fd.js"
   ],
   "content/articles/ood-speech-benchmark-dataset-bengali-asr.md": [
-    "/portfolio/assets/ood-speech-benchmark-dataset-bengali-asr-dfcd4f9d.js"
+    "/portfolio/assets/ood-speech-benchmark-dataset-bengali-asr-2d7d0d6b.js"
   ],
   "content/projects/projects.json": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -286,12 +236,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "index.html": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -333,12 +283,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "lib/url/isValidUrl.js": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -380,12 +330,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/@0no-co/graphql.web/dist/graphql.web.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -427,12 +377,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/@fortawesome/fontawesome-svg-core/index.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -474,12 +424,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/@fortawesome/free-solid-svg-icons/index.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -521,12 +471,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/@fortawesome/vue-fontawesome/index.es.js": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -568,12 +518,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/@unhead/dom/dist/index.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -615,12 +565,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/@unhead/shared/dist/index.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -662,12 +612,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/@unhead/vue/dist/shared/vue.8fc199ce.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -709,12 +659,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/@unhead/vue/dist/shared/vue.f49591ad.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -756,12 +706,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/@urql/core/dist/urql-core-chunk.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -803,12 +753,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/@urql/core/dist/urql-core.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -850,12 +800,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/@urql/vue/dist/urql-vue.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -897,247 +847,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
-  ],
-  "node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "/portfolio/assets/b64-image-352cf1c8.png",
-    "/portfolio/assets/bg-img-01-ec472e77.jpg",
-    "/portfolio/assets/bg-img-01-a715a3fe.webp",
-    "/portfolio/assets/bg-img-02-a722a2a5.jpg",
-    "/portfolio/assets/bg-img-02-517dcdc0.webp",
-    "/portfolio/assets/bg-img-03-ef1771ef.jpg",
-    "/portfolio/assets/bg-img-03-acf159d8.webp",
-    "/portfolio/assets/me-e7bcd3fc.png",
-    "/portfolio/assets/meme-281de563.png",
-    "/portfolio/assets/profile-cd9ad85a.jpg",
-    "/portfolio/assets/water_drop-28b928c6.png",
-    "/portfolio/assets/binary-text-5dd00e0e.svg",
-    "/portfolio/assets/circle-fill-2eb554d4.svg",
-    "/portfolio/assets/code-61849eec.svg",
-    "/portfolio/assets/figma-8ab7cd92.svg",
-    "/portfolio/assets/git-pull-request-bc354b52.svg",
-    "/portfolio/assets/gridsome-logo-e21d213b.svg",
-    "/portfolio/assets/html-699a4221.svg",
-    "/portfolio/assets/js-dcea0c6b.svg",
-    "/portfolio/assets/lamp-off-f6a06f1f.svg",
-    "/portfolio/assets/lamp-on-00e4d7c6.svg",
-    "/portfolio/assets/laravel-fdabeb03.svg",
-    "/portfolio/assets/link-258f1bd7.svg",
-    "/portfolio/assets/logo-dark-150fc575.svg",
-    "/portfolio/assets/logo-white-366438ba.svg",
-    "/portfolio/assets/netlify-logo-e98d5c0e.svg",
-    "/portfolio/assets/nodejs-5dbfcfcf.svg",
-    "/portfolio/assets/nuxt-d5905e36.svg",
-    "/portfolio/assets/octocat-2e7aa972.svg",
-    "/portfolio/assets/python-b0f71783.svg",
-    "/portfolio/assets/react-fe45c48c.svg",
-    "/portfolio/assets/sass-80d1ea34.svg",
-    "/portfolio/assets/spotlight-52e55699.svg",
-    "/portfolio/assets/star-fill-e2ab3ebc.svg",
-    "/portfolio/assets/ts-49e5c4fe.svg",
-    "/portfolio/assets/vue-22e1e063.svg",
-    "/portfolio/assets/xd-85b03743.svg",
-    "/portfolio/assets/ArticleHeading-a9834e5e.vue",
-    "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
-    "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
-    "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
-  ],
-  "node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "/portfolio/assets/b64-image-352cf1c8.png",
-    "/portfolio/assets/bg-img-01-ec472e77.jpg",
-    "/portfolio/assets/bg-img-01-a715a3fe.webp",
-    "/portfolio/assets/bg-img-02-a722a2a5.jpg",
-    "/portfolio/assets/bg-img-02-517dcdc0.webp",
-    "/portfolio/assets/bg-img-03-ef1771ef.jpg",
-    "/portfolio/assets/bg-img-03-acf159d8.webp",
-    "/portfolio/assets/me-e7bcd3fc.png",
-    "/portfolio/assets/meme-281de563.png",
-    "/portfolio/assets/profile-cd9ad85a.jpg",
-    "/portfolio/assets/water_drop-28b928c6.png",
-    "/portfolio/assets/binary-text-5dd00e0e.svg",
-    "/portfolio/assets/circle-fill-2eb554d4.svg",
-    "/portfolio/assets/code-61849eec.svg",
-    "/portfolio/assets/figma-8ab7cd92.svg",
-    "/portfolio/assets/git-pull-request-bc354b52.svg",
-    "/portfolio/assets/gridsome-logo-e21d213b.svg",
-    "/portfolio/assets/html-699a4221.svg",
-    "/portfolio/assets/js-dcea0c6b.svg",
-    "/portfolio/assets/lamp-off-f6a06f1f.svg",
-    "/portfolio/assets/lamp-on-00e4d7c6.svg",
-    "/portfolio/assets/laravel-fdabeb03.svg",
-    "/portfolio/assets/link-258f1bd7.svg",
-    "/portfolio/assets/logo-dark-150fc575.svg",
-    "/portfolio/assets/logo-white-366438ba.svg",
-    "/portfolio/assets/netlify-logo-e98d5c0e.svg",
-    "/portfolio/assets/nodejs-5dbfcfcf.svg",
-    "/portfolio/assets/nuxt-d5905e36.svg",
-    "/portfolio/assets/octocat-2e7aa972.svg",
-    "/portfolio/assets/python-b0f71783.svg",
-    "/portfolio/assets/react-fe45c48c.svg",
-    "/portfolio/assets/sass-80d1ea34.svg",
-    "/portfolio/assets/spotlight-52e55699.svg",
-    "/portfolio/assets/star-fill-e2ab3ebc.svg",
-    "/portfolio/assets/ts-49e5c4fe.svg",
-    "/portfolio/assets/vue-22e1e063.svg",
-    "/portfolio/assets/xd-85b03743.svg",
-    "/portfolio/assets/ArticleHeading-a9834e5e.vue",
-    "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
-    "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
-    "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
-  ],
-  "node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "/portfolio/assets/b64-image-352cf1c8.png",
-    "/portfolio/assets/bg-img-01-ec472e77.jpg",
-    "/portfolio/assets/bg-img-01-a715a3fe.webp",
-    "/portfolio/assets/bg-img-02-a722a2a5.jpg",
-    "/portfolio/assets/bg-img-02-517dcdc0.webp",
-    "/portfolio/assets/bg-img-03-ef1771ef.jpg",
-    "/portfolio/assets/bg-img-03-acf159d8.webp",
-    "/portfolio/assets/me-e7bcd3fc.png",
-    "/portfolio/assets/meme-281de563.png",
-    "/portfolio/assets/profile-cd9ad85a.jpg",
-    "/portfolio/assets/water_drop-28b928c6.png",
-    "/portfolio/assets/binary-text-5dd00e0e.svg",
-    "/portfolio/assets/circle-fill-2eb554d4.svg",
-    "/portfolio/assets/code-61849eec.svg",
-    "/portfolio/assets/figma-8ab7cd92.svg",
-    "/portfolio/assets/git-pull-request-bc354b52.svg",
-    "/portfolio/assets/gridsome-logo-e21d213b.svg",
-    "/portfolio/assets/html-699a4221.svg",
-    "/portfolio/assets/js-dcea0c6b.svg",
-    "/portfolio/assets/lamp-off-f6a06f1f.svg",
-    "/portfolio/assets/lamp-on-00e4d7c6.svg",
-    "/portfolio/assets/laravel-fdabeb03.svg",
-    "/portfolio/assets/link-258f1bd7.svg",
-    "/portfolio/assets/logo-dark-150fc575.svg",
-    "/portfolio/assets/logo-white-366438ba.svg",
-    "/portfolio/assets/netlify-logo-e98d5c0e.svg",
-    "/portfolio/assets/nodejs-5dbfcfcf.svg",
-    "/portfolio/assets/nuxt-d5905e36.svg",
-    "/portfolio/assets/octocat-2e7aa972.svg",
-    "/portfolio/assets/python-b0f71783.svg",
-    "/portfolio/assets/react-fe45c48c.svg",
-    "/portfolio/assets/sass-80d1ea34.svg",
-    "/portfolio/assets/spotlight-52e55699.svg",
-    "/portfolio/assets/star-fill-e2ab3ebc.svg",
-    "/portfolio/assets/ts-49e5c4fe.svg",
-    "/portfolio/assets/vue-22e1e063.svg",
-    "/portfolio/assets/xd-85b03743.svg",
-    "/portfolio/assets/ArticleHeading-a9834e5e.vue",
-    "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
-    "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
-    "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
-  ],
-  "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
-    "/portfolio/assets/b64-image-352cf1c8.png",
-    "/portfolio/assets/bg-img-01-ec472e77.jpg",
-    "/portfolio/assets/bg-img-01-a715a3fe.webp",
-    "/portfolio/assets/bg-img-02-a722a2a5.jpg",
-    "/portfolio/assets/bg-img-02-517dcdc0.webp",
-    "/portfolio/assets/bg-img-03-ef1771ef.jpg",
-    "/portfolio/assets/bg-img-03-acf159d8.webp",
-    "/portfolio/assets/me-e7bcd3fc.png",
-    "/portfolio/assets/meme-281de563.png",
-    "/portfolio/assets/profile-cd9ad85a.jpg",
-    "/portfolio/assets/water_drop-28b928c6.png",
-    "/portfolio/assets/binary-text-5dd00e0e.svg",
-    "/portfolio/assets/circle-fill-2eb554d4.svg",
-    "/portfolio/assets/code-61849eec.svg",
-    "/portfolio/assets/figma-8ab7cd92.svg",
-    "/portfolio/assets/git-pull-request-bc354b52.svg",
-    "/portfolio/assets/gridsome-logo-e21d213b.svg",
-    "/portfolio/assets/html-699a4221.svg",
-    "/portfolio/assets/js-dcea0c6b.svg",
-    "/portfolio/assets/lamp-off-f6a06f1f.svg",
-    "/portfolio/assets/lamp-on-00e4d7c6.svg",
-    "/portfolio/assets/laravel-fdabeb03.svg",
-    "/portfolio/assets/link-258f1bd7.svg",
-    "/portfolio/assets/logo-dark-150fc575.svg",
-    "/portfolio/assets/logo-white-366438ba.svg",
-    "/portfolio/assets/netlify-logo-e98d5c0e.svg",
-    "/portfolio/assets/nodejs-5dbfcfcf.svg",
-    "/portfolio/assets/nuxt-d5905e36.svg",
-    "/portfolio/assets/octocat-2e7aa972.svg",
-    "/portfolio/assets/python-b0f71783.svg",
-    "/portfolio/assets/react-fe45c48c.svg",
-    "/portfolio/assets/sass-80d1ea34.svg",
-    "/portfolio/assets/spotlight-52e55699.svg",
-    "/portfolio/assets/star-fill-e2ab3ebc.svg",
-    "/portfolio/assets/ts-49e5c4fe.svg",
-    "/portfolio/assets/vue-22e1e063.svg",
-    "/portfolio/assets/xd-85b03743.svg",
-    "/portfolio/assets/ArticleHeading-a9834e5e.vue",
-    "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
-    "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
-    "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
-  ],
-  "node_modules/@vue/devtools-api/lib/esm/time.js": [
-    "/portfolio/assets/b64-image-352cf1c8.png",
-    "/portfolio/assets/bg-img-01-ec472e77.jpg",
-    "/portfolio/assets/bg-img-01-a715a3fe.webp",
-    "/portfolio/assets/bg-img-02-a722a2a5.jpg",
-    "/portfolio/assets/bg-img-02-517dcdc0.webp",
-    "/portfolio/assets/bg-img-03-ef1771ef.jpg",
-    "/portfolio/assets/bg-img-03-acf159d8.webp",
-    "/portfolio/assets/me-e7bcd3fc.png",
-    "/portfolio/assets/meme-281de563.png",
-    "/portfolio/assets/profile-cd9ad85a.jpg",
-    "/portfolio/assets/water_drop-28b928c6.png",
-    "/portfolio/assets/binary-text-5dd00e0e.svg",
-    "/portfolio/assets/circle-fill-2eb554d4.svg",
-    "/portfolio/assets/code-61849eec.svg",
-    "/portfolio/assets/figma-8ab7cd92.svg",
-    "/portfolio/assets/git-pull-request-bc354b52.svg",
-    "/portfolio/assets/gridsome-logo-e21d213b.svg",
-    "/portfolio/assets/html-699a4221.svg",
-    "/portfolio/assets/js-dcea0c6b.svg",
-    "/portfolio/assets/lamp-off-f6a06f1f.svg",
-    "/portfolio/assets/lamp-on-00e4d7c6.svg",
-    "/portfolio/assets/laravel-fdabeb03.svg",
-    "/portfolio/assets/link-258f1bd7.svg",
-    "/portfolio/assets/logo-dark-150fc575.svg",
-    "/portfolio/assets/logo-white-366438ba.svg",
-    "/portfolio/assets/netlify-logo-e98d5c0e.svg",
-    "/portfolio/assets/nodejs-5dbfcfcf.svg",
-    "/portfolio/assets/nuxt-d5905e36.svg",
-    "/portfolio/assets/octocat-2e7aa972.svg",
-    "/portfolio/assets/python-b0f71783.svg",
-    "/portfolio/assets/react-fe45c48c.svg",
-    "/portfolio/assets/sass-80d1ea34.svg",
-    "/portfolio/assets/spotlight-52e55699.svg",
-    "/portfolio/assets/star-fill-e2ab3ebc.svg",
-    "/portfolio/assets/ts-49e5c4fe.svg",
-    "/portfolio/assets/vue-22e1e063.svg",
-    "/portfolio/assets/xd-85b03743.svg",
-    "/portfolio/assets/ArticleHeading-a9834e5e.vue",
-    "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
-    "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
-    "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1179,12 +894,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1226,12 +941,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1273,12 +988,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1320,59 +1035,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
-  ],
-  "node_modules/@vueuse/head/dist/index.mjs": [
-    "/portfolio/assets/b64-image-352cf1c8.png",
-    "/portfolio/assets/bg-img-01-ec472e77.jpg",
-    "/portfolio/assets/bg-img-01-a715a3fe.webp",
-    "/portfolio/assets/bg-img-02-a722a2a5.jpg",
-    "/portfolio/assets/bg-img-02-517dcdc0.webp",
-    "/portfolio/assets/bg-img-03-ef1771ef.jpg",
-    "/portfolio/assets/bg-img-03-acf159d8.webp",
-    "/portfolio/assets/me-e7bcd3fc.png",
-    "/portfolio/assets/meme-281de563.png",
-    "/portfolio/assets/profile-cd9ad85a.jpg",
-    "/portfolio/assets/water_drop-28b928c6.png",
-    "/portfolio/assets/binary-text-5dd00e0e.svg",
-    "/portfolio/assets/circle-fill-2eb554d4.svg",
-    "/portfolio/assets/code-61849eec.svg",
-    "/portfolio/assets/figma-8ab7cd92.svg",
-    "/portfolio/assets/git-pull-request-bc354b52.svg",
-    "/portfolio/assets/gridsome-logo-e21d213b.svg",
-    "/portfolio/assets/html-699a4221.svg",
-    "/portfolio/assets/js-dcea0c6b.svg",
-    "/portfolio/assets/lamp-off-f6a06f1f.svg",
-    "/portfolio/assets/lamp-on-00e4d7c6.svg",
-    "/portfolio/assets/laravel-fdabeb03.svg",
-    "/portfolio/assets/link-258f1bd7.svg",
-    "/portfolio/assets/logo-dark-150fc575.svg",
-    "/portfolio/assets/logo-white-366438ba.svg",
-    "/portfolio/assets/netlify-logo-e98d5c0e.svg",
-    "/portfolio/assets/nodejs-5dbfcfcf.svg",
-    "/portfolio/assets/nuxt-d5905e36.svg",
-    "/portfolio/assets/octocat-2e7aa972.svg",
-    "/portfolio/assets/python-b0f71783.svg",
-    "/portfolio/assets/react-fe45c48c.svg",
-    "/portfolio/assets/sass-80d1ea34.svg",
-    "/portfolio/assets/spotlight-52e55699.svg",
-    "/portfolio/assets/star-fill-e2ab3ebc.svg",
-    "/portfolio/assets/ts-49e5c4fe.svg",
-    "/portfolio/assets/vue-22e1e063.svg",
-    "/portfolio/assets/xd-85b03743.svg",
-    "/portfolio/assets/ArticleHeading-a9834e5e.vue",
-    "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
-    "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
-    "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/hookable/dist/index.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1414,12 +1082,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/lozad/dist/lozad.es.js": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1461,12 +1129,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/unhead/dist/index.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1508,12 +1176,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/vite-ssg/dist/index.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1555,12 +1223,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1602,12 +1270,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1649,12 +1317,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/vue-gtag/dist/vue-gtag.esm.js": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1696,12 +1364,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/vue-router/dist/vue-router.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1743,59 +1411,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
-  ],
-  "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
-    "/portfolio/assets/b64-image-352cf1c8.png",
-    "/portfolio/assets/bg-img-01-ec472e77.jpg",
-    "/portfolio/assets/bg-img-01-a715a3fe.webp",
-    "/portfolio/assets/bg-img-02-a722a2a5.jpg",
-    "/portfolio/assets/bg-img-02-517dcdc0.webp",
-    "/portfolio/assets/bg-img-03-ef1771ef.jpg",
-    "/portfolio/assets/bg-img-03-acf159d8.webp",
-    "/portfolio/assets/me-e7bcd3fc.png",
-    "/portfolio/assets/meme-281de563.png",
-    "/portfolio/assets/profile-cd9ad85a.jpg",
-    "/portfolio/assets/water_drop-28b928c6.png",
-    "/portfolio/assets/binary-text-5dd00e0e.svg",
-    "/portfolio/assets/circle-fill-2eb554d4.svg",
-    "/portfolio/assets/code-61849eec.svg",
-    "/portfolio/assets/figma-8ab7cd92.svg",
-    "/portfolio/assets/git-pull-request-bc354b52.svg",
-    "/portfolio/assets/gridsome-logo-e21d213b.svg",
-    "/portfolio/assets/html-699a4221.svg",
-    "/portfolio/assets/js-dcea0c6b.svg",
-    "/portfolio/assets/lamp-off-f6a06f1f.svg",
-    "/portfolio/assets/lamp-on-00e4d7c6.svg",
-    "/portfolio/assets/laravel-fdabeb03.svg",
-    "/portfolio/assets/link-258f1bd7.svg",
-    "/portfolio/assets/logo-dark-150fc575.svg",
-    "/portfolio/assets/logo-white-366438ba.svg",
-    "/portfolio/assets/netlify-logo-e98d5c0e.svg",
-    "/portfolio/assets/nodejs-5dbfcfcf.svg",
-    "/portfolio/assets/nuxt-d5905e36.svg",
-    "/portfolio/assets/octocat-2e7aa972.svg",
-    "/portfolio/assets/python-b0f71783.svg",
-    "/portfolio/assets/react-fe45c48c.svg",
-    "/portfolio/assets/sass-80d1ea34.svg",
-    "/portfolio/assets/spotlight-52e55699.svg",
-    "/portfolio/assets/star-fill-e2ab3ebc.svg",
-    "/portfolio/assets/ts-49e5c4fe.svg",
-    "/portfolio/assets/vue-22e1e063.svg",
-    "/portfolio/assets/xd-85b03743.svg",
-    "/portfolio/assets/ArticleHeading-a9834e5e.vue",
-    "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
-    "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
-    "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/wonka/dist/wonka.mjs": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1837,15 +1458,15 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/portfolio/assets/workbox-window.prod.es5-08b2315b.js"
+    "/portfolio/assets/workbox-window.prod.es5-c46a1faa.js"
   ],
   "src/App.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1887,12 +1508,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/App.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1934,12 +1555,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/api/hello.js?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -1981,12 +1602,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/img/b64-image.png?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2028,12 +1649,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/img/bg-img-01.jpg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2075,12 +1696,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/img/bg-img-01.webp?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2122,12 +1743,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/img/bg-img-02.jpg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2169,12 +1790,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/img/bg-img-02.webp?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2216,12 +1837,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/img/bg-img-03.jpg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2263,12 +1884,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/img/bg-img-03.webp?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2310,12 +1931,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/img/me.png?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2357,16 +1978,16 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/img/meme.png": [
-    "/portfolio/assets/_...all_-101e6f78.js",
-    "/portfolio/assets/_...all_-822d424e.css",
+    "/portfolio/assets/_...all_-ba672b0b.js",
+    "/portfolio/assets/_...all_-157bc7ff.css",
     "/portfolio/assets/meme-281de563.png",
     "/portfolio/assets/water_drop-28b928c6.png"
   ],
@@ -2410,12 +2031,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/img/profile.jpg": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2457,12 +2078,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/img/profile.jpg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2504,16 +2125,16 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/img/water_drop.png": [
-    "/portfolio/assets/_...all_-101e6f78.js",
-    "/portfolio/assets/_...all_-822d424e.css",
+    "/portfolio/assets/_...all_-ba672b0b.js",
+    "/portfolio/assets/_...all_-157bc7ff.css",
     "/portfolio/assets/meme-281de563.png",
     "/portfolio/assets/water_drop-28b928c6.png"
   ],
@@ -2557,12 +2178,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/styles/global.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2604,12 +2225,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/styles/global.css?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2651,12 +2272,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/styles/index.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2698,12 +2319,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/styles/index.css?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2745,12 +2366,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/styles/markdown.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2792,12 +2413,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/styles/markdown.css?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2839,12 +2460,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/styles/prism-onedark.css?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2886,12 +2507,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/styles/reset.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2933,12 +2554,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/styles/reset.css?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -2980,12 +2601,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/binary-text.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3027,12 +2648,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/circle-fill.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3074,12 +2695,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/code.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3121,12 +2742,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/figma.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3168,12 +2789,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/git-pull-request.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3215,12 +2836,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/gridsome-logo.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3262,12 +2883,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/html.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3309,12 +2930,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/js.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3356,12 +2977,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/lamp-off.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3403,12 +3024,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/lamp-on.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3450,12 +3071,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/laravel.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3497,12 +3118,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/link.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3544,12 +3165,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/logo-dark.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3591,12 +3212,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/logo-white.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3638,12 +3259,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/netlify-logo.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3685,12 +3306,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/nodejs.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3732,12 +3353,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/nuxt.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3779,12 +3400,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/octocat.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3826,12 +3447,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/python.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3873,12 +3494,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/react.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3920,12 +3541,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/sass.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -3967,12 +3588,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/spotlight.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4014,12 +3635,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/star-fill.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4061,12 +3682,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/ts.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4108,12 +3729,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/vue.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4155,12 +3776,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/assets/svg/xd.svg?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4202,16 +3823,16 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/article/ArticleControls.vue": [
-    "/portfolio/assets/article-39061354.js",
-    "/portfolio/assets/article-6521014c.css"
+    "/portfolio/assets/article-cf3df41b.js",
+    "/portfolio/assets/article-fbe8c8aa.css"
   ],
   "src/components/article/ArticleControls.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4253,20 +3874,20 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/article/ArticleControls.vue?vue&type=style&index=0&scoped=88d0efe2&lang.css": [
-    "/portfolio/assets/article-39061354.js",
-    "/portfolio/assets/article-6521014c.css"
+  "src/components/article/ArticleControls.vue?vue&type=style&index=0&scoped=89889404&lang.css": [
+    "/portfolio/assets/article-cf3df41b.js",
+    "/portfolio/assets/article-fbe8c8aa.css"
   ],
   "src/components/article/ArticleHeading.vue": [
-    "/portfolio/assets/article-39061354.js",
-    "/portfolio/assets/article-6521014c.css"
+    "/portfolio/assets/article-cf3df41b.js",
+    "/portfolio/assets/article-fbe8c8aa.css"
   ],
   "src/components/article/ArticleHeading.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4308,16 +3929,71 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/article/ArticleHeading.vue?vue&type=style&index=0&scoped=3fc1da7f&lang.css": [
-    "/portfolio/assets/article-39061354.js",
-    "/portfolio/assets/article-6521014c.css"
+  "src/components/article/ArticleHeading.vue?vue&type=style&index=0&scoped=b815735e&lang.css": [
+    "/portfolio/assets/article-cf3df41b.js",
+    "/portfolio/assets/article-fbe8c8aa.css"
+  ],
+  "src/components/article/ArticlesHero.vue": [
+    "/portfolio/assets/index-a3163244.js",
+    "/portfolio/assets/index-b288e79d.css"
+  ],
+  "src/components/article/ArticlesHero.vue?url": [
+    "/portfolio/assets/b64-image-352cf1c8.png",
+    "/portfolio/assets/bg-img-01-ec472e77.jpg",
+    "/portfolio/assets/bg-img-01-a715a3fe.webp",
+    "/portfolio/assets/bg-img-02-a722a2a5.jpg",
+    "/portfolio/assets/bg-img-02-517dcdc0.webp",
+    "/portfolio/assets/bg-img-03-ef1771ef.jpg",
+    "/portfolio/assets/bg-img-03-acf159d8.webp",
+    "/portfolio/assets/me-e7bcd3fc.png",
+    "/portfolio/assets/meme-281de563.png",
+    "/portfolio/assets/profile-cd9ad85a.jpg",
+    "/portfolio/assets/water_drop-28b928c6.png",
+    "/portfolio/assets/binary-text-5dd00e0e.svg",
+    "/portfolio/assets/circle-fill-2eb554d4.svg",
+    "/portfolio/assets/code-61849eec.svg",
+    "/portfolio/assets/figma-8ab7cd92.svg",
+    "/portfolio/assets/git-pull-request-bc354b52.svg",
+    "/portfolio/assets/gridsome-logo-e21d213b.svg",
+    "/portfolio/assets/html-699a4221.svg",
+    "/portfolio/assets/js-dcea0c6b.svg",
+    "/portfolio/assets/lamp-off-f6a06f1f.svg",
+    "/portfolio/assets/lamp-on-00e4d7c6.svg",
+    "/portfolio/assets/laravel-fdabeb03.svg",
+    "/portfolio/assets/link-258f1bd7.svg",
+    "/portfolio/assets/logo-dark-150fc575.svg",
+    "/portfolio/assets/logo-white-366438ba.svg",
+    "/portfolio/assets/netlify-logo-e98d5c0e.svg",
+    "/portfolio/assets/nodejs-5dbfcfcf.svg",
+    "/portfolio/assets/nuxt-d5905e36.svg",
+    "/portfolio/assets/octocat-2e7aa972.svg",
+    "/portfolio/assets/python-b0f71783.svg",
+    "/portfolio/assets/react-fe45c48c.svg",
+    "/portfolio/assets/sass-80d1ea34.svg",
+    "/portfolio/assets/spotlight-52e55699.svg",
+    "/portfolio/assets/star-fill-e2ab3ebc.svg",
+    "/portfolio/assets/ts-49e5c4fe.svg",
+    "/portfolio/assets/vue-22e1e063.svg",
+    "/portfolio/assets/xd-85b03743.svg",
+    "/portfolio/assets/ArticleHeading-a9834e5e.vue",
+    "/portfolio/assets/Navbar-9c5a114a.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
+    "/portfolio/assets/OctocatSVG-28e8158b.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
+    "/portfolio/assets/_...all_-337a73a6.vue",
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
+  ],
+  "src/components/article/ArticlesHero.vue?vue&type=style&index=0&scoped=f5b77914&lang.css": [
+    "/portfolio/assets/index-a3163244.js",
+    "/portfolio/assets/index-b288e79d.css"
   ],
   "src/components/article/CustomList.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4359,12 +4035,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/base/AppLink.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4406,12 +4082,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/base/AppLink.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4453,14 +4129,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/base/AppLink.vue?vue&type=style&index=0&scoped=50786951&lang.css": [
+  "src/components/base/AppLink.vue?vue&type=style&index=0&scoped=eee445e4&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -4500,12 +4176,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/demos/CustomThemes.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4547,12 +4223,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/demos/GeneratePallete.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4594,12 +4270,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/demos/SmartGrid.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4641,12 +4317,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/github/GithubCardEmpty.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4688,12 +4364,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/github/GithubCardEmpty.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4735,14 +4411,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/github/GithubCardEmpty.vue?vue&type=style&index=0&scoped=ba64c353&lang.css": [
+  "src/components/github/GithubCardEmpty.vue?vue&type=style&index=0&scoped=e7b40d0e&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -4782,12 +4458,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/github/GithubProjects.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4829,12 +4505,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/github/GithubProjects.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4876,14 +4552,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/github/GithubProjects.vue?vue&type=style&index=0&scoped=af6bbcf0&lang.css": [
+  "src/components/github/GithubProjects.vue?vue&type=style&index=0&scoped=83d12a68&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -4923,16 +4599,16 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/github/GithubRepoCard.vue": [
-    "/portfolio/assets/GithubRepoCard-09dc07b4.js",
-    "/portfolio/assets/GithubRepoCard-7f1e4c2f.css"
+    "/portfolio/assets/GithubRepoCard-c421bf49.js",
+    "/portfolio/assets/GithubRepoCard-94ab8362.css"
   ],
   "src/components/github/GithubRepoCard.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -4974,16 +4650,16 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/github/GithubRepoCard.vue?vue&type=style&index=0&scoped=c651cfab&lang.css": [
-    "/portfolio/assets/GithubRepoCard-09dc07b4.js",
-    "/portfolio/assets/GithubRepoCard-7f1e4c2f.css"
+  "src/components/github/GithubRepoCard.vue?vue&type=style&index=0&scoped=bc68e3be&lang.css": [
+    "/portfolio/assets/GithubRepoCard-c421bf49.js",
+    "/portfolio/assets/GithubRepoCard-94ab8362.css"
   ],
   "src/components/hero/HeroAvatar.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5025,12 +4701,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/hero/HeroAvatar.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5072,12 +4748,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/hero/HeroAvatar.vue?vue&type=style&index=0&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5119,12 +4795,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/hero/HeroSection.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5166,12 +4842,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/hero/HeroSection.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5213,14 +4889,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/hero/HeroSection.vue?vue&type=style&index=0&scoped=077b887b&lang.css": [
+  "src/components/hero/HeroSection.vue?vue&type=style&index=0&scoped=e544e3aa&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -5260,12 +4936,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/layout/Footer.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5307,12 +4983,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/layout/Footer.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5354,14 +5030,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/layout/Footer.vue?vue&type=style&index=0&scoped=56b94790&lang.css": [
+  "src/components/layout/Footer.vue?vue&type=style&index=0&scoped=4a4ea114&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -5401,12 +5077,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/layout/MobileNavbar.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5448,12 +5124,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/layout/MobileNavbar.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5495,12 +5171,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/layout/MobileNavbar.vue?vue&type=style&index=0&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5542,12 +5218,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/layout/Navbar.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5589,12 +5265,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/layout/Navbar.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5636,14 +5312,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/layout/Navbar.vue?vue&type=style&index=0&scoped=9eba1f0e&lang.css": [
+  "src/components/layout/Navbar.vue?vue&type=style&index=0&scoped=b6086447&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -5683,12 +5359,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/posts/PostPreview.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5730,12 +5406,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/posts/PostPreview.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5777,14 +5453,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/posts/PostPreview.vue?vue&type=style&index=0&scoped=9cdf3c72&lang.css": [
+  "src/components/posts/PostPreview.vue?vue&type=style&index=0&scoped=5b82b7c7&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -5824,12 +5500,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/posts/PostsList.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5871,12 +5547,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/posts/PostsList.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -5918,14 +5594,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/posts/PostsList.vue?vue&type=style&index=0&scoped=cc1dee19&lang.css": [
+  "src/components/posts/PostsList.vue?vue&type=style&index=0&scoped=196e8581&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -5965,12 +5641,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/projects/ProjectCard.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6012,14 +5688,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/projects/ProjectCard.vue?vue&type=style&index=0&scoped=3595daf8&lang.css": [
+  "src/components/projects/ProjectCard.vue?vue&type=style&index=0&scoped=15b58a49&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -6059,12 +5735,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/projects/ProjectsGrid.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6106,12 +5782,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/projects/ProjectsGrid.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6153,14 +5829,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/projects/ProjectsGrid.vue?vue&type=style&index=0&scoped=cac30075&lang.css": [
+  "src/components/projects/ProjectsGrid.vue?vue&type=style&index=0&scoped=155cc645&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -6200,12 +5876,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/social-media/SocialMediaIcons.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6247,12 +5923,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/social-media/SocialMediaIcons.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6294,14 +5970,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/social-media/SocialMediaIcons.vue?vue&type=style&index=0&scoped=be9d36c1&lang.css": [
+  "src/components/social-media/SocialMediaIcons.vue?vue&type=style&index=0&scoped=f6a72471&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -6341,16 +6017,16 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/svg/BinaryTextSVG.vue": [
-    "/portfolio/assets/about-me-f3d01896.js",
-    "/portfolio/assets/about-me-8f22931c.css"
+    "/portfolio/assets/about-me-5d0fca84.js",
+    "/portfolio/assets/about-me-70e8d0c4.css"
   ],
   "src/components/svg/BinaryTextSVG.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6392,16 +6068,16 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/svg/CircleFillSVG.vue": [
-    "/portfolio/assets/GithubRepoCard-09dc07b4.js",
-    "/portfolio/assets/GithubRepoCard-7f1e4c2f.css"
+    "/portfolio/assets/GithubRepoCard-c421bf49.js",
+    "/portfolio/assets/GithubRepoCard-94ab8362.css"
   ],
   "src/components/svg/CircleFillSVG.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6443,12 +6119,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/svg/GridsomeSVG.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6490,12 +6166,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/svg/LampOffSVG.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6537,12 +6213,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/svg/LampOffSVG.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6584,12 +6260,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/svg/LampOnSVG.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6631,12 +6307,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/svg/LampOnSVG.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6678,14 +6354,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/svg/LampOnSVG.vue?vue&type=style&index=0&scoped=8208f18d&lang.css": [
+  "src/components/svg/LampOnSVG.vue?vue&type=style&index=0&scoped=2bd6c3f4&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -6725,12 +6401,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/svg/NetlifyLogoSVG.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6772,12 +6448,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/svg/NetlifyLogoSVG.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6819,12 +6495,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/svg/OctocatSVG.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6866,12 +6542,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/svg/OctocatSVG.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6913,16 +6589,16 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/svg/PullRequestSVG.vue": [
-    "/portfolio/assets/GithubRepoCard-09dc07b4.js",
-    "/portfolio/assets/GithubRepoCard-7f1e4c2f.css"
+    "/portfolio/assets/GithubRepoCard-c421bf49.js",
+    "/portfolio/assets/GithubRepoCard-94ab8362.css"
   ],
   "src/components/svg/PullRequestSVG.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -6964,16 +6640,16 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/svg/SpotLightSVG.vue": [
-    "/portfolio/assets/_...all_-101e6f78.js",
-    "/portfolio/assets/_...all_-822d424e.css",
+    "/portfolio/assets/_...all_-ba672b0b.js",
+    "/portfolio/assets/_...all_-157bc7ff.css",
     "/portfolio/assets/meme-281de563.png",
     "/portfolio/assets/water_drop-28b928c6.png"
   ],
@@ -7017,12 +6693,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/svg/VueSVG.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7064,12 +6740,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/svg/VueSVG.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7111,12 +6787,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/Button.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7158,12 +6834,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/Button.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7205,14 +6881,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/ui/Button.vue?vue&type=style&index=0&scoped=e3216c45&lang.css": [
+  "src/components/ui/Button.vue?vue&type=style&index=0&scoped=bea831e9&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -7252,12 +6928,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/ButtonGroup.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7299,12 +6975,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/HamburgerMenu.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7346,12 +7022,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/HamburgerMenu.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7393,14 +7069,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/ui/HamburgerMenu.vue?vue&type=style&index=0&scoped=9cdd96c4&lang.css": [
+  "src/components/ui/HamburgerMenu.vue?vue&type=style&index=0&scoped=4a8a5995&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -7440,12 +7116,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/ImgLazy.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7487,12 +7163,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/ImgLazy.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7534,14 +7210,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/ui/ImgLazy.vue?vue&type=style&index=0&scoped=3914aa0e&lang.css": [
+  "src/components/ui/ImgLazy.vue?vue&type=style&index=0&scoped=a9491e67&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -7581,12 +7257,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/InteractiveWrapper.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7628,12 +7304,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/RippleButton.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7675,12 +7351,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/ScrollIndicator.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7722,12 +7398,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/ScrollIndicator.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7769,14 +7445,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/ui/ScrollIndicator.vue?vue&type=style&index=0&scoped=41c217ac&lang.css": [
+  "src/components/ui/ScrollIndicator.vue?vue&type=style&index=0&scoped=ec11523c&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -7816,16 +7492,16 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/ShareButton.vue": [
-    "/portfolio/assets/article-39061354.js",
-    "/portfolio/assets/article-6521014c.css"
+    "/portfolio/assets/article-cf3df41b.js",
+    "/portfolio/assets/article-fbe8c8aa.css"
   ],
   "src/components/ui/ShareButton.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7867,12 +7543,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/SkipLink.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7914,12 +7590,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/SkipLink.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -7961,14 +7637,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/ui/SkipLink.vue?vue&type=style&index=0&scoped=d3875b91&lang.css": [
+  "src/components/ui/SkipLink.vue?vue&type=style&index=0&scoped=192e2205&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -8008,12 +7684,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/Tag.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8055,12 +7731,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/Tag.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8102,14 +7778,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/ui/Tag.vue?vue&type=style&index=0&scoped=08249949&lang.css": [
+  "src/components/ui/Tag.vue?vue&type=style&index=0&scoped=cfb57437&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -8149,12 +7825,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/TagGroup.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8196,12 +7872,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/TagGroup.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8243,14 +7919,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/ui/TagGroup.vue?vue&type=style&index=0&scoped=8c3f8ac8&lang.css": [
+  "src/components/ui/TagGroup.vue?vue&type=style&index=0&scoped=0d2e9ba5&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -8290,12 +7966,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/ThemeSwitcher.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8337,12 +8013,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/components/ui/ThemeSwitcher.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8384,14 +8060,14 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/components/ui/ThemeSwitcher.vue?vue&type=style&index=0&scoped=a80d2014&lang.css": [
+  "src/components/ui/ThemeSwitcher.vue?vue&type=style&index=0&scoped=1d03e688&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
     "/portfolio/assets/bg-img-01-ec472e77.jpg",
     "/portfolio/assets/bg-img-01-a715a3fe.webp",
@@ -8431,12 +8107,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/config/siteconfig.json": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8478,12 +8154,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/config/siteconfig.json?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8525,16 +8201,16 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/layouts/article.vue": [
-    "/portfolio/assets/article-39061354.js",
-    "/portfolio/assets/article-6521014c.css"
+    "/portfolio/assets/article-cf3df41b.js",
+    "/portfolio/assets/article-fbe8c8aa.css"
   ],
   "src/layouts/article.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8576,16 +8252,16 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/layouts/article.vue?vue&type=style&index=0&lang.css": [
-    "/portfolio/assets/article-39061354.js",
-    "/portfolio/assets/article-6521014c.css"
+    "/portfolio/assets/article-cf3df41b.js",
+    "/portfolio/assets/article-fbe8c8aa.css"
   ],
   "src/layouts/default.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8627,12 +8303,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/layouts/default.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8674,12 +8350,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/layouts/default.vue?vue&type=style&index=0&lang.css": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8721,15 +8397,15 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/layouts/simple.vue": [
-    "/portfolio/assets/simple-7c90441a.js"
+    "/portfolio/assets/simple-35ebc3c7.js"
   ],
   "src/layouts/simple.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8771,12 +8447,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/main.js": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8818,12 +8494,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/main.js?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8865,12 +8541,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/modules/font_awesome.js": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8912,12 +8588,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/modules/font_awesome.js?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -8959,12 +8635,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/modules/gtag.js": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -9006,12 +8682,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/modules/gtag.js?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -9053,12 +8729,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/modules/pwa.js": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -9100,12 +8776,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/modules/pwa.js?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -9147,12 +8823,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/modules/urql.js": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -9194,12 +8870,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/modules/urql.js?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -9241,16 +8917,16 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/pages/[...all].vue": [
-    "/portfolio/assets/_...all_-101e6f78.js",
-    "/portfolio/assets/_...all_-822d424e.css",
+    "/portfolio/assets/_...all_-ba672b0b.js",
+    "/portfolio/assets/_...all_-157bc7ff.css",
     "/portfolio/assets/meme-281de563.png",
     "/portfolio/assets/water_drop-28b928c6.png"
   ],
@@ -9294,22 +8970,22 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/pages/[...all].vue?vue&type=style&index=0&scoped=e9f0bf08&lang.css": [
-    "/portfolio/assets/_...all_-101e6f78.js",
-    "/portfolio/assets/_...all_-822d424e.css",
+  "src/pages/[...all].vue?vue&type=style&index=0&scoped=7d44177f&lang.css": [
+    "/portfolio/assets/_...all_-ba672b0b.js",
+    "/portfolio/assets/_...all_-157bc7ff.css",
     "/portfolio/assets/meme-281de563.png",
     "/portfolio/assets/water_drop-28b928c6.png"
   ],
   "src/pages/about-me.vue": [
-    "/portfolio/assets/about-me-f3d01896.js",
-    "/portfolio/assets/about-me-8f22931c.css"
+    "/portfolio/assets/about-me-5d0fca84.js",
+    "/portfolio/assets/about-me-70e8d0c4.css"
   ],
   "src/pages/about-me.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -9351,20 +9027,20 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/pages/about-me.vue?vue&type=style&index=0&scoped=5a4054f5&lang.css": [
-    "/portfolio/assets/about-me-f3d01896.js",
-    "/portfolio/assets/about-me-8f22931c.css"
+  "src/pages/about-me.vue?vue&type=style&index=0&scoped=3475a54e&lang.css": [
+    "/portfolio/assets/about-me-5d0fca84.js",
+    "/portfolio/assets/about-me-70e8d0c4.css"
   ],
   "src/pages/articles/index.vue": [
-    "/portfolio/assets/index-be6d5ef1.js",
-    "/portfolio/assets/index-42fa9ebb.css"
+    "/portfolio/assets/index-a3163244.js",
+    "/portfolio/assets/index-b288e79d.css"
   ],
   "src/pages/articles/index.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -9406,16 +9082,16 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/pages/articles/index.vue?vue&type=style&index=0&scoped=9e41ba57&lang.css": [
-    "/portfolio/assets/index-be6d5ef1.js",
-    "/portfolio/assets/index-42fa9ebb.css"
+  "src/pages/articles/index.vue?vue&type=style&index=0&scoped=2d823a4a&lang.css": [
+    "/portfolio/assets/index-a3163244.js",
+    "/portfolio/assets/index-b288e79d.css"
   ],
   "src/pages/index.vue": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -9457,12 +9133,12 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/pages/index.vue?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -9504,16 +9180,16 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
   "src/pages/now.md": [
-    "/portfolio/assets/now-44c491dd.js",
-    "/portfolio/assets/now-2240176c.css"
+    "/portfolio/assets/now-0ddd186f.js",
+    "/portfolio/assets/now-58ca0513.css"
   ],
   "src/pages/now.md?url": [
     "/portfolio/assets/b64-image-352cf1c8.png",
@@ -9555,15 +9231,65 @@
     "/portfolio/assets/xd-85b03743.svg",
     "/portfolio/assets/ArticleHeading-a9834e5e.vue",
     "/portfolio/assets/Navbar-9c5a114a.vue",
-    "/portfolio/assets/SocialMediaIcons-129cbcfa.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
     "/portfolio/assets/OctocatSVG-28e8158b.vue",
-    "/portfolio/assets/article-2a2b0004.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
     "/portfolio/assets/_...all_-337a73a6.vue",
-    "/portfolio/assets/about-me-18ec49e7.vue",
-    "/portfolio/assets/index-5d841322.vue"
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
   ],
-  "src/pages/now.md?vue&type=style&index=0&scoped=5ed97937&lang.css": [
-    "/portfolio/assets/now-44c491dd.js",
-    "/portfolio/assets/now-2240176c.css"
+  "src/pages/now.md?vue&type=style&index=0&scoped=7cf1bf4c&lang.css": [
+    "/portfolio/assets/now-0ddd186f.js",
+    "/portfolio/assets/now-58ca0513.css"
+  ],
+  "virtual:vite-plugin-pages/generated-pages?id=virtual:generated-pages": [
+    "/portfolio/assets/b64-image-352cf1c8.png",
+    "/portfolio/assets/bg-img-01-ec472e77.jpg",
+    "/portfolio/assets/bg-img-01-a715a3fe.webp",
+    "/portfolio/assets/bg-img-02-a722a2a5.jpg",
+    "/portfolio/assets/bg-img-02-517dcdc0.webp",
+    "/portfolio/assets/bg-img-03-ef1771ef.jpg",
+    "/portfolio/assets/bg-img-03-acf159d8.webp",
+    "/portfolio/assets/me-e7bcd3fc.png",
+    "/portfolio/assets/meme-281de563.png",
+    "/portfolio/assets/profile-cd9ad85a.jpg",
+    "/portfolio/assets/water_drop-28b928c6.png",
+    "/portfolio/assets/binary-text-5dd00e0e.svg",
+    "/portfolio/assets/circle-fill-2eb554d4.svg",
+    "/portfolio/assets/code-61849eec.svg",
+    "/portfolio/assets/figma-8ab7cd92.svg",
+    "/portfolio/assets/git-pull-request-bc354b52.svg",
+    "/portfolio/assets/gridsome-logo-e21d213b.svg",
+    "/portfolio/assets/html-699a4221.svg",
+    "/portfolio/assets/js-dcea0c6b.svg",
+    "/portfolio/assets/lamp-off-f6a06f1f.svg",
+    "/portfolio/assets/lamp-on-00e4d7c6.svg",
+    "/portfolio/assets/laravel-fdabeb03.svg",
+    "/portfolio/assets/link-258f1bd7.svg",
+    "/portfolio/assets/logo-dark-150fc575.svg",
+    "/portfolio/assets/logo-white-366438ba.svg",
+    "/portfolio/assets/netlify-logo-e98d5c0e.svg",
+    "/portfolio/assets/nodejs-5dbfcfcf.svg",
+    "/portfolio/assets/nuxt-d5905e36.svg",
+    "/portfolio/assets/octocat-2e7aa972.svg",
+    "/portfolio/assets/python-b0f71783.svg",
+    "/portfolio/assets/react-fe45c48c.svg",
+    "/portfolio/assets/sass-80d1ea34.svg",
+    "/portfolio/assets/spotlight-52e55699.svg",
+    "/portfolio/assets/star-fill-e2ab3ebc.svg",
+    "/portfolio/assets/ts-49e5c4fe.svg",
+    "/portfolio/assets/vue-22e1e063.svg",
+    "/portfolio/assets/xd-85b03743.svg",
+    "/portfolio/assets/ArticleHeading-a9834e5e.vue",
+    "/portfolio/assets/Navbar-9c5a114a.vue",
+    "/portfolio/assets/SocialMediaIcons-8d937790.vue",
+    "/portfolio/assets/OctocatSVG-28e8158b.vue",
+    "/portfolio/assets/article-0b2993f7.vue",
+    "/portfolio/assets/_...all_-337a73a6.vue",
+    "/portfolio/assets/about-me-610af9af.vue",
+    "/portfolio/assets/index-dfe52b7c.vue"
+  ],
+  "virtual:vite-plugin-pages/route-block": [
+    "/portfolio/assets/route-block-83d24a4e.js"
   ]
 }

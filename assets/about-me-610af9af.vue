@@ -105,6 +105,7 @@ main {
     font-size: var(--text-lg);
     opacity: 0.8;
     max-width: 71ch;
+    text-align: justify;
   }
 }
 

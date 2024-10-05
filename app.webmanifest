@@ -1,10 +1,10 @@
 {
   "lang": "en-US",
-  "name": "Jeferson's Portfolio",
-  "short_name": "JB",
+  "name": "Fazle Rabi Rakib's Portfolio",
+  "short_name": "FRR",
   "start_url": "/",
   "display": "standalone",
-  "description": "I'm a Software Engineer that crafts things for the Web, heavy focused on front-end development enthusiastic and fascinated on UI design",
+  "description": "I'm a Lecturer, Software Engineer. I'm passionate about learning, teaching and crafting things for web.",
   "icons": [
     {
       "src": "./android-chrome-192x192.png",
