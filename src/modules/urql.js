@@ -1,4 +1,5 @@
-import urql, { cacheExchange, fetchExchange } from '@urql/vue'
+import * as urql from '@urql/vue'
+import { cacheExchange, fetchExchange } from '@urql/core'
 
 export const install = ({ isClient, app }) => {
 
