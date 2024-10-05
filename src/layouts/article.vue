@@ -15,13 +15,11 @@
       <section class="container">
         <div ref="articleBody" class="article-body">
           <router-view v-slot="{ Component, route }">
-            <transition name="fade" mode="out-in">
               <component
                 :is="Component"
                 :key="route.path"
                 class="article-body-content text-justify"
               />
-            </transition>
           </router-view>
         </div>
       </section>
@@ -278,15 +276,5 @@ p code {
   .article-body-content p {
     line-height: 1.7;
   }
-}
-
-.fade-enter-active,
-.fade-leave-active {
-  transition: opacity 0.5s ease-out;
-}
-
-.fade-enter-from,
-.fade-leave-to {
-  opacity: 0;
 }
 </style>

@@ -2,9 +2,7 @@
   <SkipLink />
   <Navbar />
   <router-view v-slot="{ Component, route }">
-    <transition name="fade" mode="out-in">
-      <component :is="Component" :key="route.path" />
-    </transition>
+      <component :is="Component" />
   </router-view>
   <Footer />
 </template>
@@ -80,15 +78,5 @@ body::-webkit-scrollbar-thumb {
   border-radius: 10px;
   background-color: var(--scrollbar-thumb-color);
   border: 3px solid var(--scrollbar-border);
-}
-
-.fade-enter-active,
-.fade-leave-active {
-  transition: opacity 0.5s ease-out;
-}
-
-.fade-enter-from,
-.fade-leave-to {
-  opacity: 0;
 }
 </style>
