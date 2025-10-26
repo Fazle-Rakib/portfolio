@@ -19,8 +19,13 @@
         <p>
           I am Fazle Rabbi Rakib, currently a <strong> Lecturer </strong> at the Institute of Information and Communication Technology (IICT), <a href="https://sust.edu">Shahjalal University of Science & Technology</a>, Sylhet.
         </p>
+
         <p>
-          During my professional journey, I’ve gained substantial experience as a <strong> Software Engineer </strong> at <a href="https:pathao.com">Pathao Limited</a>, where I actively contributed to developing various web portals, internal dashboards, and frontend interfaces. My time there has honed my skills in HTML, CSS, JavaScript, and VueJS—all of which form the backbone of modern frontend development.
+          As a Lecturer at SUST, I'm passionate about shaping the next wave of tech innovators. I teach a dynamic range of undergraduate courses, from Software Requirement Engineering and Object-Oriented Programming to  Web Technologies and Information and Network Security. My goal is to bridge the gap between theory and practice, infusing my industry experience into the classroom.
+        </p>
+        
+        <p>
+          During my professional journey, I’ve gained substantial experience as a <strong> Software Engineer </strong> at <a href="https://pathao.com">Pathao Limited</a>, where I actively contributed to developing various web portals, internal dashboards, and frontend interfaces. My time there has honed my skills in HTML, CSS, JavaScript, and VueJS—all of which form the backbone of modern frontend development.
         </p>
 
         <p>

@@ -3,7 +3,17 @@
     <div class="hero-content">
       <h1 class="hero__headline">I'm Fazle Rabbi Rakib</h1>
       <p class="hero__description">
-        A <strong>Lecturer</strong> and <strong>Software Engineer</strong>. Passionate about front-end development, and love creating cool stuff for the web! Teaching and learning keep me energized, and I’m always up for the next challenge🌟
+        A <strong>Lecturer</strong> and <strong>Software Engineer</strong>.
+        My work spans
+        <a href="https://www.sust.edu/institutes/iict/faculty/rakib-iict@sust.edu" class="hero-link" target="_blank"
+          rel="noopener noreferrer">teaching</a>,
+        <a href="https://scholar.google.com/citations?user=3C2-4CkAAAAJ&hl=en" class="hero-link" target="_blank"
+          rel="noopener noreferrer">
+          research</a>, and
+        <a href="https://github.com/Fazle-Rakib" class="hero-link" target="_blank" rel="noopener noreferrer">software
+          engineering</a>
+        , with a practical focus: turning real-world problems into simple, usable solutions that improve people’s lives.
+        Teaching and learning keep me energized, and I’m always up for the next challenge🌟
       </p>
       <SocialMediaIcons />
     </div>
@@ -11,12 +21,8 @@
       <ScrollIndicator class="is-mobile-only" />
       <h2 class="hero__subheadline">web developer</h2>
       <HeroAvatar>
-        <img
-          src="@/assets/img/profile.jpg"
-          alt="me"
-          class="hero-avatar__image mx-auto w-1/2 object-cover"
-          loading="lazy"
-          />
+        <img src="@/assets/img/profile.jpg" alt="me" class="hero-avatar__image mx-auto w-1/2 object-cover"
+          loading="lazy" />
       </HeroAvatar>
     </div>
   </section>
@@ -64,6 +70,34 @@
   font-size: clamp(var(--text-base), 1vw + var(--text-lg), var(--text-xl));
   margin-bottom: 1.5rem;
   color: var(--color-silver-600);
+}
+
+.hero-link {
+  color: var(--color-primary, #007bff);
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.hero-link:hover {
+  color: var(--color-accent, #ff6b6b);
+  transform: scale(1.05);
+}
+
+.hero-link::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: var(--color-accent, #ff6b6b);
+  transition: width 0.3s ease;
+}
+
+.hero-link:hover::after {
+  width: 100%;
 }
 
 .hero-aside {
