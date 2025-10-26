@@ -3,7 +3,7 @@
     <HeroSection />
     <PostsList />
     <ProjectsGrid />
-    <GithubProjects />
+    <!-- <GithubProjects /> -->
   </main>
 </template>
 
