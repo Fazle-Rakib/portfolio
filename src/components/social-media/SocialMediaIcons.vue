@@ -1,11 +1,33 @@
 <template>
-  <div :class="classes" class="flex flex-col items-center sm:flex-row">
+  <div :class="classes" class="flex flex-col items-center sm:flex-row sm:justify-center mt-5">
+
+    <AppLink
+      isExternal
+      to="https://www.sust.edu/institutes/iict/faculty/rakib-iict@sust.edu"
+      aria-label="My SUST Profile"
+      title="My SUST Profile"
+      class="ml-5 mb-5 sm:ml-0 sm:mb-0"
+    >
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        height="41"
+        width="41"
+        viewBox="0 0 640 512"
+        fill="none">
+        <!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. -->
+        <path d="M623.1 136.9l-282.7-101.2c-13.73-4.91-28.7-4.91-42.43 0L16.05 136.9C6.438 140.4 0 149.6 0 160s6.438 19.65 16.05 23.09L76.07 204.6c-11.89 15.8-20.26 34.16-24.55 53.95C40.05 263.4 32 274.8 32 288c0 9.953 4.814 18.49 11.94 24.36l-24.83 149C17.48 471.1 25 480 34.89 480H93.11c9.887 0 17.41-8.879 15.78-18.63l-24.83-149C91.19 306.5 96 297.1 96 288c0-10.29-5.174-19.03-12.72-24.89c4.252-17.76 12.88-33.82 24.94-47.03l190.6 68.23c13.73 4.91 28.7 4.91 42.43 0l282.7-101.2C633.6 179.6 640 170.4 640 160S633.6 140.4 623.1 136.9zM351.1 314.4C341.7 318.1 330.9 320 320 320c-10.92 0-21.69-1.867-32-5.555L142.8 262.5L128 405.3C128 446.6 213.1 480 320 480c105.1 0 192-33.4 192-74.67l-14.78-142.9L351.1 314.4z"
+        fill="#F4F4F4"
+        />
+      </svg>
+    </AppLink>
+
+
     <AppLink
       isExternal
       to="https://scholar.google.com/citations?user=3C2-4CkAAAAJ&hl=en"
       aria-label="My Google Scholar"
       title="My Google Scholar"
-      class="ml-5 sm:ml-0"
+      class="ml-5 mb-5 sm:ml-0 sm:mb-0"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -23,6 +45,7 @@
       to="https://github.com/fazle-rakib"
       aria-label="My Github"
       title="My Github"
+      class="ml-5 mb-5 sm:ml-0 sm:mb-0"
     >
       <svg
         width="42"
@@ -42,6 +65,7 @@
       to="https://www.linkedin.com/in/fazle-rakib/"
       aria-label="My LinkedIn Account"
       title="My LinkedIn"
+      class="ml-5 sm:ml-0"
     >
       <svg
         width="41"
@@ -132,6 +156,7 @@ const classes = computed(() => ({
 
 body[data-theme='light'] .social-media-icons a {
   background-color: var(--bg-color-lighter);
+  box-shadow: var(--elevation-2);
 }
 
 body[data-theme='light'] .social-media-icons a:hover {
