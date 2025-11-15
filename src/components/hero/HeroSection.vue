@@ -134,8 +134,9 @@ onMounted(() => {
 .hero__description {
   font-size: clamp(var(--text-base), 1vw + var(--text-lg), var(--text-xl));
   margin-bottom: 1.5rem;
-  color: var(--color-silver-600);
+  opacity: 0.8;
   text-align: justify;
+  max-width: 71ch;
 }
 
 .hero-link {

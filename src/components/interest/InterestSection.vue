@@ -71,7 +71,7 @@ body[data-theme='dark'] .interest-item {
 }
 
 .interest-text {
-  color: var(--color-gray-700);
+  color: inherit;
   line-height: 1.6;
   margin-left: 1rem;
   font-size: var(--text-lg);
@@ -81,7 +81,6 @@ body[data-theme='dark'] .interest-item {
 }
 
 body[data-theme='dark'] .interest-text {
-  color: var(--color-gray-300);
   opacity: 0.8;
 }
 
