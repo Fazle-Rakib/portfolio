@@ -25,7 +25,7 @@ defineProps({
 })
 
 const themes = ['light', 'dark']
-const current = ref('dark')
+const current = ref('light')
 
 onMounted(() => {
   current.value =

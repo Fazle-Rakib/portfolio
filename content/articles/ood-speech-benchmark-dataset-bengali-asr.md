@@ -72,3 +72,5 @@ To learn more about OOD-Speech and access the dataset, check out the official pa
 
 - **Project Page**: [OOD-Speech on Bengali.AI](https://bengaliai.github.io/asr)
 - **Research Paper**: [OOD-Speech: A Large Bengali Speech Recognition Dataset for Out-of-Distribution Benchmarking](https://arxiv.org/abs/2305.09688)
+- **Dataset Repository**: [OOD-Speech: Download Dataset ](https://commonvoice.mozilla.org/bn/datasets)
+- **Kaggle Featured Competition**: [Bengali.AI Speech Recognition](https://www.kaggle.com/competitions/bengaliai-speech)

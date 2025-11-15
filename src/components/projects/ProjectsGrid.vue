@@ -1,16 +1,9 @@
 <template>
   <section class="projects-grid container" id="projects">
     <h3>Projects</h3>
-    <ProjectCard
-      v-for="project in highlightedProjects"
-      :key="project.title"
-      :thumbnail="project.thumbnail"
-      :title="project.title"
-      :description="project?.description"
-      :tags="project.tags"
-      :github="project.github"
-      :demo="project.demo"
-    />
+    <ProjectCard v-for="project in highlightedProjects" :key="project.title" :thumbnail="project.thumbnail"
+      :title="project.title" :description="project?.description" :tags="project.tags" :github="project.github"
+      :demo="project.demo" />
   </section>
 </template>
 
@@ -28,6 +21,7 @@ const highlightedProjects = Object.values(projects).filter(
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 2rem;
   margin-bottom: 4rem;
+  scroll-margin-top: 80px;
 }
 
 .projects-grid h3 {

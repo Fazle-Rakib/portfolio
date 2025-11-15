@@ -1,6 +1,8 @@
 <template>
   <main id="main-content">
     <HeroSection />
+    <InterestSection />
+    <EducationSection />
     <PostsList />
     <ProjectsGrid />
     <!-- <GithubProjects /> -->
