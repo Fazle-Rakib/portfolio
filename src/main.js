@@ -14,7 +14,20 @@ export const createApp = ViteSSG(
   App,
   {
     routes,
-    base: import.meta.env.BASE_URL || '/portfolio/'
+    base: import.meta.env.BASE_URL || '/portfolio/',
+    scrollBehavior(to, from, savedPosition) {
+      if (savedPosition) {
+        return savedPosition
+      } else if (to.hash) {
+        return {
+          el: to.hash,
+          behavior: 'smooth',
+          top: 80, // Account for sticky navbar height
+        }
+      } else {
+        return { top: 0 }
+      }
+    },
   },
   (ctx) => {
     // install all modules under `modules/`

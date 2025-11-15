@@ -21,6 +21,11 @@
             <router-link class="navbar-menu__link" to="/about-me">About</router-link>
           </li>
           <li class="navbar-menu__item">
+            <router-link class="navbar-menu__link" to="/#education">
+              Education
+            </router-link>
+          </li>
+          <li class="navbar-menu__item">
             <router-link class="navbar-menu__link" to="/#projects">
               Projects
             </router-link>
@@ -41,6 +46,11 @@
       </li>
       <li class="navbar-menu__item">
         <router-link class="navbar-menu__link" to="/about-me">About</router-link>
+      </li>
+      <li class="navbar-menu__item">
+        <router-link class="navbar-menu__link" to="/#education">
+          Education
+        </router-link>
       </li>
       <li class="navbar-menu__item">
         <router-link class="navbar-menu__link" to="/#projects">
