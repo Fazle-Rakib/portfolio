@@ -169,6 +169,10 @@ body[data-theme='light'] .download-text {
   .social-media-grid {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .download-text {
+    display: none !important;
+  }
 }
 
 .download-text {
