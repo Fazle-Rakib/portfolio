@@ -13,9 +13,26 @@
         <a href="https://github.com/Fazle-Rakib" class="hero-link" target="_blank" rel="noopener noreferrer">software
           engineering</a>
         , with a practical focus: turning real-world problems into simple, usable solutions that improve people’s lives.
-        Teaching and learning keep me energized, and I’m always up for the next challenge🌟
+        Teaching and learning keep me energized, and I’m always up for the next challenge.
       </p>
-      <SocialMediaIcons />
+      <p class="hero__description">
+        I hold a Bachelor's degree in Software Engineering from Shahjalal University of Science and Technology(SUST).
+        Before joining
+        academia as Lecturer at IICT, SUST, I spent two years in industry as a Software Engineer at Pathao. I teach core
+        courses:
+        OOP, Software Requirements, Web Tech, Information and Network Security. I have contributed to large Bengali
+        datasets and papers (
+        <a href="https://fazle-rakib.github.io/portfolio/articles/ood-speech-benchmark-dataset-bengali-asr"
+          class="hero-link" target="_blank" rel="noopener noreferrer">OOD-Speech</a>,
+        <a href="https://fazle-rakib.github.io/portfolio/articles/badlad-document-layout-dataset" class="hero-link"
+          target="_blank" rel="noopener noreferrer">BaDLAD</a>
+        ), published at Interspeech 2023, ICDAR 2023.
+      </p>
+      <p class="hero__description">
+        I am passionate about research at the intersection of AI/LLMs, security, and software engineering. I am also
+        motivated to contribute research that strengthens the security, reliability and responsible use of AI and
+        information system in real-world environments.
+      </p>
     </div>
     <div class="hero-aside">
       <ScrollIndicator class="is-mobile-only" />
@@ -81,7 +98,7 @@ onMounted(() => {
   display: grid;
   grid-template-columns: minmax(50%, 700px) auto;
   align-items: center;
-  padding: 3rem 0;
+  padding: 3rem 0 0 0;
 }
 
 .hero__headline {
@@ -118,6 +135,7 @@ onMounted(() => {
   font-size: clamp(var(--text-base), 1vw + var(--text-lg), var(--text-xl));
   margin-bottom: 1.5rem;
   color: var(--color-silver-600);
+  text-align: justify;
 }
 
 .hero-link {
