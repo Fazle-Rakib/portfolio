@@ -13,13 +13,29 @@
         <a href="https://github.com/Fazle-Rakib" class="hero-link" target="_blank" rel="noopener noreferrer">software
           engineering</a>
         , with a practical focus: turning real-world problems into simple, usable solutions that improve people’s lives.
-        Teaching and learning keep me energized, and I’m always up for the next challenge🌟
+        Teaching and learning keep me energized, and I’m always up for the next challenge.
       </p>
-      <SocialMediaIcons />
+      <p class="hero__description">
+        I hold a Bachelor's degree in Software Engineering from Shahjalal University of Science and Technology(SUST).
+        Before joining
+        academia as Lecturer at IICT, SUST, I spent two years in industry as a Software Engineer at Pathao. I teach core
+        courses:
+        OOP, Software Requirements, Web Tech, Information and Network Security. I have contributed to large Bengali
+        datasets and papers (
+        <a href="https://fazle-rakib.github.io/portfolio/articles/ood-speech-benchmark-dataset-bengali-asr"
+          class="hero-link" target="_blank" rel="noopener noreferrer">OOD-Speech</a>,
+        <a href="https://fazle-rakib.github.io/portfolio/articles/badlad-document-layout-dataset" class="hero-link"
+          target="_blank" rel="noopener noreferrer">BaDLAD</a>
+        ), published at Interspeech 2023, ICDAR 2023.
+      </p>
+      <p class="hero__description">
+        I am passionate about research at the intersection of AI/LLMs, security, and software engineering. I am also
+        motivated to contribute research that strengthens the security, reliability and responsible use of AI and
+        information system in real-world environments.
+      </p>
     </div>
     <div class="hero-aside">
       <ScrollIndicator class="is-mobile-only" />
-      <h2 class="hero__subheadline">{{ currentText }}{{ showCursor ? '|' : '' }}</h2>
       <HeroAvatar>
         <img src="@/assets/img/profile.jpg" alt="me" class="hero-avatar__image mx-auto w-1/2 object-cover"
           loading="lazy" />
@@ -28,96 +44,29 @@
   </section>
 </template>
 
-<script setup>
-import { ref, onMounted } from 'vue'
-
-const roles = ['Instructor', 'Learner', 'Researcher', 'Web developer']
-const currentText = ref('')
-const currentRoleIndex = ref(0)
-const isTyping = ref(true)
-const showCursor = ref(true)
-
-const typeSpeed = 150
-const eraseSpeed = 100
-const pauseTime = 2000
-const cursorBlinkSpeed = 500
-
-function typeWriter() {
-  const fullText = roles[currentRoleIndex.value]
-
-  if (isTyping.value) {
-    if (currentText.value.length < fullText.length) {
-      currentText.value += fullText[currentText.value.length]
-      setTimeout(typeWriter, typeSpeed)
-    } else {
-      isTyping.value = false
-      setTimeout(typeWriter, pauseTime)
-    }
-  } else {
-    if (currentText.value.length > 0) {
-      currentText.value = currentText.value.slice(0, -1)
-      setTimeout(typeWriter, eraseSpeed)
-    } else {
-      isTyping.value = true
-      currentRoleIndex.value = (currentRoleIndex.value + 1) % roles.length
-      setTimeout(typeWriter, typeSpeed)
-    }
-  }
-}
-
-onMounted(() => {
-  // Start typewriter effect after 1 second
-  setTimeout(typeWriter, 1000)
-
-  // Blinking cursor
-  setInterval(() => {
-    showCursor.value = !showCursor.value
-  }, cursorBlinkSpeed)
-})
-</script>
 
 <style scoped>
 .hero {
   display: grid;
   grid-template-columns: minmax(50%, 700px) auto;
   align-items: center;
-  padding: 3rem 0;
+  padding: 1.5rem 0 0 0;
+  gap: 2rem;
 }
 
 .hero__headline {
-  font-size: var(--text-3xl);
+  font-size: var(--text-xl);
   font-size: clamp(var(--text-xl), 1vw + var(--text-2xl), var(--text-3xl));
   font-weight: 700;
 }
 
-.hero__subheadline {
-  display: grid;
-  grid-template-columns: 1fr auto 1fr;
-  gap: 1em;
-  font-size: var(--text-sm);
-  font-family: var(--font-mono);
-  font-weight: 500;
-  writing-mode: vertical-lr;
-  text-transform: uppercase;
-  letter-spacing: 2.5px;
-  color: var(--color-gray-400);
-  margin: 0 1rem;
-}
-
-.hero__subheadline::before,
-.hero__subheadline::after {
-  content: '';
-  border-bottom: 1px solid var(--color-gray-400);
-  align-self: center;
-  justify-self: center;
-  min-width: 24px;
-  transform: rotate(90deg);
-}
 
 .hero__description {
   font-size: clamp(var(--text-base), 1vw + var(--text-lg), var(--text-xl));
   margin-bottom: 1.5rem;
-  color: var(--color-silver-600);
+  opacity: 0.8;
+  text-align: justify;
+  max-width: 71ch;
 }
 
 .hero-link {
@@ -181,14 +130,21 @@ onMounted(() => {
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 768px) {
   .hero {
-    height: 100vh;
-    grid-template-columns: 1fr;
+    padding: 0.75rem 18px 0 18px;
+    gap: 1rem;
   }
 
-  .hero-aside .hero-avatar {
-    display: none;
+  .hero-aside {
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .hero {
+    min-height: auto;
+    padding: 0.5rem 12px 0 12px;
   }
 
   .hero-content {
@@ -196,23 +152,35 @@ onMounted(() => {
   }
 
   .hero__headline {
-    font-size: calc(var(--text-xl) + 0.75rem);
+    font-size: var(--text-xl);
     letter-spacing: 1.2px;
   }
 
-  .social-media-icons a {
-    padding: 8px;
-  }
-
-  .social-media-icons a svg {
-    max-width: 35px;
+  .hero__description {
+    font-size: var(--text-base);
+    text-align: left;
   }
 }
 
 @media screen and (max-width: 1024px) {
   .hero {
-    padding-right: 18px;
-    padding-left: 18px;
+    padding: 1rem 18px 0 18px;
+    grid-template-columns: 1fr;
+    text-align: center;
+    gap: 1.5rem;
+  }
+
+  .hero-content {
+    order: 2;
+  }
+
+  .hero-aside {
+    order: 1;
+    justify-self: center;
+  }
+
+  .hero__description {
+    max-width: none;
   }
 }
 </style>

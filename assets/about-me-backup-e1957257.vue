@@ -10,7 +10,6 @@
           loading="lazy"
         />
       </HeroAvatar>
-      <BinaryTextSVG />
     </aside>
     <main id="main-content">
       <article class="about-content">
@@ -23,7 +22,7 @@
         <p>
           As a Lecturer at SUST, I'm passionate about shaping the next wave of tech innovators. I teach a dynamic range of undergraduate courses, from Software Requirement Engineering and Object-Oriented Programming to  Web Technologies and Information and Network Security. My goal is to bridge the gap between theory and practice, infusing my industry experience into the classroom.
         </p>
-        
+
         <p>
           During my professional journey, I’ve gained substantial experience as a <strong> Software Engineer </strong> at <a href="https://pathao.com">Pathao Limited</a>, where I actively contributed to developing various web portals, internal dashboards, and frontend interfaces. My time there has honed my skills in HTML, CSS, JavaScript, and VueJS—all of which form the backbone of modern frontend development.
         </p>
@@ -42,7 +41,7 @@
           I’m passionate about bridging the gap between research and real-world applications, always looking for innovative ways to make technology more accessible.
         </p>
 
-        <SocialMediaIcons boxed />
+        <BinaryTextSVG />
       </article>
     </main>
   </div>
@@ -104,6 +103,8 @@ main {
 .about-content {
   .about-content__headline {
     font-size: var(--text-2xl);
+    margin-bottom: 2rem;
+    color: var(--color-gray-800);
   }
 
   p {
@@ -111,6 +112,135 @@ main {
     opacity: 0.8;
     max-width: 71ch;
     text-align: justify;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+
+  .intro-section {
+    margin-bottom: 3rem;
+    text-align: center;
+    
+    .greeting {
+      font-size: var(--text-xl);
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      opacity: 1;
+      max-width: none;
+    }
+    
+    .subtitle {
+      font-size: var(--text-lg);
+      color: var(--color-primary);
+      font-weight: 500;
+      opacity: 0.9;
+      margin-bottom: 0;
+      max-width: none;
+    }
+  }
+
+  section {
+    margin-bottom: 2.5rem;
+    
+    h2 {
+      font-size: var(--text-xl);
+      font-weight: 700;
+      color: var(--color-gray-800);
+      margin-bottom: 1rem;
+      border-bottom: 2px solid var(--color-primary);
+      padding-bottom: 0.5rem;
+      display: inline-block;
+    }
+  }
+
+  ul {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+    
+    li {
+      font-size: var(--text-lg);
+      line-height: 1.6;
+      margin-bottom: 0.75rem;
+      opacity: 0.8;
+      text-align: justify;
+      
+      strong {
+        color: var(--color-primary);
+        opacity: 1;
+      }
+      
+      em {
+        color: var(--color-gray-600);
+        font-style: italic;
+      }
+    }
+  }
+
+  .expertise-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin-top: 1.5rem;
+    
+    > div {
+      padding: 1.5rem;
+      background-color: var(--accent-color-lighter, var(--color-gray-100));
+      border-radius: var(--radius-default);
+      border-left: 4px solid var(--color-primary);
+      
+      h3 {
+        font-size: var(--text-lg);
+        font-weight: 600;
+        margin-bottom: 1rem;
+        color: var(--color-gray-800);
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        
+        svg {
+          color: var(--color-primary);
+        }
+      }
+      
+      p {
+        font-size: var(--text-base);
+        margin: 0;
+        text-align: left;
+        max-width: none;
+      }
+    }
+  }
+
+  .cta-section {
+    background: linear-gradient(135deg, var(--color-primary), var(--color-accent, #ff6b6b));
+    color: white;
+    padding: 2rem;
+    border-radius: var(--radius-default);
+    text-align: center;
+    margin-top: 3rem;
+    
+    .collaboration-invite {
+      font-size: var(--text-lg);
+      font-weight: 500;
+      margin: 0;
+      opacity: 1;
+      max-width: none;
+      
+      svg {
+        margin-right: 0.5rem;
+      }
+    }
+  }
+
+  a {
+    color: var(--color-primary);
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      color: var(--color-accent, #ff6b6b);
+      text-decoration: underline;
+    }
   }
 }
 
@@ -121,6 +251,7 @@ main {
   left: 282px;
   top: 387px;
   opacity: 0.3;
+  z-index: -1;
 
   & :deep(tspan) {
     --text-delay: 500ms;
@@ -171,6 +302,41 @@ main {
   }
 }
 
+body[data-theme='dark'] .about-content {
+  .about-content__headline {
+    color: var(--color-default-white);
+  }
+  
+  section h2 {
+    color: var(--color-default-white);
+  }
+  
+  .expertise-grid > div {
+    background-color: var(--color-gray-800);
+    
+    h3 {
+      color: var(--color-default-white);
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .about-content {
+    .expertise-grid {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+    
+    section {
+      margin-bottom: 2rem;
+    }
+    
+    .intro-section {
+      margin-bottom: 2rem;
+    }
+  }
+}
+
 @media screen and (max-width: 425px) {
   aside {
     padding: 0 1rem;
@@ -184,6 +350,42 @@ main {
     top: 50%;
     left: 0;
     bottom: 0;
+  }
+  
+  .about-content {
+    .intro-section {
+      .greeting {
+        font-size: var(--text-lg);
+      }
+      
+      .subtitle {
+        font-size: var(--text-base);
+      }
+    }
+    
+    section h2 {
+      font-size: var(--text-lg);
+    }
+    
+    p, ul li {
+      font-size: var(--text-base);
+    }
+    
+    .expertise-grid > div {
+      padding: 1rem;
+      
+      h3 {
+        font-size: var(--text-base);
+      }
+    }
+    
+    .cta-section {
+      padding: 1.5rem;
+      
+      .collaboration-invite {
+        font-size: var(--text-base);
+      }
+    }
   }
 }
 </style>
