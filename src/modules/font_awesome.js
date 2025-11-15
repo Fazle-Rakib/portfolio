@@ -15,7 +15,19 @@ import {
   faLightbulb,
   faBullseye,
   faHandshake,
+  faEnvelope,
+  faExternalLinkAlt,
+  faFileAlt,
+  faDatabase,
+  faTrophy,
+  faGlobe,
 } from '@fortawesome/free-solid-svg-icons'
+
+import {
+  faLinkedin,
+  faGithub,
+  faKaggle,
+} from '@fortawesome/free-brands-svg-icons'
 
 /* add icons to the library */
 library.add(
@@ -27,7 +39,16 @@ library.add(
   faMicroscope,
   faLightbulb,
   faBullseye,
-  faHandshake
+  faHandshake,
+  faEnvelope,
+  faLinkedin,
+  faExternalLinkAlt,
+  faFileAlt,
+  faDatabase,
+  faTrophy,
+  faGlobe,
+  faGithub,
+  faKaggle
 )
 
 export const install = ({ isClient, app }) => {

@@ -22,7 +22,8 @@
             <a href="https://sust.edu" target="_blank" rel="noopener noreferrer">Shahjalal University of Science &
               Technology</a>,
             where I combine my passion for education with cutting-edge research in software engineering and artificial
-            intelligence.
+            intelligence. You can reach me at <a href="mailto:rakib-iict@sust.edu"
+              class="email-link">rakib-iict@sust.edu</a>.
           </p>
 
           <p>
@@ -41,8 +42,12 @@
           <ul class="course-list">
             <li>Software Requirement Engineering</li>
             <li>Object-Oriented Programming</li>
+            <li>Numerical Analysis</li>
             <li>Web Technologies</li>
+            <li>Software Usability and Metrics</li>
+            <li>Digital Image Processing</li>
             <li>Information and Network Security</li>
+            <li>Computer Graphics and Image Processing</li>
           </ul>
           <p>
             My teaching philosophy centers on bridging theoretical concepts with practical applications,
@@ -72,17 +77,36 @@
               rel="noopener noreferrer">Bengali.AI</a>,
             I contribute to advancing Bangla NLP research. My notable contributions include:
           </p>
-          <ul class="research-list">
-            <li>
-              <strong>OOD-Speech Dataset:</strong> Contributed to large-scale Bengali ASR dataset
-              <em>(Published at Interspeech 2023)</em>
-            </li>
-            <li>
-              <strong>BaDLAD Dataset:</strong> Developed document layout analysis dataset for Bengali documents
-              <em>(Published at ICDAR 2023)</em>
-            </li>
-            <li>Focus on AI/ML applications for real-world societal challenges</li>
-          </ul>
+
+          <div class="publication-list">
+            <PublicationItem
+              title="OOD-Speech: A Large Bengali Speech Recognition Dataset for Out-of-Distribution Benchmarking"
+              authors="<strong>FR Rakib</strong>, SS Dip, S Alam, +11 authors"
+              venue="Accepted in Interspeech 2023 (later withdrawn from proceedings), pages 879-883, August 2023"
+              :links="[
+                { url: 'https://fazle-rakib.github.io/portfolio/articles/ood-speech-benchmark-dataset-bengali-asr', type: 'blog', label: 'Blog Post' },
+                { url: 'https://bengaliai.github.io/asr', type: 'project', label: 'Project Page' },
+                { url: 'https://arxiv.org/abs/2305.09688', type: 'paper', label: 'Paper' },
+                { url: 'https://commonvoice.mozilla.org/bn/datasets', type: 'dataset', label: 'Dataset' },
+                { url: 'https://www.kaggle.com/competitions/bengaliai-speech', type: 'kaggle', label: 'Competition' }
+              ]" />
+
+            <PublicationItem title="BaDLAD: A Large Multi-Domain Bengali Document Layout Analysis Dataset"
+              authors="MIH Shihab, MR Hasan, M Rahman, SM Hossen, MN Ansary, I Ahmed, <strong>FR Rakib</strong>, +10 authors"
+              venue="International Conference on Document Analysis and Recognition (ICDAR), pages 326-341, August 2023"
+              :links="[
+                { url: 'https://fazle-rakib.github.io/portfolio/articles/badlad-document-layout-dataset', type: 'blog', label: 'Blog Post' },
+                { url: 'https://bengaliai.github.io/badlad', type: 'project', label: 'Project Page' },
+                { url: 'https://arxiv.org/abs/2303.05325', type: 'paper', label: 'Paper' },
+                { url: 'https://github.com/BengaliAI/BADLAD', type: 'github', label: 'Dataset' },
+                { url: 'https://www.kaggle.com/competitions/dlsprint2', type: 'kaggle', label: 'Competition' }
+              ]" />
+
+
+          </div>
+
+          <p class="research-focus">Focus on AI/ML applications for real-world societal challenges with emphasis on
+            low-resource languages.</p>
         </section>
 
         <section class="expertise-interests">
@@ -97,7 +121,7 @@
                 Web Technologies, Database Systems, Software Architecture</p>
             </div>
 
-            <div class="research-focus">
+            <div class="research-interests">
               <h3>
                 <font-awesome-icon icon="fa fa-microscope" />
                 Research Focus
@@ -124,15 +148,7 @@
             new challenges at the intersection of AI, software engineering, and security.
           </p>
         </section>
-
-        <div class="cta-section">
-          <p class="collaboration-invite">
-            <font-awesome-icon icon="fa fa-handshake" />
-            <strong>Let's collaborate!</strong> I'm always open to discussing research opportunities,
-            academic partnerships, or innovative projects that can make a meaningful impact.
-          </p>
-        </div>
-
+        <CTASection />
         <BinaryTextSVG />
       </article>
     </main>
@@ -279,17 +295,45 @@ main {
     }
   }
 
+  .course-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 2rem;
+
+    li {
+      break-inside: avoid;
+    }
+  }
+
+  .publication-list {
+    margin: 2rem 0;
+  }
+
+  .research-focus {
+    font-style: italic;
+    color: var(--color-gray-600);
+    font-size: var(--text-base);
+  }
+
+  .publication-list {
+    margin: 2rem 0;
+  }
+
   .expertise-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
     margin-top: 1.5rem;
+    align-items: stretch;
 
     >div {
       padding: 1.5rem;
       background-color: var(--accent-color-lighter, var(--color-gray-100));
       border-radius: var(--radius-default);
       border-left: 4px solid var(--color-primary);
+      display: flex;
+      flex-direction: column;
+      min-height: 100%;
 
       h3 {
         font-size: var(--text-lg);
@@ -310,30 +354,13 @@ main {
         margin: 0;
         text-align: left;
         max-width: none;
+        flex: 1;
+        line-height: 1.5;
       }
     }
   }
 
-  .cta-section {
-    background: linear-gradient(135deg, var(--color-primary), var(--color-accent, #ff6b6b));
-    color: white;
-    padding: 2rem;
-    border-radius: var(--radius-default);
-    text-align: center;
-    margin-top: 3rem;
 
-    .collaboration-invite {
-      font-size: var(--text-lg);
-      font-weight: 500;
-      margin: 0;
-      opacity: 1;
-      max-width: none;
-
-      svg {
-        margin-right: 0.5rem;
-      }
-    }
-  }
 
   a {
     color: var(--color-primary);
@@ -425,6 +452,10 @@ body[data-theme='dark'] .about-content {
       color: var(--color-default-white);
     }
   }
+
+  .research-focus {
+    color: var(--color-gray-400);
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -500,13 +531,13 @@ body[data-theme='dark'] .about-content {
       }
     }
 
-    .cta-section {
-      padding: 1.5rem;
-
-      .collaboration-invite {
-        font-size: var(--text-base);
-      }
+    .course-list {
+      grid-template-columns: 1fr;
+      gap: 0;
     }
+
+
+
   }
 }
 
