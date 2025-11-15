@@ -36,6 +36,21 @@
           fill="#F4F4F4" />
       </svg>
     </AppLink>
+    <div class="email-container">
+      <button @click="copyEmail" @mouseenter="showTooltip = true" @mouseleave="showTooltip = false" class="email-button"
+        :class="{ 'copied': showCopied }" aria-label="Copy email address" title="Copy email address">
+        <svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" viewBox="0 0 512 512" fill="none">
+          <!-- Font Awesome Free 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. -->
+          <path
+            d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"
+            fill="#F4F4F4" />
+        </svg>
+      </button>
+
+      <div class="email-tooltip" :class="{ 'show': showTooltip, 'copied': showCopied }">
+        {{ showCopied ? 'Copied!' : 'rakib-iict@sust.edu' }}
+      </div>
+    </div>
     <AppLink v-if="props.showDownloadCV" href="/CV_FRRakib.pdf" download="CV_FRRakib.pdf" aria-label="Download CV"
       title="Download CV" class="download-cv-link">
       <svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" viewBox="0 0 512 512" fill="none">
@@ -50,7 +65,7 @@
 </template>
 
 <script setup>
-import { computed, defineProps } from 'vue'
+import { computed, defineProps, ref } from 'vue'
 
 const props = defineProps({
   boxed: {
@@ -67,6 +82,50 @@ const classes = computed(() => ({
   'social-media-icons': true,
   'social-media-icons--boxed': props.boxed,
 }))
+
+// Email copy functionality
+const showTooltip = ref(false)
+const showCopied = ref(false)
+const emailAddress = 'rakib-iict@sust.edu'
+
+const copyEmail = async () => {
+  // Primary action: Open email client
+  window.location.href = `mailto:${emailAddress}`
+
+  // Secondary action: Copy to clipboard (best effort)
+  try {
+    await navigator.clipboard.writeText(emailAddress)
+    showCopied.value = true
+    showTooltip.value = true
+
+    // Reset after 2 seconds
+    setTimeout(() => {
+      showCopied.value = false
+      showTooltip.value = false
+    }, 2000)
+  } catch (err) {
+    // Try fallback copy method for older browsers
+    try {
+      const textArea = document.createElement('textarea')
+      textArea.value = emailAddress
+      document.body.appendChild(textArea)
+      textArea.select()
+      document.execCommand('copy')
+      document.body.removeChild(textArea)
+
+      showCopied.value = true
+      showTooltip.value = true
+
+      setTimeout(() => {
+        showCopied.value = false
+        showTooltip.value = false
+      }, 2000)
+    } catch (fallbackErr) {
+      // Copy failed, but mailto still works as primary action
+      console.log('Copy failed, but email client opened successfully')
+    }
+  }
+}
 </script>
 
 <style scoped>
@@ -146,7 +205,7 @@ body[data-theme='light'] .download-text {
 
 .social-media-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   gap: 1rem;
   justify-items: center;
   margin-top: 20px;
@@ -167,11 +226,18 @@ body[data-theme='light'] .download-text {
 
 @media screen and (max-width: 640px) {
   .social-media-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.75rem;
   }
 
   .download-text {
     display: none !important;
+  }
+
+  .download-cv-link {
+    grid-column: auto;
+    margin-top: 0;
+    justify-self: center;
   }
 }
 
@@ -183,5 +249,122 @@ body[data-theme='light'] .download-text {
   text-align: center;
   color: #F4F4F4;
   text-decoration: none;
+}
+
+/* Email container and tooltip styles */
+.email-container {
+  position: relative;
+  display: inline-block;
+}
+
+.email-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  outline: 0;
+  transition-duration: 400ms;
+  transition-timing-function: cubic-bezier(0.22, 0.61, 0.36, 1);
+  transition-property: transform, box-shadow;
+  will-change: transform;
+}
+
+.email-button svg,
+.email-button svg path {
+  transition-duration: 400ms;
+  transition-timing-function: cubic-bezier(0.22, 0.61, 0.36, 1);
+  transition-property: fill;
+}
+
+.email-button:hover {
+  transform: translateY(-8px);
+}
+
+.email-button:hover svg,
+.email-button:hover svg path {
+  fill: var(--color-primary);
+}
+
+.email-button.copied svg,
+.email-button.copied svg path {
+  fill: var(--color-primary) !important;
+}
+
+body[data-theme='light'] .email-button svg,
+body[data-theme='light'] .email-button svg path {
+  fill: var(--color-default-black);
+}
+
+.email-tooltip {
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  transform: translateY(-50%) translateX(10px);
+  background: var(--color-gray-800);
+  color: #F4F4F4;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 14px;
+  white-space: nowrap;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s cubic-bezier(0.22, 0.61, 0.36, 1);
+  z-index: 1000;
+  pointer-events: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.email-tooltip::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 100%;
+  transform: translateY(-50%);
+  border: 6px solid transparent;
+  border-left-color: var(--color-gray-800);
+}
+
+.email-tooltip.show {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(-50%) translateX(-10px);
+}
+
+.email-tooltip.copied {
+  background: var(--color-primary);
+  color: white;
+}
+
+.email-tooltip.copied::after {
+  border-left-color: var(--color-primary);
+}
+
+body[data-theme='light'] .email-tooltip {
+  background: var(--color-default-black);
+  color: #F4F4F4;
+}
+
+body[data-theme='light'] .email-tooltip::after {
+  border-left-color: var(--color-default-black);
+}
+
+body[data-theme='light'] .email-tooltip.copied {
+  background: var(--color-primary);
+}
+
+body[data-theme='light'] .email-tooltip.copied::after {
+  border-left-color: var(--color-primary);
+}
+
+@media screen and (max-width: 640px) {
+  .email-tooltip {
+    font-size: 12px;
+    padding: 6px 10px;
+    transform: translateY(-50%) translateX(5px);
+  }
+
+  .email-tooltip.show {
+    transform: translateY(-50%) translateX(-5px);
+  }
 }
 </style>
