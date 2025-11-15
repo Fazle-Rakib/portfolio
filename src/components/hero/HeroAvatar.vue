@@ -1,8 +1,11 @@
 <template>
+  <div>
   <div class="hero-avatar">
     <picture class="hero-avatar__image">
       <slot />
     </picture>
+  </div>
+      <SocialMediaIcons :showDownloadCV="true"/>
   </div>
 </template>
 
