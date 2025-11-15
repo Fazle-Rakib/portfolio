@@ -10,7 +10,6 @@
           loading="lazy"
         />
       </HeroAvatar>
-      <BinaryTextSVG />
     </aside>
     <main id="main-content">
       <article class="about-content">
@@ -43,6 +42,7 @@
         </p>
 
         <SocialMediaIcons boxed />
+        <BinaryTextSVG />
       </article>
     </main>
   </div>
@@ -121,6 +121,7 @@ main {
   left: 282px;
   top: 387px;
   opacity: 0.3;
+  z-index: -1;
 
   & :deep(tspan) {
     --text-delay: 500ms;
