@@ -76,7 +76,15 @@ const classes = computed(() => ({
   --shadow-s: 0%;
   --shadow-l: 0%;
 
-  border-radius: var(--radius-default);
+  outline: 0;
+}
+
+.social-media-icons-with-text a {
+  --shadow-opacity: 0;
+  --shadow-h: 0;
+  --shadow-s: 0%;
+  --shadow-l: 0%;
+border-radius: var(--radius-default);
   background-color: var(--color-gray-800);
   padding: 12px;
   box-shadow: 1px 4px 8px 1px hsla(var(--shadow-h),
@@ -85,6 +93,8 @@ const classes = computed(() => ({
       var(--shadow-opacity));
   outline: 0;
 }
+
+
 
 .social-media-icons a,
 .social-media-icons svg,
@@ -119,16 +129,6 @@ const classes = computed(() => ({
 .social-media-icons--boxed a {
   display: inline-block;
   padding: 3px 8px;
-}
-
-body[data-theme='light'] .social-media-icons a {
-  background-color: var(--bg-color-lighter);
-  box-shadow: var(--elevation-2);
-}
-
-body[data-theme='light'] .social-media-icons a:hover {
-  --shadow-opacity: 0.05;
-  transform: translateY(-8px);
 }
 
 body[data-theme='light'] .social-media-icons a svg,
