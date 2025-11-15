@@ -2,46 +2,137 @@
   <div class="container">
     <aside>
       <HeroAvatar>
-        <img
-          src="@/assets/img/profile.jpg"
-          alt="me"
-          width="140"
-          height="180"
-          loading="lazy"
-        />
+        <img src="@/assets/img/profile.jpg" alt="me" width="140" height="180" loading="lazy" />
       </HeroAvatar>
     </aside>
-    <main id="main-content">
+    <main id="main-content" class="mt-4 sm:mt-0">
       <article class="about-content">
         <h1 class="about-content__headline">About me</h1>
-        <p>👋 Hey! How are you?</p>
-        <p>
-          I am Fazle Rabbi Rakib, currently a <strong> Lecturer </strong> at the Institute of Information and Communication Technology (IICT), <a href="https://sust.edu">Shahjalal University of Science & Technology</a>, Sylhet.
-        </p>
 
-        <p>
-          As a Lecturer at SUST, I'm passionate about shaping the next wave of tech innovators. I teach a dynamic range of undergraduate courses, from Software Requirement Engineering and Object-Oriented Programming to  Web Technologies and Information and Network Security. My goal is to bridge the gap between theory and practice, infusing my industry experience into the classroom.
-        </p>
-        
-        <p>
-          During my professional journey, I’ve gained substantial experience as a <strong> Software Engineer </strong> at <a href="https://pathao.com">Pathao Limited</a>, where I actively contributed to developing various web portals, internal dashboards, and frontend interfaces. My time there has honed my skills in HTML, CSS, JavaScript, and VueJS—all of which form the backbone of modern frontend development.
-        </p>
+        <div class="intro-section">
+          <p class="greeting">👋 Hello! I'm <strong>Fazle Rabbi Rakib</strong></p>
+          <p class="subtitle">Lecturer • Researcher • Software Engineer</p>
+        </div>
 
-        <p>
-          As a <strong>researcher</strong> at <a href="https://bengaliai.github.io/">Bengali.AI</a>, a open-source collaboration for Bangla NLP, I’ve worked on exciting projects involving NLP and open-source datasets.
-        </p>
+        <section class="professional-overview">
+          <h2>Professional Overview</h2>
+          <p>
+            I am currently a <strong>Lecturer</strong> at the Institute of Information and Communication Technology
+            (IICT),
+            <a href="https://sust.edu" target="_blank" rel="noopener noreferrer">Shahjalal University of Science &
+              Technology</a>,
+            where I combine my passion for education with cutting-edge research in software engineering and artificial
+            intelligence.
+          </p>
 
-        <p>
-          <font-awesome-icon icon="fa fa-wand-magic-sparkles" />
-          I have a keen interest in frontend development, especially in creating engaging, responsive, and accessible web applications. My hands-on experience with Tailwind CSS and VueJS, coupled with my understanding of user interface (UI) design and problem-solving, enables me to turn creative ideas into real, functional websites.
-        </p>
+          <p>
+            With a <strong>BSc. in Software Engineering</strong> (GPA: 3.93/4.00, ranked 1st out of 50 students) from
+            SUST,
+            I bring both academic excellence and industry experience to my role as an educator and researcher.
+          </p>
+        </section>
 
-        <p>
-          <font-awesome-icon icon="fa fa-snowflake" />
-          I’m passionate about bridging the gap between research and real-world applications, always looking for innovative ways to make technology more accessible.
-        </p>
+        <section class="academic-focus">
+          <h2>Academic & Teaching Excellence</h2>
+          <p>
+            As a faculty member at SUST, I'm dedicated to shaping the next generation of technology leaders. I teach
+            core undergraduate courses including:
+          </p>
+          <ul class="course-list">
+            <li>Software Requirement Engineering</li>
+            <li>Object-Oriented Programming</li>
+            <li>Web Technologies</li>
+            <li>Information and Network Security</li>
+          </ul>
+          <p>
+            My teaching philosophy centers on bridging theoretical concepts with practical applications,
+            ensuring students gain both foundational knowledge and industry-relevant skills.
+          </p>
+        </section>
 
-        <SocialMediaIcons boxed />
+        <section class="industry-experience">
+          <h2>Industry Experience</h2>
+          <p>
+            Before joining academia, I spent two years as a <strong>Software Engineer</strong> at
+            <a href="https://pathao.com" target="_blank" rel="noopener noreferrer">Pathao Limited</a>,
+            Bangladesh's leading digital services platform. During my tenure, I:
+          </p>
+          <ul class="experience-list">
+            <li>Developed and maintained multiple web portals and internal dashboards</li>
+            <li>Specialized in frontend development using modern technologies</li>
+            <li>Collaborated on scalable solutions serving millions of users</li>
+            <li>Gained expertise in HTML5, CSS3, JavaScript (ES6+), and Vue.js</li>
+          </ul>
+        </section>
+
+        <section class="research-contributions">
+          <h2>Research & Publications</h2>
+          <p>
+            As a <strong>researcher</strong> affiliated with <a href="https://bengaliai.github.io/" target="_blank"
+              rel="noopener noreferrer">Bengali.AI</a>,
+            I contribute to advancing Bangla NLP research. My notable contributions include:
+          </p>
+          <ul class="research-list">
+            <li>
+              <strong>OOD-Speech Dataset:</strong> Contributed to large-scale Bengali ASR dataset
+              <em>(Published at Interspeech 2023)</em>
+            </li>
+            <li>
+              <strong>BaDLAD Dataset:</strong> Developed document layout analysis dataset for Bengali documents
+              <em>(Published at ICDAR 2023)</em>
+            </li>
+            <li>Focus on AI/ML applications for real-world societal challenges</li>
+          </ul>
+        </section>
+
+        <section class="expertise-interests">
+          <h2>Technical Expertise & Research Interests</h2>
+          <div class="expertise-grid">
+            <div class="tech-stack">
+              <h3>
+                <font-awesome-icon icon="fa fa-code" />
+                Technical Skills
+              </h3>
+              <p>Frontend Development, Vue.js, JavaScript, HTML5/CSS3, Tailwind CSS, UI/UX Design,
+                Web Technologies, Database Systems, Software Architecture</p>
+            </div>
+
+            <div class="research-focus">
+              <h3>
+                <font-awesome-icon icon="fa fa-microscope" />
+                Research Focus
+              </h3>
+              <p>AI/LLMs, NLP, Software Engineering, Cybersecurity, Data Mining,
+                Empirical Software Engineering, AI Safety & Robustness</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="personal-mission">
+          <h2>Mission & Vision</h2>
+          <p>
+            <font-awesome-icon icon="fa fa-lightbulb" />
+            I'm passionate about <strong>bridging the gap between academic research and real-world
+              applications</strong>.
+            My goal is to make technology more accessible and impactful, whether through innovative research,
+            effective teaching, or developing solutions that address societal challenges.
+          </p>
+
+          <p>
+            <font-awesome-icon icon="fa fa-bullseye" />
+            I believe in the power of <strong>interdisciplinary collaboration</strong> and am always eager to explore
+            new challenges at the intersection of AI, software engineering, and security.
+          </p>
+        </section>
+
+        <div class="cta-section">
+          <p class="collaboration-invite">
+            <font-awesome-icon icon="fa fa-handshake" />
+            <strong>Let's collaborate!</strong> I'm always open to discussing research opportunities,
+            academic partnerships, or innovative projects that can make a meaningful impact.
+          </p>
+        </div>
+
         <BinaryTextSVG />
       </article>
     </main>
@@ -93,24 +184,167 @@ meta:
 }
 
 .container {
-  flex-flow: row wrap;
-  padding: 3rem 0;
+  display: grid;
+  grid-template-columns: minmax(250px, 300px) 1fr;
+  gap: 2.5rem;
+  padding: 3rem 2rem;
+  align-items: start;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+aside {
+  top: 2rem;
 }
 
 main {
   padding: 1.2rem 2.4rem;
+  min-width: 0;
 }
 
 .about-content {
   .about-content__headline {
     font-size: var(--text-2xl);
+    margin-bottom: 2rem;
+    color: var(--color-gray-800);
   }
 
   p {
     font-size: var(--text-lg);
     opacity: 0.8;
-    max-width: 71ch;
+    max-width: min(85ch, 100%);
     text-align: justify;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+
+  .intro-section {
+    margin-bottom: 3rem;
+
+    .greeting {
+      font-size: var(--text-xl);
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      opacity: 1;
+      max-width: none;
+    }
+
+    .subtitle {
+      font-size: var(--text-lg);
+      color: var(--color-primary);
+      font-weight: 500;
+      opacity: 0.9;
+      margin-bottom: 0;
+      max-width: none;
+    }
+  }
+
+  section {
+    margin-bottom: 2.5rem;
+
+    h2 {
+      font-size: var(--text-xl);
+      font-weight: 700;
+      color: var(--color-gray-800);
+      margin-bottom: 1rem;
+      border-bottom: 2px solid var(--color-primary);
+      padding-bottom: 0.5rem;
+      display: inline-block;
+    }
+  }
+
+  ul {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+    list-style-type: disc;
+
+    li {
+      font-size: var(--text-lg);
+      line-height: 1.6;
+      margin-bottom: 0.75rem;
+      opacity: 0.8;
+      text-align: justify;
+      display: list-item;
+      list-style-position: outside;
+
+      strong {
+        color: var(--color-primary);
+        opacity: 1;
+      }
+
+      em {
+        color: var(--color-gray-600);
+        font-style: italic;
+      }
+    }
+  }
+
+  .expertise-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin-top: 1.5rem;
+
+    >div {
+      padding: 1.5rem;
+      background-color: var(--accent-color-lighter, var(--color-gray-100));
+      border-radius: var(--radius-default);
+      border-left: 4px solid var(--color-primary);
+
+      h3 {
+        font-size: var(--text-lg);
+        font-weight: 600;
+        margin-bottom: 1rem;
+        color: var(--color-gray-800);
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+
+        svg {
+          color: var(--color-primary);
+        }
+      }
+
+      p {
+        font-size: var(--text-base);
+        margin: 0;
+        text-align: left;
+        max-width: none;
+      }
+    }
+  }
+
+  .cta-section {
+    background: linear-gradient(135deg, var(--color-primary), var(--color-accent, #ff6b6b));
+    color: white;
+    padding: 2rem;
+    border-radius: var(--radius-default);
+    text-align: center;
+    margin-top: 3rem;
+
+    .collaboration-invite {
+      font-size: var(--text-lg);
+      font-weight: 500;
+      margin: 0;
+      opacity: 1;
+      max-width: none;
+
+      svg {
+        margin-right: 0.5rem;
+      }
+    }
+  }
+
+  a {
+    color: var(--color-primary);
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+
+    &:hover {
+      color: var(--color-accent, #ff6b6b);
+      text-decoration: underline;
+    }
   }
 }
 
@@ -165,26 +399,120 @@ main {
   }
 }
 
-@media screen and (min-width: 426px) and (max-width: 768px) {
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  .container {
+    gap: 1.5rem;
+  }
+
   aside {
-    margin-left: 40px;
-    padding: 0 2.4rem 0 0;
+    padding: 0 1rem 0 0;
+  }
+}
+
+body[data-theme='dark'] .about-content {
+  .about-content__headline {
+    color: var(--color-default-white);
+  }
+
+  section h2 {
+    color: var(--color-default-white);
+  }
+
+  .expertise-grid>div {
+    background-color: var(--color-gray-800);
+
+    h3 {
+      color: var(--color-default-white);
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    padding: 2rem 0;
+  }
+
+  aside {
+    position: static;
+    justify-self: center;
+    padding: 0;
+  }
+
+  main {
+    padding: 0 1rem;
+  }
+
+  .binary-text-svg {
+    position: relative;
+    top: auto;
+    left: auto;
+    bottom: auto;
+    opacity: 0.1;
+  }
+
+  .about-content {
+    .about-content__headline {
+      text-align: center;
+    }
+
+    .expertise-grid {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+
+    section {
+      margin-bottom: 2rem;
+    }
+
+    .intro-section {
+      margin-bottom: 2rem;
+      text-align: center;
+
+      p {
+        text-align: center;
+      }
+
+      .greeting {
+        font-size: var(--text-lg);
+      }
+
+      .subtitle {
+        font-size: var(--text-base);
+      }
+    }
+
+    section h2 {
+      font-size: var(--text-lg);
+    }
+
+    p,
+    ul li {
+      font-size: var(--text-base);
+    }
+
+    .expertise-grid>div {
+      padding: 1rem;
+
+      h3 {
+        font-size: var(--text-base);
+      }
+    }
+
+    .cta-section {
+      padding: 1.5rem;
+
+      .collaboration-invite {
+        font-size: var(--text-base);
+      }
+    }
   }
 }
 
 @media screen and (max-width: 425px) {
-  aside {
-    padding: 0 1rem;
-  }
-
-  .container {
-    height: 100%;
-  }
-
-  .binary-text-svg {
-    top: 50%;
-    left: 0;
-    bottom: 0;
+  main {
+    padding: 0 0.5rem;
   }
 }
 </style>
