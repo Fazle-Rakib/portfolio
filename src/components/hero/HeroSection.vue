@@ -36,7 +36,6 @@
     </div>
     <div class="hero-aside">
       <ScrollIndicator class="is-mobile-only" />
-      <h2 class="hero__subheadline">{{ currentText }}{{ showCursor ? '|' : '' }}</h2>
       <HeroAvatar>
         <img src="@/assets/img/profile.jpg" alt="me" class="hero-avatar__image mx-auto w-1/2 object-cover"
           loading="lazy" />
@@ -45,53 +44,6 @@
   </section>
 </template>
 
-<script setup>
-import { ref, onMounted } from 'vue'
-
-const roles = ['Instructor', 'Learner', 'Researcher', 'Web developer']
-const currentText = ref('')
-const currentRoleIndex = ref(0)
-const isTyping = ref(true)
-const showCursor = ref(true)
-
-const typeSpeed = 150
-const eraseSpeed = 100
-const pauseTime = 2000
-const cursorBlinkSpeed = 500
-
-function typeWriter() {
-  const fullText = roles[currentRoleIndex.value]
-
-  if (isTyping.value) {
-    if (currentText.value.length < fullText.length) {
-      currentText.value += fullText[currentText.value.length]
-      setTimeout(typeWriter, typeSpeed)
-    } else {
-      isTyping.value = false
-      setTimeout(typeWriter, pauseTime)
-    }
-  } else {
-    if (currentText.value.length > 0) {
-      currentText.value = currentText.value.slice(0, -1)
-      setTimeout(typeWriter, eraseSpeed)
-    } else {
-      isTyping.value = true
-      currentRoleIndex.value = (currentRoleIndex.value + 1) % roles.length
-      setTimeout(typeWriter, typeSpeed)
-    }
-  }
-}
-
-onMounted(() => {
-  // Start typewriter effect after 1 second
-  setTimeout(typeWriter, 1000)
-
-  // Blinking cursor
-  setInterval(() => {
-    showCursor.value = !showCursor.value
-  }, cursorBlinkSpeed)
-})
-</script>
 
 <style scoped>
 .hero {
@@ -107,29 +59,6 @@ onMounted(() => {
   font-weight: 700;
 }
 
-.hero__subheadline {
-  display: grid;
-  grid-template-columns: 1fr auto 1fr;
-  gap: 1em;
-  font-size: var(--text-sm);
-  font-family: var(--font-mono);
-  font-weight: 500;
-  writing-mode: vertical-lr;
-  text-transform: uppercase;
-  letter-spacing: 2.5px;
-  color: var(--color-gray-400);
-  margin: 0 1rem;
-}
-
-.hero__subheadline::before,
-.hero__subheadline::after {
-  content: '';
-  border-bottom: 1px solid var(--color-gray-400);
-  align-self: center;
-  justify-self: center;
-  min-width: 24px;
-  transform: rotate(90deg);
-}
 
 .hero__description {
   font-size: clamp(var(--text-base), 1vw + var(--text-lg), var(--text-xl));
