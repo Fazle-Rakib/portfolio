@@ -18,9 +18,7 @@
             </router-link>
           </li>
           <li class="navbar-menu__item">
-            <router-link class="navbar-menu__link" to="/about-me"
-              >About</router-link
-            >
+            <router-link class="navbar-menu__link" to="/about-me">About</router-link>
           </li>
           <li class="navbar-menu__item">
             <router-link class="navbar-menu__link" to="/#projects">
@@ -42,9 +40,7 @@
         </router-link>
       </li>
       <li class="navbar-menu__item">
-        <router-link class="navbar-menu__link" to="/about-me"
-          >About</router-link
-        >
+        <router-link class="navbar-menu__link" to="/about-me">About</router-link>
       </li>
       <li class="navbar-menu__item">
         <router-link class="navbar-menu__link" to="/#projects">
@@ -96,6 +92,17 @@ export default {
 .header a {
   color: var(--text-color-default);
   transition: font-weight 200ms ease-out;
+  text-decoration: none;
+}
+
+.header h3 {
+  letter-spacing: 1.2px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.header a:hover h3 {
+  font-weight: 500;
 }
 
 .header ul {
@@ -123,7 +130,7 @@ export default {
   padding: 2px 10px;
 }
 
-.navbar .navbar-menu .navbar-menu__item + .navbar-menu__item {
+.navbar .navbar-menu .navbar-menu__item+.navbar-menu__item {
   margin-left: 30px;
 }
 
@@ -134,11 +141,9 @@ export default {
   top: 15px;
   bottom: 0;
   left: 0;
-  background: radial-gradient(
-    circle at bottom,
-    rgba(26, 188, 209, 0.603) 5%,
-    rgba(0, 0, 0, 0) 60%
-  );
+  background: radial-gradient(circle at bottom,
+      rgba(26, 188, 209, 0.603) 5%,
+      rgba(0, 0, 0, 0) 60%);
   width: 100%;
   height: 100%;
   transition: transform 0.2s ease-out;
@@ -194,7 +199,7 @@ body[data-theme='light'] .header {
     line-height: 1.25rem;
   }
 
-  .navbar .navbar-menu .navbar-menu__item + .navbar-menu__item {
+  .navbar .navbar-menu .navbar-menu__item+.navbar-menu__item {
     margin-left: 20px;
   }
 
