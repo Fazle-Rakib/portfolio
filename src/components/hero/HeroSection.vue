@@ -35,7 +35,6 @@
       </p>
     </div>
     <div class="hero-aside">
-      <ScrollIndicator class="is-mobile-only" />
       <HeroAvatar>
         <img src="@/assets/img/profile.jpg" alt="me" class="hero-avatar__image mx-auto w-1/2 object-cover"
           loading="lazy" />
