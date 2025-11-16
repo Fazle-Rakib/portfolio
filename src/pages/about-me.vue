@@ -113,8 +113,18 @@
             new challenges at the intersection of AI, software engineering, and security.
           </p>
         </section>
+
+        <!-- Navigation to Now page -->
+        <div class="next-page-nav">
+          <p class="nav-description">Want to know what I'm working on right now?</p>
+          <AppLink to="/now" class="nav-link">
+            <font-awesome-icon icon="fa fa-clock" />
+            <span>What I'm doing now</span>
+            <font-awesome-icon icon="fa fa-arrow-right" />
+          </AppLink>
+        </div>
+
         <CTASection />
-        <BinaryTextSVG />
       </article>
     </main>
   </div>
@@ -336,6 +346,113 @@ main {
   }
 }
 
+.next-page-nav {
+  text-align: center;
+  /* margin: 1rem 0rem; */
+  padding: 2rem;
+  background-color: var(--accent-color-lighter, var(--color-gray-50));
+  border: 1px solid var(--color-gray-200);
+  border-radius: var(--radius-default);
+  border-left: 4px solid var(--color-primary);
+}
+
+.nav-description {
+  font-size: var(--text-lg);
+  color: var(--color-gray-700);
+  margin: 0 0 1.5rem 0;
+  font-weight: 500;
+}
+
+.nav-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 1.5rem;
+  background: transparent;
+  border: 2px solid var(--color-gray-300);
+  border-radius: var(--radius-default);
+  color: var(--color-gray-700);
+  text-decoration: none !important;
+  font-weight: 600;
+  font-size: var(--text-base);
+  transition: all 0.4s cubic-bezier(0.22, 0.61, 0.36, 1);
+  outline: 0;
+}
+
+.nav-link:hover {
+  transform: translateY(-4px);
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  text-decoration: none !important;
+
+  svg {
+    color: var(--color-primary);
+  }
+}
+
+.nav-link:hover svg:last-child {
+  transform: translateX(4px);
+}
+
+.nav-link:focus {
+  box-shadow: 0 0 0 2px var(--color-primary);
+}
+
+.nav-link:active {
+  transform: translateY(-2px);
+}
+
+.nav-link svg {
+  font-size: 1.125rem;
+  transition: all 0.4s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+/* Dark theme support */
+body[data-theme='dark'] .next-page-nav {
+  background-color: var(--color-gray-800);
+  border-color: var(--color-gray-700);
+}
+
+body[data-theme='dark'] .nav-description {
+  color: var(--color-gray-300);
+}
+
+/* Light theme support */
+body[data-theme='light'] .nav-link {
+  border-color: var(--color-gray-300);
+  color: var(--color-gray-700);
+  text-decoration: none !important;
+
+  &:hover {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    text-decoration: none !important;
+
+    svg {
+      color: var(--color-primary);
+    }
+  }
+}
+
+body[data-theme='dark'] .nav-link {
+  border-color: var(--color-gray-600);
+  color: #F4F4F4;
+  text-decoration: none !important;
+
+  &:hover {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    text-decoration: none !important;
+
+    svg {
+      color: var(--color-primary);
+    }
+  }
+}
+
 .binary-text-svg {
   font-family: var(--font-mono);
   font-size: var(--text-xl);
@@ -492,9 +609,26 @@ body[data-theme='dark'] .about-content {
       grid-template-columns: 1fr;
       gap: 0;
     }
+  }
 
+  .next-page-nav {
+    margin: 2rem 0 1.5rem 0;
+    padding: 1.5rem;
+  }
 
+  .nav-description {
+    font-size: var(--text-base);
+    margin-bottom: 1rem;
+  }
 
+  .nav-link {
+    padding: 0.625rem 1.25rem;
+    font-size: var(--text-sm);
+    gap: 0.5rem;
+  }
+
+  .nav-link svg {
+    font-size: var(--text-xs);
   }
 }
 

@@ -5,6 +5,7 @@
     <EducationSection />
     <PublicationsResearch />
     <ProjectsGrid />
+    <CTASection />
     <!-- <GithubProjects /> -->
   </main>
 </template>
