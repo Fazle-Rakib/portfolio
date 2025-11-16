@@ -96,4 +96,25 @@ body[data-theme='dark'] .interest-text {
     padding-right: 18px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .interest-section h3 {
+    font-size: var(--text-xl);
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .interest-section {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .interest-section h3 {
+    font-size: var(--text-lg);
+  }
+
+  .interest-text {
+    font-size: var(--text-base);
+  }
+}
 </style>
