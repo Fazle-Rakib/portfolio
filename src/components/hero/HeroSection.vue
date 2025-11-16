@@ -157,7 +157,7 @@
 
   .hero__description {
     font-size: var(--text-base);
-    text-align: left;
+    text-align: justify;
   }
 }
 

@@ -289,7 +289,7 @@ body[data-theme='dark'] .courses-text {
   }
 
   .courses-text {
-    text-align: left;
+    text-align: justify;
   }
 }
 </style>
