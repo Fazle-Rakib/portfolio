@@ -26,8 +26,8 @@
             </router-link>
           </li>
           <li class="navbar-menu__item">
-            <router-link class="navbar-menu__link" to="/#projects">
-              Projects
+            <router-link class="navbar-menu__link" to="/#publications">
+              Publications
             </router-link>
           </li>
           <li class="navbar-menu__item">
@@ -53,8 +53,8 @@
         </router-link>
       </li>
       <li class="navbar-menu__item">
-        <router-link class="navbar-menu__link" to="/#projects">
-          Projects
+        <router-link class="navbar-menu__link" to="/#publications">
+          Publications
         </router-link>
       </li>
       <li class="navbar-menu__item">
