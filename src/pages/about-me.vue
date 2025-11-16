@@ -70,44 +70,9 @@
           </ul>
         </section>
 
-        <section class="research-contributions">
-          <h2>Research & Publications</h2>
-          <p>
-            As a <strong>researcher</strong> affiliated with <a href="https://bengaliai.github.io/" target="_blank"
-              rel="noopener noreferrer">Bengali.AI</a>,
-            I contribute to advancing Bangla NLP research. My notable contributions include:
-          </p>
+        <Publications />
 
-          <div class="publication-list">
-            <PublicationItem
-              title="OOD-Speech: A Large Bengali Speech Recognition Dataset for Out-of-Distribution Benchmarking"
-              authors="<strong>FR Rakib</strong>, SS Dip, S Alam, +11 authors"
-              venue="Accepted in Interspeech 2023 (later withdrawn from proceedings), pages 879-883, August 2023"
-              :links="[
-                { url: 'https://fazle-rakib.github.io/portfolio/articles/ood-speech-benchmark-dataset-bengali-asr', type: 'blog', label: 'Blog Post' },
-                { url: 'https://bengaliai.github.io/asr', type: 'project', label: 'Project Page' },
-                { url: 'https://arxiv.org/abs/2305.09688', type: 'paper', label: 'Paper' },
-                { url: 'https://commonvoice.mozilla.org/bn/datasets', type: 'dataset', label: 'Dataset' },
-                { url: 'https://www.kaggle.com/competitions/bengaliai-speech', type: 'kaggle', label: 'Competition' }
-              ]" />
-
-            <PublicationItem title="BaDLAD: A Large Multi-Domain Bengali Document Layout Analysis Dataset"
-              authors="MIH Shihab, MR Hasan, M Rahman, SM Hossen, MN Ansary, I Ahmed, <strong>FR Rakib</strong>, +10 authors"
-              venue="International Conference on Document Analysis and Recognition (ICDAR), pages 326-341, August 2023"
-              :links="[
-                { url: 'https://fazle-rakib.github.io/portfolio/articles/badlad-document-layout-dataset', type: 'blog', label: 'Blog Post' },
-                { url: 'https://bengaliai.github.io/badlad', type: 'project', label: 'Project Page' },
-                { url: 'https://arxiv.org/abs/2303.05325', type: 'paper', label: 'Paper' },
-                { url: 'https://github.com/BengaliAI/BADLAD', type: 'github', label: 'Dataset' },
-                { url: 'https://www.kaggle.com/competitions/dlsprint2', type: 'kaggle', label: 'Competition' }
-              ]" />
-
-
-          </div>
-
-          <p class="research-focus">Focus on AI/ML applications for real-world societal challenges with emphasis on
-            low-resource languages.</p>
-        </section>
+        <OngoingResearch />
 
         <section class="expertise-interests">
           <h2>Technical Expertise & Research Interests</h2>
@@ -158,6 +123,8 @@
 <script setup>
 import { useRoute } from 'vue-router'
 import config from '../config/siteconfig.json'
+import Publications from '@/components/research/Publications.vue'
+import OngoingResearch from '@/components/research/OngoingResearch.vue'
 
 const title = 'About me • Fazle Rabbi Rakib'
 const { description } = config
@@ -309,15 +276,9 @@ main {
     margin: 2rem 0;
   }
 
-  .research-focus {
-    font-style: italic;
-    color: var(--color-gray-600);
-    font-size: var(--text-base);
-  }
 
-  .publication-list {
-    margin: 2rem 0;
-  }
+
+
 
   .expertise-grid {
     display: grid;
@@ -451,10 +412,6 @@ body[data-theme='dark'] .about-content {
     h3 {
       color: var(--color-default-white);
     }
-  }
-
-  .research-focus {
-    color: var(--color-gray-400);
   }
 }
 

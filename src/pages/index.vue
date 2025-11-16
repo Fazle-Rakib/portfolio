@@ -3,7 +3,7 @@
     <HeroSection />
     <InterestSection />
     <EducationSection />
-    <PostsList />
+    <PublicationsResearch />
     <ProjectsGrid />
     <!-- <GithubProjects /> -->
   </main>
