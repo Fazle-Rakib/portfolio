@@ -65,9 +65,28 @@
 </template>
 
 <script>
+import { onMounted } from 'vue'
+
 export default {
-  methods: {
-    showMenu() {
+  setup() {
+    onMounted(() => {
+      // Add click listeners to mobile navigation links
+      const mobileNavLinks = document.querySelectorAll('.mobile-navbar .navbar-menu__link')
+      mobileNavLinks.forEach(link => {
+        link.addEventListener('click', closeMenu)
+      })
+    })
+
+    const closeMenu = () => {
+      const button = document.querySelector('.hamburger-menu')
+      const menu = document.querySelector('.mobile-navbar')
+
+      button?.classList.remove('hamburger-menu--active')
+      menu?.classList.remove('mobile-navbar--opened')
+      button?.setAttribute('aria-expanded', 'false')
+    }
+
+    const showMenu = () => {
       const button = document.querySelector('.hamburger-menu')
       const menu = document.querySelector('.mobile-navbar')
 
@@ -76,8 +95,13 @@ export default {
 
       const isActive = button.classList.contains('hamburger-menu--active')
       button.setAttribute('aria-expanded', isActive)
-    },
-  },
+    }
+
+    return {
+      showMenu,
+      closeMenu
+    }
+  }
 }
 </script>
 
