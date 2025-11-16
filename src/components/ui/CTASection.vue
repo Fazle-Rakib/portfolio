@@ -90,10 +90,11 @@ const copyEmail = async () => {
   border: 1px solid var(--color-gray-200);
   border-left: 4px solid var(--color-primary);
   color: var(--color-gray-800);
-  padding: 2.5rem;
+  padding: 2.5rem 2rem;
   border-radius: var(--radius-default);
   text-align: center;
-  margin-top: 2rem;
+  margin: 2rem auto 0 auto;
+  max-width: 1110px;
   box-shadow: var(--elevation-1);
 }
 
@@ -320,11 +321,21 @@ body[data-theme='dark'] .cta-link {
   }
 }
 
+/* Large screen responsiveness */
+@media screen and (max-width: 1024px) {
+  .cta-section {
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+}
+
 /* Mobile responsiveness */
 @media screen and (max-width: 768px) {
   .cta-section {
     padding: 2rem 1.5rem;
     margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
   }
 
   .cta-title {
@@ -370,6 +381,8 @@ body[data-theme='dark'] .cta-link {
 @media screen and (max-width: 425px) {
   .cta-section {
     padding: 1.5rem 1rem;
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
   }
 
   .cta-actions {
