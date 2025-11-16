@@ -70,44 +70,9 @@
           </ul>
         </section>
 
-        <section class="research-contributions">
-          <h2>Research & Publications</h2>
-          <p>
-            As a <strong>researcher</strong> affiliated with <a href="https://bengaliai.github.io/" target="_blank"
-              rel="noopener noreferrer">Bengali.AI</a>,
-            I contribute to advancing Bangla NLP research. My notable contributions include:
-          </p>
+        <Publications />
 
-          <div class="publication-list">
-            <PublicationItem
-              title="OOD-Speech: A Large Bengali Speech Recognition Dataset for Out-of-Distribution Benchmarking"
-              authors="<strong>FR Rakib</strong>, SS Dip, S Alam, +11 authors"
-              venue="Accepted in Interspeech 2023 (later withdrawn from proceedings), pages 879-883, August 2023"
-              :links="[
-                { url: 'https://fazle-rakib.github.io/portfolio/articles/ood-speech-benchmark-dataset-bengali-asr', type: 'blog', label: 'Blog Post' },
-                { url: 'https://bengaliai.github.io/asr', type: 'project', label: 'Project Page' },
-                { url: 'https://arxiv.org/abs/2305.09688', type: 'paper', label: 'Paper' },
-                { url: 'https://commonvoice.mozilla.org/bn/datasets', type: 'dataset', label: 'Dataset' },
-                { url: 'https://www.kaggle.com/competitions/bengaliai-speech', type: 'kaggle', label: 'Competition' }
-              ]" />
-
-            <PublicationItem title="BaDLAD: A Large Multi-Domain Bengali Document Layout Analysis Dataset"
-              authors="MIH Shihab, MR Hasan, M Rahman, SM Hossen, MN Ansary, I Ahmed, <strong>FR Rakib</strong>, +10 authors"
-              venue="International Conference on Document Analysis and Recognition (ICDAR), pages 326-341, August 2023"
-              :links="[
-                { url: 'https://fazle-rakib.github.io/portfolio/articles/badlad-document-layout-dataset', type: 'blog', label: 'Blog Post' },
-                { url: 'https://bengaliai.github.io/badlad', type: 'project', label: 'Project Page' },
-                { url: 'https://arxiv.org/abs/2303.05325', type: 'paper', label: 'Paper' },
-                { url: 'https://github.com/BengaliAI/BADLAD', type: 'github', label: 'Dataset' },
-                { url: 'https://www.kaggle.com/competitions/dlsprint2', type: 'kaggle', label: 'Competition' }
-              ]" />
-
-
-          </div>
-
-          <p class="research-focus">Focus on AI/ML applications for real-world societal challenges with emphasis on
-            low-resource languages.</p>
-        </section>
+        <OngoingResearch />
 
         <section class="expertise-interests">
           <h2>Technical Expertise & Research Interests</h2>
@@ -148,8 +113,18 @@
             new challenges at the intersection of AI, software engineering, and security.
           </p>
         </section>
+
+        <!-- Navigation to Now page -->
+        <div class="next-page-nav">
+          <p class="nav-description">Want to know what I'm working on right now?</p>
+          <AppLink to="/now" class="nav-link">
+            <font-awesome-icon icon="fa fa-clock" />
+            <span>What I'm doing now</span>
+            <font-awesome-icon icon="fa fa-arrow-right" />
+          </AppLink>
+        </div>
+
         <CTASection />
-        <BinaryTextSVG />
       </article>
     </main>
   </div>
@@ -158,6 +133,8 @@
 <script setup>
 import { useRoute } from 'vue-router'
 import config from '../config/siteconfig.json'
+import Publications from '@/components/research/Publications.vue'
+import OngoingResearch from '@/components/research/OngoingResearch.vue'
 
 const title = 'About me • Fazle Rabbi Rakib'
 const { description } = config
@@ -309,15 +286,9 @@ main {
     margin: 2rem 0;
   }
 
-  .research-focus {
-    font-style: italic;
-    color: var(--color-gray-600);
-    font-size: var(--text-base);
-  }
 
-  .publication-list {
-    margin: 2rem 0;
-  }
+
+
 
   .expertise-grid {
     display: grid;
@@ -371,6 +342,113 @@ main {
     &:hover {
       color: var(--color-accent, #ff6b6b);
       text-decoration: underline;
+    }
+  }
+}
+
+.next-page-nav {
+  text-align: center;
+  /* margin: 1rem 0rem; */
+  padding: 2rem;
+  background-color: var(--accent-color-lighter, var(--color-gray-50));
+  border: 1px solid var(--color-gray-200);
+  border-radius: var(--radius-default);
+  border-left: 4px solid var(--color-primary);
+}
+
+.nav-description {
+  font-size: var(--text-lg);
+  color: var(--color-gray-700);
+  margin: 0 0 1.5rem 0;
+  font-weight: 500;
+}
+
+.nav-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 1.5rem;
+  background: transparent;
+  border: 2px solid var(--color-gray-300);
+  border-radius: var(--radius-default);
+  color: var(--color-gray-700);
+  text-decoration: none !important;
+  font-weight: 600;
+  font-size: var(--text-base);
+  transition: all 0.4s cubic-bezier(0.22, 0.61, 0.36, 1);
+  outline: 0;
+}
+
+.nav-link:hover {
+  transform: translateY(-4px);
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  text-decoration: none !important;
+
+  svg {
+    color: var(--color-primary);
+  }
+}
+
+.nav-link:hover svg:last-child {
+  transform: translateX(4px);
+}
+
+.nav-link:focus {
+  box-shadow: 0 0 0 2px var(--color-primary);
+}
+
+.nav-link:active {
+  transform: translateY(-2px);
+}
+
+.nav-link svg {
+  font-size: 1.125rem;
+  transition: all 0.4s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+/* Dark theme support */
+body[data-theme='dark'] .next-page-nav {
+  background-color: var(--color-gray-800);
+  border-color: var(--color-gray-700);
+}
+
+body[data-theme='dark'] .nav-description {
+  color: var(--color-gray-300);
+}
+
+/* Light theme support */
+body[data-theme='light'] .nav-link {
+  border-color: var(--color-gray-300);
+  color: var(--color-gray-700);
+  text-decoration: none !important;
+
+  &:hover {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    text-decoration: none !important;
+
+    svg {
+      color: var(--color-primary);
+    }
+  }
+}
+
+body[data-theme='dark'] .nav-link {
+  border-color: var(--color-gray-600);
+  color: #F4F4F4;
+  text-decoration: none !important;
+
+  &:hover {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    text-decoration: none !important;
+
+    svg {
+      color: var(--color-primary);
     }
   }
 }
@@ -452,10 +530,6 @@ body[data-theme='dark'] .about-content {
       color: var(--color-default-white);
     }
   }
-
-  .research-focus {
-    color: var(--color-gray-400);
-  }
 }
 
 @media screen and (max-width: 768px) {
@@ -535,9 +609,26 @@ body[data-theme='dark'] .about-content {
       grid-template-columns: 1fr;
       gap: 0;
     }
+  }
 
+  .next-page-nav {
+    margin: 2rem 0 1.5rem 0;
+    padding: 1.5rem;
+  }
 
+  .nav-description {
+    font-size: var(--text-base);
+    margin-bottom: 1rem;
+  }
 
+  .nav-link {
+    padding: 0.625rem 1.25rem;
+    font-size: var(--text-sm);
+    gap: 0.5rem;
+  }
+
+  .nav-link svg {
+    font-size: var(--text-xs);
   }
 }
 

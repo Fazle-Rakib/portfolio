@@ -51,7 +51,7 @@
         {{ showCopied ? 'Copied!' : 'rakib-iict@sust.edu' }}
       </div>
     </div>
-    <AppLink v-if="props.showDownloadCV" href="/CV_FRRakib.pdf" download="CV_FRRakib.pdf" aria-label="Download CV"
+    <a v-if="props.showDownloadCV" href="/portfolio/CV_FRRakib.pdf" download="CV_FRRakib.pdf" aria-label="Download CV"
       title="Download CV" class="download-cv-link">
       <svg xmlns="http://www.w3.org/2000/svg" height="32" width="32" viewBox="0 0 512 512" fill="none">
 
@@ -60,7 +60,7 @@
           fill="#F4F4F4" />
       </svg>
       <span class="download-text">Download CV</span>
-    </AppLink>
+    </a>
   </div>
 </template>
 

@@ -35,7 +35,6 @@
       </p>
     </div>
     <div class="hero-aside">
-      <ScrollIndicator class="is-mobile-only" />
       <HeroAvatar>
         <img src="@/assets/img/profile.jpg" alt="me" class="hero-avatar__image mx-auto w-1/2 object-cover"
           loading="lazy" />
@@ -49,9 +48,11 @@
 .hero {
   display: grid;
   grid-template-columns: minmax(50%, 700px) auto;
-  align-items: center;
-  padding: 1.5rem 0 0 0;
-  gap: 2rem;
+  align-items: start;
+  padding: 1.5rem 2rem 0 2rem;
+  gap: 3rem;
+  margin: 0 auto;
+  max-width: 1200px;
 }
 
 .hero__headline {
@@ -67,6 +68,7 @@
   opacity: 0.8;
   text-align: justify;
   max-width: 71ch;
+  padding-right: 2rem;
 }
 
 .hero-link {
@@ -100,10 +102,28 @@
 .hero-aside {
   display: flex;
   justify-self: end;
-  padding: 0 17px;
+  padding: 0 1rem 0 0.5rem;
 }
 
 @media screen and (min-width: 1024px) {
+  .hero {
+    padding: 1.5rem 2rem 0 2rem;
+    gap: 3rem;
+  }
+
+  .hero-content {
+    padding-right: 1rem;
+  }
+
+  .hero__description {
+    padding-right: 1rem;
+  }
+
+  .hero-aside {
+    padding: 0 1rem 0 0.5rem;
+    margin-top: 5rem;
+  }
+
   .hero::after {
     content: '';
     background-color: var(--color-gray-600);
@@ -138,6 +158,8 @@
 
   .hero-aside {
     padding: 0;
+    margin-top: 0rem;
+
   }
 }
 
@@ -158,7 +180,7 @@
 
   .hero__description {
     font-size: var(--text-base);
-    text-align: left;
+    text-align: justify;
   }
 }
 

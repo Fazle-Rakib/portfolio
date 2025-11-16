@@ -3,8 +3,9 @@
     <HeroSection />
     <InterestSection />
     <EducationSection />
-    <PostsList />
+    <PublicationsResearch />
     <ProjectsGrid />
+    <CTASection />
     <!-- <GithubProjects /> -->
   </main>
 </template>
