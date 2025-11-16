@@ -2,8 +2,7 @@
   <section class="ongoing-research-section">
     <h2>Ongoing Research</h2>
     <p>
-      I am currently working on several research projects that explore the intersection of AI, education, and
-      media analysis. These projects focus on practical applications and aim to address real-world challenges:
+      I am currently working on several research projects that explore the intersection of AI, NLP, prompt engineering, LLMs and security. These projects focus on practical applications and aim to address real-world challenges:
     </p>
 
     <div class="ongoing-research-list">

@@ -11,9 +11,6 @@
       <PublicationItem v-for="(publication, index) in publicationsData" :key="index" :title="publication.title"
         :authors="publication.authors" :venue="publication.venue" :links="publication.links" />
     </div>
-
-    <p class="research-focus">Focus on AI/ML applications for real-world societal challenges with emphasis on
-      low-resource languages.</p>
   </section>
 </template>
 
@@ -64,12 +61,6 @@ const publicationsData = ref(importedPublicationsData)
   margin: 2rem 0;
 }
 
-.research-focus {
-  font-style: italic;
-  color: var(--color-gray-600);
-  font-size: var(--text-base);
-}
-
 /* Dark theme support */
 body[data-theme='dark'] .research-contributions h2 {
   color: var(--color-default-white);
@@ -85,10 +76,6 @@ body[data-theme='dark'] .research-contributions a {
 
 body[data-theme='dark'] .research-contributions a:hover {
   color: var(--color-accent, #ff6b6b);
-}
-
-body[data-theme='dark'] .research-focus {
-  color: var(--color-gray-400);
 }
 
 /* Responsive design */
