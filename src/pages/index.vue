@@ -2,11 +2,12 @@
   <main id="main-content">
     <HeroSection />
     <InterestSection />
-    <EducationSection />
     <PublicationsResearch />
+    <OngoingResearch />
+    <EducationSection />
+    <ExperienceSection />
     <ProjectsGrid />
     <CTASection />
-    <!-- <GithubProjects /> -->
   </main>
 </template>
 
@@ -15,6 +16,8 @@ import { onMounted } from 'vue'
 import lozad from 'lozad'
 import { useRoute } from 'vue-router'
 import config from '@/config/siteconfig.json'
+import OngoingResearch from '@/components/research/OngoingResearch.vue'
+import ExperienceSection from '@/components/experience/ExperienceSection.vue'
 
 const { siteName: title } = config
 const { description } = config

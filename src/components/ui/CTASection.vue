@@ -22,11 +22,6 @@
       </div>
 
       <div class="cta-actions">
-        <AppLink to="/about-me" class="cta-link about-link" aria-label="Learn more about me">
-          <font-awesome-icon icon="fa fa-user" />
-          <span>Learn More About Me</span>
-        </AppLink>
-
         <a href="mailto:rakib-iict@sust.edu" class="cta-link email-link" aria-label="Send me an email">
           <font-awesome-icon icon="fa fa-envelope" />
           <span>Send Email</span>
