@@ -65,11 +65,10 @@ const getIcon = (type) => {
 }
 
 .projects-section h3 {
-  margin: 0 0;
+  margin: 0 0 0.75rem 0;
   font-size: var(--text-2xl);
   font-weight: 700;
   color: var(--color-gray-800);
-  margin-bottom: 2rem;
 }
 
 /* Dark theme support */

@@ -1,6 +1,6 @@
 <template>
-  <section class="ongoing-research-section">
-    <h2>Ongoing Research</h2>
+  <section class="ongoing-research-section container">
+    <h3>Ongoing Research</h3>
     <p>
       I am currently working on several research projects that explore the intersection of AI, NLP, prompt engineering, LLMs and security. These projects focus on practical applications and aim to address real-world challenges:
     </p>
@@ -21,15 +21,15 @@ const ongoingResearchData = ref([
     title: "Integrating LLMs for Effective C/C++ Learning: Opportunities and Impacts",
     period: "Apr 2025 – Present",
     description: "Built a classroom-deployed LLM-powered system that supports five instructional modes — General Question, Write Code, Fix Code, Explain Code, and Ask from Code — enabling students to receive structured, context-aware assistance while learning C/C++ programming. Implemented dynamic prompt templates, in-app feedback (ratings & checklists), and structured issue reporting; currently deployed to a cohort of 60 students and used to iteratively refine prompts.",
-    tags: ['Prompt Engineering', 'LLM', 'Personalized Learning'],
+    tags: ['AI for Education','Prompt Engineering', 'LLM', 'Personalized Learning'],
     status: "active",
     statusText: "Ongoing"
   },
   {
-    title: "BANMedBias: A Study of Media Bias and Credibility in Bangladesh",
+    title: "Evaluation of SCoT with different prompting strategies for Text-to-SQL generation ",
     period: "Sept 2025 – Present",
-    description: "Reviewed research on Bangla and cross-cultural media bias corpora, including dataset construction, annotation for stance and sentiment, and to guide the development of a Bangla news bias detection dataset and model pipeline for evaluating media framing and polarization patterns.",
-    tags: ['Media Bias Detection', 'Political Ideology', 'News Credibility', 'Sentiment Analysis', 'Bangla NLP'],
+    description: "A comparative study of Structured Chain-of-Thought (SCoT), CoT, QDecomp, QDecomp_InerCol and Standard prompting strategies for the Text-to-SQL generation task.",
+    tags: ['NLP', 'Text-to-SQL', 'Databases', 'Prompting Strategies', 'LLMs'],
     status: "active",
     statusText: "Ongoing"
   }
@@ -38,17 +38,17 @@ const ongoingResearchData = ref([
 
 <style scoped>
 .ongoing-research-section {
-  margin-bottom: 2.5rem;
+  margin-bottom: 2rem;
+  flex: auto;
+  flex-direction: column;
+  scroll-margin-top: 80px;
 }
 
-.ongoing-research-section h2 {
-  font-size: var(--text-xl);
+.ongoing-research-section h3 {
+  margin: 0 0 0.75rem 0;
+  font-size: var(--text-2xl);
   font-weight: 700;
   color: var(--color-gray-800);
-  margin-bottom: 1rem;
-  border-bottom: 2px solid var(--color-primary);
-  padding-bottom: 0.5rem;
-  display: inline-block;
 }
 
 .ongoing-research-section p {
@@ -57,15 +57,15 @@ const ongoingResearchData = ref([
   max-width: min(85ch, 100%);
   text-align: justify;
   line-height: 1.6;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 .ongoing-research-list {
-  margin: 2rem 0;
+  margin-top: 0.75rem;
 }
 
 /* Dark theme support */
-body[data-theme='dark'] .ongoing-research-section h2 {
+body[data-theme='dark'] .ongoing-research-section h3 {
   color: var(--color-default-white);
 }
 
@@ -82,13 +82,32 @@ body[data-theme='dark'] .ongoing-research-section a:hover {
 }
 
 /* Responsive design */
+@media screen and (max-width: 1024px) {
+  .ongoing-research-section {
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-top: 1.5rem;
+  }
+}
+
 @media screen and (max-width: 768px) {
-  .ongoing-research-section h2 {
-    font-size: var(--text-lg);
+  .ongoing-research-section h3 {
+    font-size: var(--text-xl);
   }
 
   .ongoing-research-section p {
     font-size: var(--text-base);
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .ongoing-research-section {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .ongoing-research-section h3 {
+    font-size: var(--text-lg);
   }
 }
 </style>

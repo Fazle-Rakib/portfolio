@@ -13,7 +13,7 @@
         <a href="https://github.com/Fazle-Rakib" class="hero-link" target="_blank" rel="noopener noreferrer">software
           engineering</a>
         , with a practical focus: turning real-world problems into simple, usable solutions that improve people’s lives.
-        Teaching and learning keep me energized, and I’m always up for the next challenge.
+        Teaching and learning keep me energized.
       </p>
       <p class="hero__description">
         I hold a Bachelor's degree in Software Engineering from Shahjalal University of Science and Technology(SUST).
