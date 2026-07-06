@@ -15,14 +15,7 @@ onMounted(() => {
   const setAttrValue = (el, attr, value) => el.setAttribute(attr, value)
 
   if (!storedTheme) {
-    const { matches: preferDarkScheme } = window.matchMedia(
-      '(prefers-color-scheme: dark)'
-    )
-    setAttrValue(
-      document.body,
-      'data-theme',
-      preferDarkScheme ? 'dark' : 'light'
-    )
+    setAttrValue(document.body, 'data-theme', 'light')
   } else {
     setAttrValue(document.body, 'data-theme', storedTheme)
   }
