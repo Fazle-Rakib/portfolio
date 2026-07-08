@@ -26,8 +26,16 @@ const ongoingResearchData = ref([
     statusText: "Ongoing"
   },
   {
-    title: "Evaluation of SCoT with different prompting strategies for Text-to-SQL generation ",
+    title: "Bangla News Bias Detection Dataset with Hierarchical Annotation and Benchmarking",
     period: "Sept 2025 – Present",
+    description: "Building a structured Bangla news bias corpus with hierarchical stance and sentiment annotation. Fine-tuned a transformer model benchmarked against six LLMs, outperforming all baselines; evaluating media framing and polarization patterns in Bangladeshi news.",
+    tags: ['Media Bias Detection', 'Bangla NLP', 'LLMs', 'Benchmarking'],
+    status: "active",
+    statusText: "Ongoing"
+  },
+  {
+    title: "Evaluation of SCoT with different prompting strategies for Text-to-SQL generation",
+    period: "Oct 2025 – Present",
     description: "A comparative study of Structured Chain-of-Thought (SCoT), CoT, QDecomp, QDecomp_InerCol and Standard prompting strategies for the Text-to-SQL generation task.",
     tags: ['NLP', 'Text-to-SQL', 'Databases', 'Prompting Strategies', 'LLMs'],
     status: "active",
