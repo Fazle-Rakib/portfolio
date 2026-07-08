@@ -9,16 +9,16 @@
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/portfolio/assets/virtual_pwa-register-51d51a6e.js"
+    "/portfolio/assets/virtual_pwa-register-b35ce59e.js"
   ],
   "../../../../../@vite-plugin-vue-layouts/generated-layouts": [
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "content/articles/badlad-document-layout-dataset.md": [
-    "/portfolio/assets/badlad-document-layout-dataset-b708a8ef.js"
+    "/portfolio/assets/badlad-document-layout-dataset-ecf04822.js"
   ],
   "content/articles/ood-speech-benchmark-dataset-bengali-asr.md": [
-    "/portfolio/assets/ood-speech-benchmark-dataset-bengali-asr-0aa8a6c0.js"
+    "/portfolio/assets/ood-speech-benchmark-dataset-bengali-asr-ce05bbab.js"
   ],
   "index.html": [
     "/portfolio/assets/profile-cd9ad85a.jpg"
@@ -105,7 +105,7 @@
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "src/assets/img/meme.png": [
-    "/portfolio/assets/_...all_-bdb55482.js",
+    "/portfolio/assets/_...all_-5f9ff79c.js",
     "/portfolio/assets/_...all_-157bc7ff.css",
     "/portfolio/assets/meme-281de563.png",
     "/portfolio/assets/water_drop-28b928c6.png"
@@ -114,7 +114,7 @@
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "src/assets/img/water_drop.png": [
-    "/portfolio/assets/_...all_-bdb55482.js",
+    "/portfolio/assets/_...all_-5f9ff79c.js",
     "/portfolio/assets/_...all_-157bc7ff.css",
     "/portfolio/assets/meme-281de563.png",
     "/portfolio/assets/water_drop-28b928c6.png"
@@ -132,27 +132,27 @@
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "src/components/article/ArticleControls.vue": [
-    "/portfolio/assets/article-7ca4b2f6.js",
+    "/portfolio/assets/article-12ff897c.js",
     "/portfolio/assets/article-fbe8c8aa.css"
   ],
   "src/components/article/ArticleControls.vue?vue&type=style&index=0&scoped=89889404&lang.css": [
-    "/portfolio/assets/article-7ca4b2f6.js",
+    "/portfolio/assets/article-12ff897c.js",
     "/portfolio/assets/article-fbe8c8aa.css"
   ],
   "src/components/article/ArticleHeading.vue": [
-    "/portfolio/assets/article-7ca4b2f6.js",
+    "/portfolio/assets/article-12ff897c.js",
     "/portfolio/assets/article-fbe8c8aa.css"
   ],
   "src/components/article/ArticleHeading.vue?vue&type=style&index=0&scoped=b815735e&lang.css": [
-    "/portfolio/assets/article-7ca4b2f6.js",
+    "/portfolio/assets/article-12ff897c.js",
     "/portfolio/assets/article-fbe8c8aa.css"
   ],
   "src/components/article/ArticlesHero.vue": [
-    "/portfolio/assets/index-b047002e.js",
+    "/portfolio/assets/index-ae94fbf9.js",
     "/portfolio/assets/index-68fada50.css"
   ],
   "src/components/article/ArticlesHero.vue?vue&type=style&index=0&scoped=f5b77914&lang.css": [
-    "/portfolio/assets/index-b047002e.js",
+    "/portfolio/assets/index-ae94fbf9.js",
     "/portfolio/assets/index-68fada50.css"
   ],
   "src/components/base/AppLink.vue": [
@@ -164,13 +164,13 @@
   "src/components/education/EducationSection.vue": [
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
-  "src/components/education/EducationSection.vue?vue&type=style&index=0&scoped=d23c6ac8&lang.css": [
+  "src/components/education/EducationSection.vue?vue&type=style&index=0&scoped=dcbafa8d&lang.css": [
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "src/components/experience/ExperienceSection.vue": [
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
-  "src/components/experience/ExperienceSection.vue?vue&type=style&index=0&scoped=d2f731f5&lang.css": [
+  "src/components/experience/ExperienceSection.vue?vue&type=style&index=0&scoped=fa04dc79&lang.css": [
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "src/components/hero/HeroAvatar.vue": [
@@ -210,11 +210,11 @@
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "src/components/posts/PostPreview.vue": [
-    "/portfolio/assets/index-b047002e.js",
+    "/portfolio/assets/index-ae94fbf9.js",
     "/portfolio/assets/index-68fada50.css"
   ],
   "src/components/posts/PostPreview.vue?vue&type=style&index=0&scoped=5b82b7c7&lang.css": [
-    "/portfolio/assets/index-b047002e.js",
+    "/portfolio/assets/index-ae94fbf9.js",
     "/portfolio/assets/index-68fada50.css"
   ],
   "src/components/projects/ProjectsGrid.vue": [
@@ -226,7 +226,7 @@
   "src/components/research/OngoingResearch.vue": [
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
-  "src/components/research/OngoingResearch.vue?vue&type=style&index=0&scoped=cd62adf7&lang.css": [
+  "src/components/research/OngoingResearch.vue?vue&type=style&index=0&scoped=1615a3a4&lang.css": [
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "src/components/research/OngoingResearchItem.vue": [
@@ -263,7 +263,7 @@
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "src/components/svg/SpotLightSVG.vue": [
-    "/portfolio/assets/_...all_-bdb55482.js",
+    "/portfolio/assets/_...all_-5f9ff79c.js",
     "/portfolio/assets/_...all_-157bc7ff.css",
     "/portfolio/assets/meme-281de563.png",
     "/portfolio/assets/water_drop-28b928c6.png"
@@ -272,11 +272,11 @@
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "src/components/ui/Button.vue": [
-    "/portfolio/assets/Button-b648f4a6.js",
+    "/portfolio/assets/Button-cf785a97.js",
     "/portfolio/assets/Button-bbe32c6c.css"
   ],
   "src/components/ui/Button.vue?vue&type=style&index=0&scoped=bea831e9&lang.css": [
-    "/portfolio/assets/Button-b648f4a6.js",
+    "/portfolio/assets/Button-cf785a97.js",
     "/portfolio/assets/Button-bbe32c6c.css"
   ],
   "src/components/ui/CTASection.vue": [
@@ -298,7 +298,7 @@
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "src/components/ui/ShareButton.vue": [
-    "/portfolio/assets/article-7ca4b2f6.js",
+    "/portfolio/assets/article-12ff897c.js",
     "/portfolio/assets/article-fbe8c8aa.css"
   ],
   "src/components/ui/SkipLink.vue": [
@@ -308,19 +308,19 @@
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "src/components/ui/Tag.vue": [
-    "/portfolio/assets/TagGroup-30403217.js",
+    "/portfolio/assets/TagGroup-bd0f8321.js",
     "/portfolio/assets/TagGroup-e861d612.css"
   ],
   "src/components/ui/Tag.vue?vue&type=style&index=0&scoped=cfb57437&lang.css": [
-    "/portfolio/assets/TagGroup-30403217.js",
+    "/portfolio/assets/TagGroup-bd0f8321.js",
     "/portfolio/assets/TagGroup-e861d612.css"
   ],
   "src/components/ui/TagGroup.vue": [
-    "/portfolio/assets/TagGroup-30403217.js",
+    "/portfolio/assets/TagGroup-bd0f8321.js",
     "/portfolio/assets/TagGroup-e861d612.css"
   ],
   "src/components/ui/TagGroup.vue?vue&type=style&index=0&scoped=0d2e9ba5&lang.css": [
-    "/portfolio/assets/TagGroup-30403217.js",
+    "/portfolio/assets/TagGroup-bd0f8321.js",
     "/portfolio/assets/TagGroup-e861d612.css"
   ],
   "src/components/ui/ThemeSwitcher.vue": [
@@ -336,11 +336,11 @@
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "src/layouts/article.vue": [
-    "/portfolio/assets/article-7ca4b2f6.js",
+    "/portfolio/assets/article-12ff897c.js",
     "/portfolio/assets/article-fbe8c8aa.css"
   ],
   "src/layouts/article.vue?vue&type=style&index=0&lang.css": [
-    "/portfolio/assets/article-7ca4b2f6.js",
+    "/portfolio/assets/article-12ff897c.js",
     "/portfolio/assets/article-fbe8c8aa.css"
   ],
   "src/layouts/default.vue": [
@@ -350,7 +350,7 @@
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "src/layouts/simple.vue": [
-    "/portfolio/assets/simple-743102d8.js"
+    "/portfolio/assets/simple-915438d2.js"
   ],
   "src/main.js": [
     "/portfolio/assets/profile-cd9ad85a.jpg"
@@ -368,38 +368,46 @@
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
   "src/pages/[...all].vue": [
-    "/portfolio/assets/_...all_-bdb55482.js",
+    "/portfolio/assets/_...all_-5f9ff79c.js",
     "/portfolio/assets/_...all_-157bc7ff.css",
     "/portfolio/assets/meme-281de563.png",
     "/portfolio/assets/water_drop-28b928c6.png"
   ],
   "src/pages/[...all].vue?vue&type=style&index=0&scoped=7d44177f&lang.css": [
-    "/portfolio/assets/_...all_-bdb55482.js",
+    "/portfolio/assets/_...all_-5f9ff79c.js",
     "/portfolio/assets/_...all_-157bc7ff.css",
     "/portfolio/assets/meme-281de563.png",
     "/portfolio/assets/water_drop-28b928c6.png"
   ],
   "src/pages/about-me.vue": [
-    "/portfolio/assets/about-me-e7918b6e.js"
+    "/portfolio/assets/about-me-509f9ffa.js"
   ],
   "src/pages/articles/index.vue": [
-    "/portfolio/assets/index-b047002e.js",
+    "/portfolio/assets/index-ae94fbf9.js",
     "/portfolio/assets/index-68fada50.css"
   ],
   "src/pages/articles/index.vue?vue&type=style&index=0&scoped=2d823a4a&lang.css": [
-    "/portfolio/assets/index-b047002e.js",
+    "/portfolio/assets/index-ae94fbf9.js",
     "/portfolio/assets/index-68fada50.css"
   ],
   "src/pages/index.vue": [
     "/portfolio/assets/profile-cd9ad85a.jpg"
   ],
-  "src/pages/now.md": [
-    "/portfolio/assets/now-5cf0223d.js",
-    "/portfolio/assets/now-58ca0513.css"
+  "src/pages/now/2024-09.md": [
+    "/portfolio/assets/2024-09-94e7690a.js",
+    "/portfolio/assets/2024-09-7a781ff2.css"
   ],
-  "src/pages/now.md?vue&type=style&index=0&scoped=7cf1bf4c&lang.css": [
-    "/portfolio/assets/now-5cf0223d.js",
-    "/portfolio/assets/now-58ca0513.css"
+  "src/pages/now/2024-09.md?vue&type=style&index=0&scoped=b717158e&lang.css": [
+    "/portfolio/assets/2024-09-94e7690a.js",
+    "/portfolio/assets/2024-09-7a781ff2.css"
+  ],
+  "src/pages/now/index.vue": [
+    "/portfolio/assets/index-870ca024.js",
+    "/portfolio/assets/index-aef99dba.css"
+  ],
+  "src/pages/now/index.vue?vue&type=style&index=0&scoped=e1daf505&lang.css": [
+    "/portfolio/assets/index-870ca024.js",
+    "/portfolio/assets/index-aef99dba.css"
   ],
   "virtual:vite-plugin-pages/generated-pages?id=virtual:generated-pages": [
     "/portfolio/assets/profile-cd9ad85a.jpg"

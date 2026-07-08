@@ -1,1 +1,0 @@
-import{m as o,o as t,c as r}from"./app-3465fad8.js";import{b as e}from"./route-block-83d24a4e.js";const c={__name:"about-me",setup(a){return o().replace("/"),(n,u)=>(t(),r("div"))}};typeof e=="function"&&e(c);export{c as default};
