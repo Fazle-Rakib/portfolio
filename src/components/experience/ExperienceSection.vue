@@ -153,7 +153,7 @@ body[data-theme='dark'] .experience-section h3 {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.5rem;
   flex-wrap: wrap;
   gap: 0.5rem;
 }
@@ -175,10 +175,10 @@ body[data-theme='dark'] .experience-role {
 }
 
 .experience-org {
-  font-size: var(--text-base);
+  font-size: var(--text-lg);
   opacity: 0.8;
-  margin: 0;
-  line-height: 1.5;
+  margin: 0 0 0.25rem 0;
+  line-height: 1.6;
 }
 
 .experience-org a {
@@ -259,6 +259,10 @@ body[data-theme='dark'] .courses-block h5 {
     padding-left: 18px;
     padding-right: 18px;
   }
+
+  .experience-timeline {
+    gap: 1.5rem;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -273,6 +277,11 @@ body[data-theme='dark'] .courses-block h5 {
   .experience-icon {
     width: 40px;
     height: 40px;
+    margin-top: 0.125rem;
+  }
+
+  .experience-timeline {
+    gap: 1.25rem;
   }
 
   .experience-role {
@@ -294,6 +303,32 @@ body[data-theme='dark'] .courses-block h5 {
   .course-grid {
     grid-template-columns: 1fr;
     gap: 0.25rem;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .experience-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+  }
+
+  .experience-period {
+    align-self: flex-start;
+    margin-top: 0.25rem;
+  }
+
+  .experience-item {
+    gap: 0.5rem;
+  }
+
+  .experience-icon {
+    width: 36px;
+    height: 36px;
+  }
+
+  .experience-timeline {
+    gap: 1rem;
   }
 }
 
@@ -319,12 +354,8 @@ body[data-theme='dark'] .courses-block h5 {
   }
 
   .experience-icon {
-    width: 36px;
-    height: 36px;
-  }
-
-  .experience-header {
-    gap: 0.25rem;
+    width: 32px;
+    height: 32px;
   }
 
   .experience-period {
