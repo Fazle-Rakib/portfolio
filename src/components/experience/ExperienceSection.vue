@@ -3,66 +3,39 @@
     <h3>Experience</h3>
 
     <div class="experience-timeline">
-      <!-- Industry -->
-      <div class="experience-item">
-        <div class="experience-icon industry">
-          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+      <div v-for="(entry, index) in experiences" :key="index" class="experience-item">
+        <div :class="['experience-icon', entry.icon]">
+          <svg v-if="entry.icon === 'industry'" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
             <path d="M20 6h-4V4c0-1.1-.9-2-2-2h-4c-1.1 0-2 .9-2 2v2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-8-2h4v2h-4V4zm8 16H4V8h16v12z"/>
           </svg>
-        </div>
-        <div class="experience-content">
-          <div class="experience-header">
-            <div class="experience-title-group">
-              <h4 class="experience-role">Software Engineer</h4>
-              <p class="experience-org">
-                <a href="https://pathao.com" target="_blank" rel="noopener noreferrer">Pathao Limited</a>
-                — Bangladesh's leading digital services platform
-              </p>
-            </div>
-            <span class="experience-period">2 years</span>
-          </div>
-          <ul class="experience-list">
-            <li>Developed and maintained multiple web portals and internal dashboards</li>
-            <li>Specialized in frontend development using modern technologies</li>
-            <li>Collaborated on scalable solutions serving millions of users</li>
-            <li>Gained expertise in HTML5, CSS3, JavaScript (ES6+), and Vue.js</li>
-          </ul>
-        </div>
-      </div>
-
-      <!-- Academia -->
-      <div class="experience-item">
-        <div class="experience-icon academia">
-          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+          <svg v-else-if="entry.icon === 'academia'" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
             <path d="M12 3L1 9l11 6 9-4.91V17H23V9L12 3zM5 13.18v4C5 19.46 8.33 21 12 21s7-1.54 7-3.82v-4L12 17l-7-3.82z"/>
           </svg>
+          <svg v-else xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+          </svg>
         </div>
+
         <div class="experience-content">
           <div class="experience-header">
             <div class="experience-title-group">
-              <h4 class="experience-role">Lecturer</h4>
+              <h4 class="experience-role">{{ entry.role }}</h4>
               <p class="experience-org">
-                Institute of Information and Communication Technology (IICT),
-                <a href="https://sust.edu" target="_blank" rel="noopener noreferrer">Shahjalal University of Science &
-                  Technology</a>
+                <a v-if="entry.orgUrl" :href="entry.orgUrl" target="_blank" rel="noopener noreferrer">{{ entry.org }}</a><span v-else>{{ entry.org }}</span><span v-if="entry.orgNote"> — {{ entry.orgNote }}</span>
               </p>
+              <p v-if="entry.progression" class="experience-progression">{{ entry.progression }}</p>
             </div>
-            <span class="experience-period">Present</span>
+            <span class="experience-period">{{ entry.period }}</span>
           </div>
-          <p class="experience-description">
-            Teaching core undergraduate courses while conducting research in AI, NLP, LLM and software engineering.
-          </p>
-          <div class="courses-block">
+
+          <ul v-if="entry.bullets && entry.bullets.length" class="experience-list">
+            <li v-for="(bullet, i) in entry.bullets" :key="i">{{ bullet }}</li>
+          </ul>
+
+          <div v-if="entry.courses && entry.courses.length" class="courses-block">
             <h5>Courses Taught</h5>
             <ul class="course-grid">
-              <li>Software Requirement Engineering</li>
-              <li>Object-Oriented Programming</li>
-              <li>Web Technologies</li>
-              <li>Software Usability and Metrics</li>
-              <li>Software Verification and Validation</li>
-              <li>Digital Image Processing</li>
-              <li>Information and Network Security</li>
-              <li>Computer Graphics and Image Processing</li>
+              <li v-for="(course, i) in entry.courses" :key="i">{{ course }}</li>
             </ul>
           </div>
         </div>
@@ -70,6 +43,78 @@
     </div>
   </section>
 </template>
+
+<script setup>
+import { ref } from 'vue'
+
+const experiences = ref([
+  {
+    role: 'Lecturer',
+    org: 'Institute of Information and Communication Technology (IICT), Shahjalal University of Science & Technology',
+    orgUrl: 'https://sust.edu',
+    orgNote: null,
+    period: 'Nov 2023 – Present',
+    icon: 'academia',
+    bullets: [
+      'Teaching core undergraduate courses in software engineering, web technologies, security, and image processing.',
+      'Actively collaborate with students and colleagues on ongoing research in NLP, LLMs, and software engineering.',
+    ],
+    courses: [
+      'Software Requirement Engineering',
+      'Object-Oriented Programming',
+      'Web Technologies',
+      'Software Usability and Metrics',
+      'Software Verification and Validation',
+      'Digital Image Processing',
+      'Information and Network Security',
+      'Computer Graphics and Image Processing',
+    ],
+  },
+  {
+    role: 'Undergraduate Research Supervisor',
+    org: 'Institute of Information and Communication Technology (IICT), Shahjalal University of Science & Technology',
+    orgUrl: 'https://sust.edu',
+    orgNote: null,
+    period: 'Mar 2024 – Present',
+    icon: 'academia',
+    bullets: [
+      'Mentored 7 undergraduate research groups (4 ongoing, 3 completed) spanning AI, NLP, software engineering, and LLMs.',
+      'Guide students through the full research lifecycle: problem formulation → literature review → methodology → evaluation → academic writing.',
+    ],
+    courses: [],
+  },
+  {
+    role: 'Software Engineer',
+    org: 'Pathao Limited',
+    orgUrl: 'https://pathao.com',
+    orgNote: "Bangladesh's leading digital services platform",
+    progression: 'Intern → Associate Software Engineer → Software Engineer I',
+    period: 'Jun 2022 – Dec 2023',
+    icon: 'industry',
+    bullets: [
+      'Built Pathao Pay web portals enabling secure payment workflows across ride and food services.',
+      'Developed internal dashboards for notification management and ride operations.',
+      'Remediated security-audit vulnerabilities, hardening the frontend against identified threats.',
+      'Designed and maintained a reusable frontend component library shared across teams.',
+    ],
+    courses: [],
+  },
+  {
+    role: 'Research Assistant',
+    org: 'Bengali.AI',
+    orgUrl: 'https://bengali.ai',
+    orgNote: null,
+    period: 'Oct 2021 – Jan 2023',
+    icon: 'research',
+    bullets: [
+      'Led and supervised 20+ annotators for OOD-Speech data collection and QA across Bengali dialect regions.',
+      'Designed annotation protocols and validation workflows to ensure dataset quality and consistency.',
+      'Collected and curated document images contributing to the BaDLAD document layout analysis dataset.',
+    ],
+    courses: [],
+  },
+])
+</script>
 
 <style scoped>
 .experience-section {
@@ -161,6 +206,13 @@ body[data-theme='dark'] .experience-role {
   text-decoration: underline;
 }
 
+.experience-progression {
+  font-size: var(--text-sm);
+  opacity: 0.7;
+  margin: 0.25rem 0 0 0;
+  font-style: italic;
+}
+
 .experience-period {
   font-size: var(--text-sm);
   font-weight: 600;
@@ -171,13 +223,6 @@ body[data-theme='dark'] .experience-role {
   white-space: nowrap;
   align-self: flex-start;
   margin-top: 0.1rem;
-}
-
-.experience-description {
-  font-size: var(--text-base);
-  opacity: 0.8;
-  line-height: 1.6;
-  margin: 0 0 0.75rem 0;
 }
 
 .experience-list {
