@@ -28,7 +28,7 @@ const ongoingResearchData = ref([
   {
     title: "Bangla News Bias Detection Dataset with Hierarchical Annotation and Benchmarking",
     period: "Sept 2025 – Present",
-    description: "Building a structured Bangla news bias corpus with hierarchical stance and sentiment annotation. Fine-tuned a transformer model benchmarked against six LLMs, outperforming all baselines; evaluating media framing and polarization patterns in Bangladeshi news.",
+    description: "Constructing a hierarchically annotated Bangla news bias dataset to support research on media framing and political polarization. The study is performed to evaluate a fine-tuned transformer model against six LLMs to establish strong baselines for Bangla news bias detection.",
     tags: ['Media Bias Detection', 'Bangla NLP', 'LLMs', 'Benchmarking'],
     status: "active",
     statusText: "Ongoing"

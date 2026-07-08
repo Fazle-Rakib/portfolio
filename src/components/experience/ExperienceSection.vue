@@ -55,10 +55,7 @@ const experiences = ref([
     orgNote: null,
     period: 'Nov 2023 – Present',
     icon: 'academia',
-    bullets: [
-      'Teaching core undergraduate courses in software engineering, web technologies, security, and image processing.',
-      'Actively collaborate with students and colleagues on ongoing research in NLP, LLMs, and software engineering.',
-    ],
+    bullets: [],
     courses: [
       'Software Requirement Engineering',
       'Object-Oriented Programming',
@@ -71,31 +68,19 @@ const experiences = ref([
     ],
   },
   {
-    role: 'Undergraduate Research Supervisor',
-    org: 'Institute of Information and Communication Technology (IICT), Shahjalal University of Science & Technology',
-    orgUrl: 'https://sust.edu',
-    orgNote: null,
-    period: 'Mar 2024 – Present',
-    icon: 'academia',
-    bullets: [
-      'Mentored 7 undergraduate research groups (4 ongoing, 3 completed) spanning AI, NLP, software engineering, and LLMs.',
-      'Guide students through the full research lifecycle: problem formulation → literature review → methodology → evaluation → academic writing.',
-    ],
-    courses: [],
-  },
-  {
     role: 'Software Engineer',
     org: 'Pathao Limited',
     orgUrl: 'https://pathao.com',
     orgNote: "Bangladesh's leading digital services platform",
-    progression: 'Intern → Associate Software Engineer → Software Engineer I',
-    period: 'Jun 2022 – Dec 2023',
+    progression: 'Intern → Associate Engineer → Software Engineer I',
+    period: 'Sep 2021 – Dec 2023',
     icon: 'industry',
     bullets: [
-      'Built Pathao Pay web portals enabling secure payment workflows across ride and food services.',
-      'Developed internal dashboards for notification management and ride operations.',
-      'Remediated security-audit vulnerabilities, hardening the frontend against identified threats.',
-      'Designed and maintained a reusable frontend component library shared across teams.',
+      'Developed and maintained web portals for Pathao Pay, supporting secure digital payment workflows and customer-facing services.',
+      'Collaborated in building and maintaining multiple internal dashboards to manage in-app notifications and ride operations.',
+      'Collaborated in addressing vulnerabilities identified through third-party security audits by updating dependencies, reducing coupling, and improving software robustness.',
+      'Designed and implemented reusable frontend components while collaborating with backend engineers, designers, QA engineers, and product managers.',
+      'Contributed to maintainable software through modular architecture, version control, and clean coding practices.',
     ],
     courses: [],
   },
@@ -107,9 +92,9 @@ const experiences = ref([
     period: 'Oct 2021 – Jan 2023',
     icon: 'research',
     bullets: [
-      'Led and supervised 20+ annotators for OOD-Speech data collection and QA across Bengali dialect regions.',
-      'Designed annotation protocols and validation workflows to ensure dataset quality and consistency.',
-      'Collected and curated document images contributing to the BaDLAD document layout analysis dataset.',
+      'Led and supervised a team of 20+ annotators in developing "OOD-Speech: A Large Bengali Speech Recognition Dataset for Out-of-Distribution Benchmarking". Oversaw data collection and QA to ensure dialectal and contextual diversity across Bengali-speaking regions.',
+      'Contributed to designing annotation protocols and validation workflows, helping establish OOD-Speech as a benchmark dataset for robust and inclusive Bengali ASR research.',
+      'Assisted in developing "BaDLAD: A Large Multi-Domain Bengali Document Layout Analysis Dataset" by collecting and curating document images from diverse real-world sources, contributing to the largest open-source Bengali dataset for document layout analysis and OCR research.',
     ],
     courses: [],
   },
@@ -214,10 +199,10 @@ body[data-theme='dark'] .experience-role {
 }
 
 .experience-period {
-  font-size: var(--text-sm);
+  font-size: var(--text-md);
   font-weight: 600;
   color: var(--color-primary);
-  background-color: var(--bg-color-primary-lighter, rgba(26, 188, 209, 0.1));
+  background-color: var(--color-primary-lighter, rgba(26, 188, 209, 0.1));
   padding: 0.25rem 0.75rem;
   border-radius: var(--radius-default);
   white-space: nowrap;
@@ -232,7 +217,7 @@ body[data-theme='dark'] .experience-role {
 }
 
 .experience-list li {
-  font-size: var(--text-base);
+  font-size: var(--text-lg);
   line-height: 1.6;
   margin-bottom: 0.5rem;
   opacity: 0.8;
@@ -243,7 +228,7 @@ body[data-theme='dark'] .experience-role {
 }
 
 .courses-block h5 {
-  font-size: var(--text-base);
+  font-size: var(--text-lg);
   font-weight: 700;
   color: var(--color-gray-800);
   margin: 0 0 0.5rem 0;
@@ -264,7 +249,7 @@ body[data-theme='dark'] .courses-block h5 {
 }
 
 .course-grid li {
-  font-size: var(--text-base);
+  font-size: var(--text-lg);
   line-height: 1.6;
   opacity: 0.8;
 }
@@ -290,6 +275,22 @@ body[data-theme='dark'] .courses-block h5 {
     height: 40px;
   }
 
+  .experience-role {
+    font-size: var(--text-md);
+  }
+
+  .experience-org,
+  .experience-list li,
+  .courses-block h5,
+  .course-grid li {
+    font-size: var(--text-base);
+  }
+
+  .experience-period {
+    font-size: var(--text-sm);
+    padding: 0.125rem 0.5rem;
+  }
+
   .course-grid {
     grid-template-columns: 1fr;
     gap: 0.25rem;
@@ -310,6 +311,13 @@ body[data-theme='dark'] .courses-block h5 {
     font-size: var(--text-base);
   }
 
+  .experience-org,
+  .experience-list li,
+  .courses-block h5,
+  .course-grid li {
+    font-size: var(--text-sm);
+  }
+
   .experience-icon {
     width: 36px;
     height: 36px;
@@ -320,8 +328,8 @@ body[data-theme='dark'] .courses-block h5 {
   }
 
   .experience-period {
-    font-size: var(--text-xsm);
-    padding: 0.2rem 0.5rem;
+    font-size: var(--text-xs);
+    padding: 0.125rem 0.375rem;
   }
 }
 </style>

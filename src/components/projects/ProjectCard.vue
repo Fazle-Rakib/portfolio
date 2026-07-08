@@ -84,6 +84,9 @@ const thumbnail_img = computed(() => {
 }
 
 .project-card .project-card__header p {
+  font-size: var(--text-lg);
+  line-height: 1.6;
+  text-align: justify;
   opacity: 0.8;
 }
 
@@ -117,6 +120,20 @@ body[data-theme='light'] .project-card__content {
   .project-thumbnail,
   .project-card .project-card__content {
     max-width: 100%;
+  }
+
+  .project-card .project-card__header h4 {
+    font-size: var(--text-base);
+  }
+
+  .project-card .project-card__header p {
+    font-size: var(--text-base);
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .project-card .project-card__header p {
+    font-size: var(--text-sm);
   }
 }
 </style>
