@@ -33,7 +33,7 @@ import { ref } from 'vue'
 const educationHistory = ref([
   {
     degree: 'BSc. in Software Engineering',
-    year: '2023',
+    year: '2018 – 2022',
     institution: 'Shahjalal University of Science and Technology, Sylhet',
     gpa: 'GPA: 3.93/4.00 - [1st/50]',
     courses: 'Data Structure and Algorithms, Introduction to Software Engineering, Software Requirement Engineering, Object Oriented Programming, Operating Systems and system programming, Computer Networking, Database Management System, Software Architecture and Design Patterns, Software Verification and Validation, Software Usability and Metrics, Software Project Management, Introduction to Data Science, Artificial Intelligence, Machine Learning, Computer and Network Security.'

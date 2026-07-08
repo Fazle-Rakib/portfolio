@@ -3,66 +3,39 @@
     <h3>Experience</h3>
 
     <div class="experience-timeline">
-      <!-- Industry -->
-      <div class="experience-item">
-        <div class="experience-icon industry">
-          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+      <div v-for="(entry, index) in experiences" :key="index" class="experience-item">
+        <div :class="['experience-icon', entry.icon]">
+          <svg v-if="entry.icon === 'industry'" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
             <path d="M20 6h-4V4c0-1.1-.9-2-2-2h-4c-1.1 0-2 .9-2 2v2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-8-2h4v2h-4V4zm8 16H4V8h16v12z"/>
           </svg>
-        </div>
-        <div class="experience-content">
-          <div class="experience-header">
-            <div class="experience-title-group">
-              <h4 class="experience-role">Software Engineer</h4>
-              <p class="experience-org">
-                <a href="https://pathao.com" target="_blank" rel="noopener noreferrer">Pathao Limited</a>
-                — Bangladesh's leading digital services platform
-              </p>
-            </div>
-            <span class="experience-period">2 years</span>
-          </div>
-          <ul class="experience-list">
-            <li>Developed and maintained multiple web portals and internal dashboards</li>
-            <li>Specialized in frontend development using modern technologies</li>
-            <li>Collaborated on scalable solutions serving millions of users</li>
-            <li>Gained expertise in HTML5, CSS3, JavaScript (ES6+), and Vue.js</li>
-          </ul>
-        </div>
-      </div>
-
-      <!-- Academia -->
-      <div class="experience-item">
-        <div class="experience-icon academia">
-          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+          <svg v-else-if="entry.icon === 'academia'" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
             <path d="M12 3L1 9l11 6 9-4.91V17H23V9L12 3zM5 13.18v4C5 19.46 8.33 21 12 21s7-1.54 7-3.82v-4L12 17l-7-3.82z"/>
           </svg>
+          <svg v-else xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+          </svg>
         </div>
+
         <div class="experience-content">
           <div class="experience-header">
             <div class="experience-title-group">
-              <h4 class="experience-role">Lecturer</h4>
+              <h4 class="experience-role">{{ entry.role }}</h4>
               <p class="experience-org">
-                Institute of Information and Communication Technology (IICT),
-                <a href="https://sust.edu" target="_blank" rel="noopener noreferrer">Shahjalal University of Science &
-                  Technology</a>
+                <a v-if="entry.orgUrl" :href="entry.orgUrl" target="_blank" rel="noopener noreferrer">{{ entry.org }}</a><span v-else>{{ entry.org }}</span><span v-if="entry.orgNote"> — {{ entry.orgNote }}</span>
               </p>
+              <p v-if="entry.progression" class="experience-progression">{{ entry.progression }}</p>
             </div>
-            <span class="experience-period">Present</span>
+            <span class="experience-period">{{ entry.period }}</span>
           </div>
-          <p class="experience-description">
-            Teaching core undergraduate courses while conducting research in AI, NLP, LLM and software engineering.
-          </p>
-          <div class="courses-block">
+
+          <ul v-if="entry.bullets && entry.bullets.length" class="experience-list">
+            <li v-for="(bullet, i) in entry.bullets" :key="i">{{ bullet }}</li>
+          </ul>
+
+          <div v-if="entry.courses && entry.courses.length" class="courses-block">
             <h5>Courses Taught</h5>
             <ul class="course-grid">
-              <li>Software Requirement Engineering</li>
-              <li>Object-Oriented Programming</li>
-              <li>Web Technologies</li>
-              <li>Software Usability and Metrics</li>
-              <li>Software Verification and Validation</li>
-              <li>Digital Image Processing</li>
-              <li>Information and Network Security</li>
-              <li>Computer Graphics and Image Processing</li>
+              <li v-for="(course, i) in entry.courses" :key="i">{{ course }}</li>
             </ul>
           </div>
         </div>
@@ -70,6 +43,63 @@
     </div>
   </section>
 </template>
+
+<script setup>
+import { ref } from 'vue'
+
+const experiences = ref([
+  {
+    role: 'Lecturer',
+    org: 'Institute of Information and Communication Technology (IICT), Shahjalal University of Science & Technology',
+    orgUrl: 'https://sust.edu',
+    orgNote: null,
+    period: 'Nov 2023 – Present',
+    icon: 'academia',
+    bullets: [],
+    courses: [
+      'Software Requirement Engineering',
+      'Object-Oriented Programming',
+      'Web Technologies',
+      'Software Usability and Metrics',
+      'Software Verification and Validation',
+      'Digital Image Processing',
+      'Information and Network Security',
+      'Computer Graphics and Image Processing',
+    ],
+  },
+  {
+    role: 'Software Engineer',
+    org: 'Pathao Limited',
+    orgUrl: 'https://pathao.com',
+    orgNote: "Bangladesh's leading digital services platform",
+    progression: 'Intern → Associate Engineer → Software Engineer I',
+    period: 'Sep 2021 – Dec 2023',
+    icon: 'industry',
+    bullets: [
+      'Developed and maintained web portals for Pathao Pay, supporting secure digital payment workflows and customer-facing services.',
+      'Collaborated in building and maintaining multiple internal dashboards to manage in-app notifications and ride operations.',
+      'Collaborated in addressing vulnerabilities identified through third-party security audits by updating dependencies, reducing coupling, and improving software robustness.',
+      'Designed and implemented reusable frontend components while collaborating with backend engineers, designers, QA engineers, and product managers.',
+      'Contributed to maintainable software through modular architecture, version control, and clean coding practices.',
+    ],
+    courses: [],
+  },
+  {
+    role: 'Research Assistant',
+    org: 'Bengali.AI',
+    orgUrl: 'https://bengali.ai',
+    orgNote: null,
+    period: 'Oct 2021 – Jan 2023',
+    icon: 'research',
+    bullets: [
+      'Led and supervised a team of 20+ annotators in developing "OOD-Speech: A Large Bengali Speech Recognition Dataset for Out-of-Distribution Benchmarking". Oversaw data collection and QA to ensure dialectal and contextual diversity across Bengali-speaking regions.',
+      'Contributed to designing annotation protocols and validation workflows, helping establish OOD-Speech as a benchmark dataset for robust and inclusive Bengali ASR research.',
+      'Assisted in developing "BaDLAD: A Large Multi-Domain Bengali Document Layout Analysis Dataset" by collecting and curating document images from diverse real-world sources, contributing to the largest open-source Bengali dataset for document layout analysis and OCR research.',
+    ],
+    courses: [],
+  },
+])
+</script>
 
 <style scoped>
 .experience-section {
@@ -123,7 +153,7 @@ body[data-theme='dark'] .experience-section h3 {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.5rem;
   flex-wrap: wrap;
   gap: 0.5rem;
 }
@@ -145,10 +175,10 @@ body[data-theme='dark'] .experience-role {
 }
 
 .experience-org {
-  font-size: var(--text-base);
+  font-size: var(--text-lg);
   opacity: 0.8;
-  margin: 0;
-  line-height: 1.5;
+  margin: 0 0 0.25rem 0;
+  line-height: 1.6;
 }
 
 .experience-org a {
@@ -161,23 +191,23 @@ body[data-theme='dark'] .experience-role {
   text-decoration: underline;
 }
 
-.experience-period {
+.experience-progression {
   font-size: var(--text-sm);
+  opacity: 0.7;
+  margin: 0.25rem 0 0 0;
+  font-style: italic;
+}
+
+.experience-period {
+  font-size: var(--text-md);
   font-weight: 600;
   color: var(--color-primary);
-  background-color: var(--bg-color-primary-lighter, rgba(26, 188, 209, 0.1));
+  background-color: var(--color-primary-lighter, rgba(26, 188, 209, 0.1));
   padding: 0.25rem 0.75rem;
   border-radius: var(--radius-default);
   white-space: nowrap;
   align-self: flex-start;
   margin-top: 0.1rem;
-}
-
-.experience-description {
-  font-size: var(--text-base);
-  opacity: 0.8;
-  line-height: 1.6;
-  margin: 0 0 0.75rem 0;
 }
 
 .experience-list {
@@ -187,7 +217,7 @@ body[data-theme='dark'] .experience-role {
 }
 
 .experience-list li {
-  font-size: var(--text-base);
+  font-size: var(--text-lg);
   line-height: 1.6;
   margin-bottom: 0.5rem;
   opacity: 0.8;
@@ -198,7 +228,7 @@ body[data-theme='dark'] .experience-role {
 }
 
 .courses-block h5 {
-  font-size: var(--text-base);
+  font-size: var(--text-lg);
   font-weight: 700;
   color: var(--color-gray-800);
   margin: 0 0 0.5rem 0;
@@ -219,7 +249,7 @@ body[data-theme='dark'] .courses-block h5 {
 }
 
 .course-grid li {
-  font-size: var(--text-base);
+  font-size: var(--text-lg);
   line-height: 1.6;
   opacity: 0.8;
 }
@@ -228,6 +258,10 @@ body[data-theme='dark'] .courses-block h5 {
   .experience-section {
     padding-left: 18px;
     padding-right: 18px;
+  }
+
+  .experience-timeline {
+    gap: 1.5rem;
   }
 }
 
@@ -243,11 +277,58 @@ body[data-theme='dark'] .courses-block h5 {
   .experience-icon {
     width: 40px;
     height: 40px;
+    margin-top: 0.125rem;
+  }
+
+  .experience-timeline {
+    gap: 1.25rem;
+  }
+
+  .experience-role {
+    font-size: var(--text-md);
+  }
+
+  .experience-org,
+  .experience-list li,
+  .courses-block h5,
+  .course-grid li {
+    font-size: var(--text-base);
+  }
+
+  .experience-period {
+    font-size: var(--text-sm);
+    padding: 0.125rem 0.5rem;
   }
 
   .course-grid {
     grid-template-columns: 1fr;
     gap: 0.25rem;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .experience-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+  }
+
+  .experience-period {
+    align-self: flex-start;
+    margin-top: 0.25rem;
+  }
+
+  .experience-item {
+    gap: 0.5rem;
+  }
+
+  .experience-icon {
+    width: 36px;
+    height: 36px;
+  }
+
+  .experience-timeline {
+    gap: 1rem;
   }
 }
 
@@ -265,18 +346,21 @@ body[data-theme='dark'] .courses-block h5 {
     font-size: var(--text-base);
   }
 
-  .experience-icon {
-    width: 36px;
-    height: 36px;
+  .experience-org,
+  .experience-list li,
+  .courses-block h5,
+  .course-grid li {
+    font-size: var(--text-sm);
   }
 
-  .experience-header {
-    gap: 0.25rem;
+  .experience-icon {
+    width: 32px;
+    height: 32px;
   }
 
   .experience-period {
-    font-size: var(--text-xsm);
-    padding: 0.2rem 0.5rem;
+    font-size: var(--text-xs);
+    padding: 0.125rem 0.375rem;
   }
 }
 </style>
